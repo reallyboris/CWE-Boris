@@ -50,6 +50,7 @@ country_event = {
 		release_vassal = XEF
 		XEF = {
 			government = colonial_government
+			civilized = no
 			country_event = 800054
 			ruling_party_ideology = conservative
 			capital = 2047 # Arusha
