@@ -1,0 +1,22 @@
+#below is better written
+political_decisions = {
+    soldierpop_fix = {
+	picture = "sydney_opera_house"
+        potential = {
+            ai = no
+            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+        }
+        allow = {
+        }
+        effect = {
+            		any_owned = {
+			any_pop = {
+				limit = { type = soldiers}
+				reduce_pop = 0.90
+				militancy = 8
+			}
+				
+		}
+        }
+    }
+}

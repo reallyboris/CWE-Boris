@@ -1,0 +1,25 @@
+#below is better written
+political_decisions = {
+    bureaucrats_fix = {
+	picture = "sydney_opera_house"
+        potential = {
+            ai = no
+            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+        }
+        allow = {
+        }
+        effect = {
+            		any_owned = {
+			any_pop = {
+				limit = { 
+					AND = {	is_primary_culture = no
+						is_accepted_culture = no    }
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}
+				
+		}
+        }
+    }
+}

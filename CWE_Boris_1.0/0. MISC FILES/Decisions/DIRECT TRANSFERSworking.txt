@@ -1,0 +1,53 @@
+political_decisions = {
+
+	Money_package = {
+		picture = "financial_stimulus"
+		potential = {
+			ai = no
+			NOT = { has_country_modifier = recent_financial_stimulus }
+		}
+		alert = no
+		allow = {
+			money = 25000000
+			war = no
+			election = no
+		}
+		
+		effect = {
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+			money = -2000000
+
+#		any_owned = { 
+#			limit = { is_core = yes } 
+
+			#Inject money into businesses
+			capitalists = { money = 1000 }
+			aristocrats = { money = 750 }
+			artisans = { money = 250 }
+			
+			#Inject money into the poor strata
+			farmers = { money = 200 }
+			clerks = { money = 350 }
+			labourers = { money = 200 }
+			craftsmen = { money = 325 }
+			bureaucrats = { money = 500 } 
+			officers = { money = 500 }
+			soldiers = { money = 500 }
+			clergymen = { money = 200 }
+			
+#			}
+			}
+
+		
+}
+	
+}

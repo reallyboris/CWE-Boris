@@ -1,0 +1,63 @@
+#below is better written
+political_decisions = {
+    toomanypop_fix = {
+	picture = "sydney_opera_house"
+        potential = {
+            ai = no
+            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+        }
+        allow = {
+        }
+        effect = {
+            		any_owned = {
+			any_pop = {
+				reduce_pop = 0.995
+				militancy = 0.05
+			}
+				
+		}
+        }
+    }
+}
+
+political_decisions = {
+    toofewpop_fix = {
+	picture = "sydney_opera_house"
+        potential = {
+            ai = no
+            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+        }
+        allow = {
+        }
+        effect = {
+            		any_owned = {
+			any_pop = {
+				reduce_pop = 1.005
+				militancy = 0.02
+			}
+				
+		}
+        }
+    }
+}
+
+political_decisions = {
+    WAYtoofewpop_fix_decision = {
+	picture = "sydney_opera_house"
+        potential = {
+            ai = no
+            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+        }
+        allow = {
+        }
+        effect = {
+            		any_owned = {
+			any_pop = {
+				reduce_pop = 1.05
+				militancy = 0.02
+			}
+				
+		}
+        }
+    }
+}
