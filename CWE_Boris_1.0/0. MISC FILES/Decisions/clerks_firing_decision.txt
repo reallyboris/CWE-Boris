@@ -9,7 +9,7 @@ political_decisions = {
         allow = {
         }
         effect = {
-            		any_owned = {
+            		any_owned = { limit = { is_core = THIS }
 			any_pop = {
 				limit = { 
 					AND = {	is_primary_culture = no
