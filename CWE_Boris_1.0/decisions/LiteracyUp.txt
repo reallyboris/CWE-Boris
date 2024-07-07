@@ -1,0 +1,26 @@
+political_decisions = {
+
+	Raise_Literacy = {
+		picture = "aerial_bombardment"
+		potential = { ai = no }
+		alert = no
+		allow = {
+			election = no
+		}
+		
+		effect = {
+
+		any_owned = { 
+		
+					any_pop = {
+						literacy = 0.005
+					}
+
+			}
+
+			}
+
+		
+}
+	
+}

@@ -6,9 +6,9 @@ political_decisions = {
 			civilized = no
 		}
 		
-#		allow = {
-#			is_vassal = no
-#		}
+		allow = {
+			is_vassal = no
+		}
 
 		effect = {
 			civilized = yes

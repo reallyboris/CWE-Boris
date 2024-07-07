@@ -343,6 +343,60 @@ country_event = {
 		set_country_flag = isrpopboom
 	}
 }
+#Arab population boom
+country_event = {
+	id = 1200237
+	title = "Arab Population Boom"
+	desc = "The war is over and the population is booming, many people are starting to feel that it is ok to have larger families."
+	picture = "germanpopulationboom"
+	
+	fire_only_once = yes
+	
+
+	
+	trigger = {
+		OR = { tag = SAA tag = IRQ tag = PER tag = KUW tag = QAT tag = BAH tag = UAE tag = QAT }
+		NOT = { has_country_flag = isrpopboom }
+
+	}
+	
+	option = {
+		name = "A higher birthrate is always good"
+
+		any_country = { limit = { OR = { tag = SAA tag = IRQ tag = PER tag = KUW tag = QAT tag = BAH tag = UAE tag = QAT }  } 
+		any_owned = {
+			add_province_modifier = { name = government_sanitarium duration = 1000 }
+		}
+		set_country_flag = isrpopboom
+		}
+	}
+}
+#SEA population boom
+country_event = {
+	id = 1200238
+	title = "SEA Population Boom"
+	desc = "The war is over and the population is booming, many people are starting to feel that it is ok to have larger families."
+	picture = "germanpopulationboom"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA }
+		NOT = { has_country_flag = isrpopboom }
+
+	}
+	
+	option = {
+		name = "A higher birthrate is always good"
+
+		any_country = { limit = { OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA }  } 
+		any_owned = {
+			add_province_modifier = { name = government_sanitarium duration = 1000 }
+		}
+		set_country_flag = isrpopboom
+		}
+	}
+}
 #GERMAN population boom
 country_event = {
 	id = 1200233
