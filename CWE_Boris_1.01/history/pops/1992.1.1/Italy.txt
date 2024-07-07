@@ -5581,7 +5581,7 @@
 	farmers = {
 		culture = italian
 		religion = secularism
-		size = 867
+		size = 860
 	 } 
 	farmers = {
 		culture = sardinian
