@@ -56,18 +56,10 @@ nuclear_ultimatum = {
 			country_event = 1331427
 
 			add_country_modifier = { name = nukes_used_recently duration = 365 }
-
-			badboy = 20
 			
 			set_global_flag = someone_is_firing_nukes
 
-			#Increase Pacifism
-			any_pop = {
-				dominant_issue = {
-					value = pacifism
-					factor = 0.25
-				}
-			}
+			
 
 		}
 	

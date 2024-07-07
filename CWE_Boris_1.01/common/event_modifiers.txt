@@ -2,6 +2,10 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+bureaucrats_fix_cooldown = {
+	icon = 12
+}
+
 medium_farm = {
     local_RGO_throughput = 10
 	icon = 9
