@@ -1071,7 +1071,7 @@ social_reforms = {
 			factory_throughput = -0.05
 			global_immigrant_attract = 0.1
 			tax_efficiency = -0.01
-			
+			min_social_spending = 0.05
 			pension_level = 1
 			administrative_multiplier = 1
 			
@@ -1084,7 +1084,7 @@ social_reforms = {
 			factory_throughput = -0.10
 			global_immigrant_attract = 0.2
 			tax_efficiency = -0.02
-			
+			min_social_spending = 0.10
 			pension_level = 2
 			administrative_multiplier = 2
 			
@@ -1097,7 +1097,7 @@ social_reforms = {
 			factory_throughput = -0.15
 			global_immigrant_attract = 0.3
 			tax_efficiency = -0.03
-			
+			min_social_spending = 0.15
 			pension_level = 3
 			administrative_multiplier = 3
 			
@@ -1110,7 +1110,7 @@ social_reforms = {
 			factory_throughput = -0.20
 			global_immigrant_attract = 0.4
 			tax_efficiency = -0.04
-			
+			min_social_spending = 0.20
 			pension_level = 4
 			administrative_multiplier = 4
 			
@@ -1130,6 +1130,7 @@ social_reforms = {
 			pension_level = 1
 			global_immigrant_attract = 0.1
 			global_population_growth = 0.001
+			min_social_spending = 0.05
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
@@ -1139,6 +1140,7 @@ social_reforms = {
 			pension_level = 2
 			global_immigrant_attract = 0.2
 			global_population_growth = 0.001
+			min_social_spending = 0.08
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
@@ -1149,6 +1151,7 @@ social_reforms = {
 			global_pop_consciousness_modifier = -0.01
 			global_immigrant_attract = 0.3
 			global_population_growth = 0.002
+			min_social_spending = 0.10
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
@@ -1159,6 +1162,7 @@ social_reforms = {
 			global_pop_consciousness_modifier = -0.02
 			global_immigrant_attract = 0.4
 			global_population_growth = 0.002
+			min_social_spending = 0.12
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
@@ -1178,26 +1182,32 @@ social_reforms = {
 			global_population_growth = 0.001
 			global_immigrant_attract = 0.1
 			administrative_multiplier = 1
+			pension_level = 1
+			min_social_spending = 0.05
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
 			}
 		}
 		low_health_care = {
-			global_population_growth = 0.0015
+			global_population_growth = 0.001
 			global_immigrant_attract = 0.2
 			administrative_multiplier = 2
 			global_pop_consciousness_modifier = -0.01
+			pension_level = 2
+			min_social_spending = 0.08
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
 			}
 		}
 		acceptable_health_care = {
-			global_population_growth = 0.002
-			global_immigrant_attract = 0.3
-			administrative_multiplier = 3
-			global_pop_consciousness_modifier = -0.02
+			global_population_growth = 0.003
+			global_immigrant_attract = 0.4
+			administrative_multiplier = 4
+			pension_level = 4
+			min_social_spending = 0.15
+			global_pop_consciousness_modifier = -0.03
 			
 			allow = { 
 				NOT = { has_country_flag = gridlocked_legislature }
@@ -1207,6 +1217,8 @@ social_reforms = {
 			global_population_growth = 0.003
 			global_immigrant_attract = 0.4
 			administrative_multiplier = 4
+			pension_level = 4
+			min_social_spending = 0.15
 			global_pop_consciousness_modifier = -0.03
 			
 			allow = { 
@@ -1225,7 +1237,7 @@ social_reforms = {
 			}
 		}
 		trinket_envir = {
-			factory_maintenance = 0.1
+			factory_maintenance = 0.05
 			administrative_multiplier = 1
 			RGO_output = -0.10
 			goods_demand = -0.05
@@ -1235,7 +1247,7 @@ social_reforms = {
 			}
 		}
 		low_envir = {
-			factory_maintenance = 0.2
+			factory_maintenance = 0.1
 			factory_throughput = -0.10			
 			administrative_multiplier = 2
 			RGO_output = -0.20
