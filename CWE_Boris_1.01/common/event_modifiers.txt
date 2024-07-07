@@ -6,6 +6,46 @@ bureaucrats_fix_cooldown = {
 	icon = 12
 }
 
+crat_1 = {
+    icon = 6
+}
+
+crat_2 = {
+    icon = 6
+}
+
+crat_3 = {
+    icon = 6
+}
+
+crat_4 = {
+    icon = 6
+}
+
+crat_5 = {
+    icon = 6
+}
+
+crat_6 = {
+    icon = 6
+}
+
+crat_7 = {
+    icon = 6
+}
+
+crat_8 = {
+    icon = 6
+}
+
+crat_9 = {
+    icon = 6
+}
+
+crat_10 = {
+    icon = 6
+}
+
 medium_farm = {
     local_RGO_throughput = 10
 	icon = 9
