@@ -40,7 +40,7 @@ money = -2000000
 		allow = {
 			money = 200000
 OR = { NOT = { badboy = 0.75 } ai = no }
-OR = { war_policy = jingoism has_country_modifier = defcon1 has_country_modifier = satellites_destroyed ai = no }
+OR = { war_policy = jingoism has_country_modifier = satellites_destroyed ai = no }
 		}
 
 		effect = {

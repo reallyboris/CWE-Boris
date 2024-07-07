@@ -41,7 +41,7 @@ political_decisions = {
 					year = 1949
 					money = 1000000
 					NOT = { has_country_modifier = chemical_weapons_convention }
-					has_country_modifier = defcon4
+#					has_country_modifier = defcon4
 					OR = { war_policy = jingoism government = proletarian_dictatorship government = proletarian_dictatorship1 }
 				}
 			}
