@@ -52,8 +52,11 @@ medium_farm = {
 }
 
 us_immigration_start_fix ={
-immigrant_attract = 1.5
-max_tax = 0.29
+immigrant_attract = 1.4
+}
+
+us_tax_start_fix ={
+max_tax = 0.25
 }
 
 pop_farm_debuff_timer = {

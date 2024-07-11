@@ -8,7 +8,6 @@ country_event = {
 	
 	trigger = {
 		tag = USA
-		year = 1945
 	}
 	
 #	mean_time_to_happen = {
@@ -69,6 +68,7 @@ country_event = {
 		money = 999999
 		money = 999999
 		add_country_modifier = { name = us_immigration_start_fix duration = 780 } 
+		add_country_modifier = { name = us_tax_start_fix duration = 3650 } 
 	}
 }
 
