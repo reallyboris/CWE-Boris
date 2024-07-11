@@ -20,7 +20,7 @@ political_decisions = {
 				sphere_owner = { OR = { has_country_flag = xpi_ambition NOT = { has_country_flag = deny_superstate } } }
 			}
 			OR = { government = democracy government = hms_government government = hms_government1 }
-			bank_for_international_settlements = 1
+			year = 1960
 			war = no
 		}
 		
@@ -105,7 +105,7 @@ political_decisions = {
 		allow = {
 			has_country_flag = xpi_ambition
 			OR = { government = democracy government = hms_government government = hms_government1 }
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 
@@ -129,7 +129,7 @@ political_decisions = {
 			has_country_flag = xpi_ambition
 			capital_scope = { has_province_modifier = single_market }
 			OR = { government = democracy government = hms_government government = hms_government1 }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -157,7 +157,7 @@ political_decisions = {
 			election = no
 			#has_unclaimed_cores = no
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 
 		effect = {
@@ -182,7 +182,7 @@ political_decisions = {
 			OR = { government = democracy government = hms_government government = hms_government1 }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 			#has_unclaimed_cores = no
 		}
 
@@ -211,7 +211,7 @@ political_decisions = {
 			OR = { government = democracy government = hms_government government = hms_government1 }
 			election = no
 			OR = { is_greater_power = yes is_secondary_power = yes }
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XPI = {
 				any_core = {
@@ -269,7 +269,7 @@ political_decisions = {
 			OR = { government = democracy government = hms_government government = hms_government1 }
 			election = no
 			OR = { is_greater_power = yes is_secondary_power = yes }
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 

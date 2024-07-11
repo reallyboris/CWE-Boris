@@ -23,7 +23,7 @@ political_decisions = {
 			NOT = { has_country_flag = tpp_ambition }
 			NOT = { has_country_modifier = in_bankrupcy }
 			
-			globalization = 1
+			colour_revolution = 1
 		}
 		allow = {
 			OR = { part_of_sphere = no sphere_owner = { has_country_flag = tpp_ambition } }
@@ -123,7 +123,7 @@ political_decisions = {
 				government = democracy
 				government = hms_government
 			}
-			political_polarization = 1
+			colour_revolution = 1
 			election = no
 			war = no
 		}

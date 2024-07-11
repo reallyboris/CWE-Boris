@@ -23,7 +23,7 @@ political_decisions = {
 
 			primary_culture = arab
 
-			wars_of_national_liberation = 1
+			year = 1955
 
 			has_recently_lost_war = no
 
@@ -83,7 +83,7 @@ political_decisions = {
 
 			primary_culture = arab
 
-			wars_of_national_liberation = 1
+			year = 1955
 
 			has_recently_lost_war = no
 

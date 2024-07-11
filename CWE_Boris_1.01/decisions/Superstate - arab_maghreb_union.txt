@@ -62,7 +62,7 @@ political_decisions = {
 					}
 				}
 			}
-			trust_busting = 1
+			year = 1960
 			war = no
 		}
 		effect = {
@@ -164,7 +164,7 @@ political_decisions = {
 				government = socialist_democracy
 			}
 			NOT = { religious_policy = pro_atheism }
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -196,7 +196,7 @@ political_decisions = {
 				government = socialist_democracy
 			}
 			NOT = { religious_policy = pro_atheism }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -232,7 +232,7 @@ political_decisions = {
 			election = no
 			#has_unclaimed_cores = no
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			all_core = { add_core = XMU }
@@ -265,7 +265,7 @@ political_decisions = {
 			NOT = { religious_policy = pro_atheism }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 			#has_unclaimed_cores = no
 		}
 		effect = {
@@ -304,7 +304,7 @@ political_decisions = {
 			election = no
             war = no
 			is_vassal = no
-			political_polarization = 1
+			second_cold_war = 1
 			
 			#A neighbouring nation must also be in the XMU
 			any_neighbor_country = { is_vassal = no war = no has_country_flag = xmu_ambition }
@@ -354,7 +354,7 @@ political_decisions = {
             war = no
 			is_vassal = no
 			election = no
-			political_polarization = 1
+			second_cold_war = 1
 			
 			#Has eligible states
 			XMU = {

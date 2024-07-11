@@ -21,7 +21,7 @@ OR = { part_of_sphere = no sphere_owner = { OR = { has_country_flag = xms_ambiti
 
 NOT = { government = proletarian_dictatorship }
 
-			bank_for_international_settlements = 1
+			year = 1960
 			war = no
 			NOT = { exists = XSU }
 			NOT = { exists = XAC }
@@ -102,7 +102,7 @@ NOT = { has_country_flag = hide_superstate }
 			OR = { government = democracy1 government = democracy government = hms_government government = hms_government1 government = socialist_democracy ruling_party_ideology = socialist ruling_party_ideology = communist_social }
 
 NOT = { government = proletarian_dictatorship }
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -124,7 +124,7 @@ NOT = { has_country_flag = hide_superstate }
 			OR = { government = democracy1 government = democracy government = hms_government government = hms_government1 government = socialist_democracy ruling_party_ideology = socialist ruling_party_ideology = communist_social }
 
 NOT = { government = proletarian_dictatorship }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -152,7 +152,7 @@ NOT = { government = proletarian_dictatorship }
 			#has_unclaimed_cores = no
 
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			all_core = { add_core = XMS }
@@ -174,7 +174,7 @@ NOT = { has_country_flag = hide_superstate }
 NOT = { government = proletarian_dictatorship }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 
 			#has_unclaimed_cores = no
 
@@ -205,7 +205,7 @@ NOT = { government = proletarian_dictatorship }
 
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XMS = { any_core = { owner = { war = no OR = { tag = THIS in_sphere = THIS vassal_of = THIS } has_country_flag = xms_ambition } } }
 		}
@@ -243,7 +243,7 @@ NOT = { government = proletarian_dictatorship }
 
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 		effect = {

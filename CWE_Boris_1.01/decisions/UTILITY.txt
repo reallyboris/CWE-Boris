@@ -412,38 +412,38 @@ political_decisions = {
         }
     }
 
-	allow_transfer = {
-		picture = transfer
-		alert = no
-		potential = {
-			has_country_flag = show_util
-			ai = no
-			has_country_flag = show_transfer
-			NOT = {has_country_flag = allow_transfer}
-		}
-		allow = {
-			
-		}
-		effect = {
-			set_country_flag = allow_transfer
-		}
-	}
-
-	deny_transfer = {
-		picture = transfer
-		alert = no
-		potential = {
-			has_country_flag = show_util
-			ai = no
-			has_country_flag = show_transfer
-			has_country_flag = allow_transfer
-		}
-		allow = {
-			
-		}
-		effect = {
-			clr_country_flag = allow_transfer
-		}
-	}
+#	allow_transfer = {
+#		picture = transfer
+#		alert = no
+#		potential = {
+#			has_country_flag = show_util
+#			ai = no
+#			has_country_flag = show_transfer
+#			NOT = {has_country_flag = allow_transfer}
+#		}
+#		allow = {
+#			
+#		}
+#		effect = {
+#			set_country_flag = allow_transfer
+#		}
+#	}
+#
+#	deny_transfer = {
+#		picture = transfer
+#		alert = no
+#		potential = {
+#			has_country_flag = show_util
+#			ai = no
+#			has_country_flag = show_transfer
+#			has_country_flag = allow_transfer
+#		}
+#		allow = {
+#			
+#		}
+#		effect = {
+#			clr_country_flag = allow_transfer
+#		}
+#	}
 
 }

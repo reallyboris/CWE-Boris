@@ -23,7 +23,7 @@ political_decisions = {
 				}
 			}
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
-			bank_for_international_settlements = 1
+			year = 1960
 			war = no
 		}
 		effect = {
@@ -100,7 +100,7 @@ political_decisions = {
 		allow = {
 			has_country_flag = xau_ambition
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -120,7 +120,7 @@ political_decisions = {
 			has_country_flag = xau_ambition
 			capital_scope = { has_province_modifier = single_market }
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -144,7 +144,7 @@ political_decisions = {
 			election = no
 			
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			any_owned = { limit = { continent = africa } add_core = XAU }
@@ -166,7 +166,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 			#has_unclaimed_cores = no
 		}
 		effect = {
@@ -191,7 +191,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XAU = { any_core = { owner = { war = no OR = { tag = THIS in_sphere = THIS vassal_of = THIS } has_country_flag = xau_ambition } } }
 		}
@@ -221,7 +221,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 		effect = {

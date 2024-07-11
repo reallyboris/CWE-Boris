@@ -8533,6 +8533,7 @@ country_event = {
 		name = "We need to prevent overpopulation"
 
 		add_country_modifier = { name = one_child_policy_mod duration = 14600 }
+		set_global_flag = chinese_child
 
 		#Increase literacy and militancy
 		any_owned = {

@@ -399,7 +399,7 @@ fire_only_once = yes
 	}
 
 	option = {
-		name = "Pivot towards Europe"
+		name = "Pivot towards Europe(DISABLES Imperial Fed route)"
 any_country = {
 limit = { is_vassal = no capital_scope = { continent = europe } }
 relation = { who = THIS value = 50 }
@@ -409,7 +409,7 @@ relation = { who = THIS value = 50 }
 	}
 
 	option = {
-		name = "Keep ties with the Commonwealth"
+		name = "Keep ties with the Commonwealth(Imperial Fed route)"
 any_country = {
 limit = { is_vassal = no in_sphere = THIS }
 relation = { who = THIS value = 50 }

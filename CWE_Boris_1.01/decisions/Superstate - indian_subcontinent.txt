@@ -15,7 +15,7 @@ political_decisions = {
 			NOT = { has_country_modifier = in_bankrupcy } 
 			OR = { part_of_sphere = no sphere_owner = { OR = { has_country_flag = xio_ambition NOT = { has_country_flag = deny_superstate } } } }
 			OR = { government = socialist_democracy government = democracy1 government = democracy government = hms_government government = hms_government1 }
-			bank_for_international_settlements = 1
+			year = 1960
 			war = no
 		}
 
@@ -113,7 +113,7 @@ political_decisions = {
 					government = hms_government
 					government = hms_government1
 				}
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 
@@ -143,7 +143,7 @@ political_decisions = {
 				government = hms_government
 				government = hms_government1
 			}
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -176,7 +176,7 @@ political_decisions = {
 			election = no
 			
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			all_core = { add_core = XIO }
@@ -202,7 +202,7 @@ political_decisions = {
 			}
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 	
 		}
 		effect = {
@@ -234,7 +234,7 @@ political_decisions = {
 			}
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XIO = { any_core = { owner = { war = no OR = { tag = THIS in_sphere = THIS vassal_of = THIS } has_country_flag = xio_ambition } } }
 		}
@@ -281,7 +281,7 @@ political_decisions = {
 			}
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 

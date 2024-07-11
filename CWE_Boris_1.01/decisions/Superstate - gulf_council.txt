@@ -99,7 +99,7 @@ political_decisions = {
 		}
 		allow = {
 			has_country_flag = xgc_ambition
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -125,7 +125,7 @@ political_decisions = {
 			has_country_flag = xgc_ambition
 			capital_scope = { has_province_modifier = single_market }
 			NOT = { OR = { ruling_party_ideology = nationalist ruling_party_ideology = populist } }
-			economic_globalization = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -152,7 +152,7 @@ political_decisions = {
 			capital_scope = { has_province_modifier = currency_union_province }
 			NOT = { OR = { ruling_party_ideology = nationalist ruling_party_ideology = populist } }
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			all_core = { add_core = XGC }
@@ -177,7 +177,7 @@ political_decisions = {
 			capital_scope = { is_core = XGC }
 			NOT = { OR = { ruling_party_ideology = nationalist ruling_party_ideology = populist } }
 			war = no
-			age_of_protests = 1
+			year = 1980
 			#has_unclaimed_cores = no
 		}
 		effect = {
@@ -207,7 +207,7 @@ political_decisions = {
 			capital_scope = { has_province_modifier = defence_union } 
 			NOT = { OR = { ruling_party_ideology = nationalist ruling_party_ideology = populist } }
 			OR = { is_greater_power = yes is_secondary_power = yes }
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XGC = { any_core = { owner = { war = no OR = { tag = THIS in_sphere = THIS vassal_of = THIS } has_country_flag = xgc_ambition } } }
 		}
@@ -234,7 +234,7 @@ political_decisions = {
 		allow = {
 			NOT = { OR = { ruling_party_ideology = nationalist ruling_party_ideology = populist } }
 			OR = { is_greater_power = yes is_secondary_power = yes }
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 		effect = {

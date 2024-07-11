@@ -20,7 +20,7 @@ political_decisions = {
 			NOT = { has_country_flag = xna_ambition }
 		}
 		allow = {
-			OR = { new_synthesis = 1 has_country_flag = british_empire_choice ENG = { has_country_flag = british_empire_choice } }
+			OR = { year = 1960 has_country_flag = british_empire_choice ENG = { has_country_flag = british_empire_choice } }
 			OR = {
 				is_greater_power = yes
 				AND = {
@@ -129,7 +129,7 @@ political_decisions = {
 				primary_culture = black_anglo
 			}
 			OR = { government = hms_government government = hms_government1 }
-			capitalism = 1
+			year = 1980
 			war = no
 		}
 		effect = {
@@ -157,7 +157,7 @@ political_decisions = {
 		}
 		allow = {
 			OR = { government = hms_government government = hms_government1 }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 		}
@@ -192,7 +192,7 @@ political_decisions = {
 
 			war = no
 
-			commodities_and_credit = 1
+			year = 1980
 		}
 		effect = {
 			all_core = { add_core = IMP }
@@ -220,7 +220,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 			#has_unclaimed_cores = no
 		}
 		effect = {
@@ -253,7 +253,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			is_greater_power = yes 
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             IMP = {
                 any_core = {
@@ -323,7 +323,7 @@ political_decisions = {
 			OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
 			election = no
 			is_greater_power = yes 
-			political_polarization = 1
+			second_cold_war = 1
             war = no
 		}
 

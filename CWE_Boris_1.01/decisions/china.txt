@@ -326,6 +326,30 @@ modifier = { factor = 0 OR = { KMT = { ai = no } CHI = { ai = no } } }
 		ai_will_do = { factor = 1 }
 
 	}	
+
+
+	One_Child_Policy = {
+		picture = "one_child_policy_evt"
+		potential = {
+		tag = CHI
+		ai = no
+		NOT = { has_global_flag = chinese_child }
+		}
+		
+		allow = {
+			government = proletarian_dictatorship
+			war = no
+			owns = 2221
+			NOT = { literacy = 0.08 }
+		}
+
+		effect = {
+			country_event = {id = 1512219 days = 0}
+		}
+		
+		ai_will_do = { factor = 0 }
+		
+	}
 	
 	
 }

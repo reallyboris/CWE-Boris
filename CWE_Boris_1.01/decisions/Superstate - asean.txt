@@ -7,7 +7,7 @@ political_decisions = {
 		picture = "xan_ambition"
 		potential = {
 			NOT = { has_country_flag = hide_superstate }
-			bank_for_international_settlements = 1
+			year = 1960
 			OR = { tag = BUR tag = SWK tag = THI tag = MSY tag = IDO tag = DAI tag = CAM tag = TIM tag = LUA tag = BRU tag = SNG tag = PHI tag = ICU tag = FMS tag = SAB tag = ATJ tag = HKG }
 			NOT = { has_country_flag = xan_ambition } 
 		}
@@ -20,7 +20,7 @@ political_decisions = {
 				sphere_owner = { OR = { has_country_flag = xan_ambition NOT = { has_country_flag = deny_superstate } } }
 			}
 			OR = { government = socialist_democracy government = democracy government = democracy1 government = hms_government government = hms_government1 government = presidential_dictatorship government = absolute_monarchy }
-			new_synthesis = 1
+			year = 1960
 			war = no
 			is_vassal = no
 		}
@@ -99,7 +99,7 @@ political_decisions = {
 
 		allow = {
 			has_country_flag = xan_ambition
-			capitalism = 1
+			year = 1980
 			war = no
 NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
 		}
@@ -123,7 +123,7 @@ NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = national
 		allow = {
 			has_country_flag = xan_ambition
 capital_scope = { has_province_modifier = single_market }
-			economic_globalization = 1
+			year = 1980
 			election = no
 			war = no
 NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
@@ -150,7 +150,7 @@ NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = national
 			capital_scope = { has_province_modifier = currency_union_province }
 			election = no
 			war = no
-			commodities_and_credit = 1
+			year = 1980
 NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
 		}
 
@@ -175,7 +175,7 @@ NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = national
 			capital_scope = { is_core = XAN }
 			election = no
 			war = no
-			age_of_protests = 1
+			year = 1980
 NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
 		}
 
@@ -200,10 +200,10 @@ NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = national
 
 		allow = {
 			has_country_flag = xan_ambition
-capital_scope = { has_province_modifier = defence_union } 
+			capital_scope = { has_province_modifier = defence_union } 
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             war = no
             XAN = { 
 				any_core = { 
@@ -248,12 +248,11 @@ capital_scope = { has_province_modifier = defence_union }
 				any_core = { 
 					owner = { 
 						NOT = { tag = THIS }
-NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
-
-OR = { government = socialist_democracy government = democracy government = democracy1 government = hms_government government = hms_government1 government = presidential_dictatorship government = absolute_monarchy }
-			OR = { in_sphere = THIS vassal_of = THIS } 
+					NOT = { OR = { ruling_party_ideology = populist ruling_party_ideology = nationalist ruling_party_ideology = traditionalist } }
+					OR = { government = socialist_democracy government = democracy government = democracy1 government = hms_government government = hms_government1 government = presidential_dictatorship government = absolute_monarchy }
+					OR = { in_sphere = THIS vassal_of = THIS } 
 					has_country_flag = xan_ambition
-		NOT = { has_country_modifier = rejected_union }
+					NOT = { has_country_modifier = rejected_union }
 					}
 				}
 			}
@@ -262,7 +261,7 @@ OR = { government = socialist_democracy government = democracy government = demo
 		allow = {
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             	war = no
 		}
 

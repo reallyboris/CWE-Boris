@@ -1,4 +1,78 @@
-;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,
+nv_autocracy;Autocracy;;;;;;;;;;;;x
+nv_tradition;Tradition;;;;;;;;;;;;x
+nv_productivity;Productivity;;;;;;;;;;;;x
+nv_education;Education;;;;;;;;;;;;x
+nv_diplomacy;Diplomacy;;;;;;;;;;;;x
+change_national_value_on_title;Change National Value (Hidden);;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+change_national_value_on_desc;Show National Value Decisions.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+change_national_value_off_title;Change National Value (Showing);;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+change_national_value_off_desc;Hide National Value Decisions.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+switch_to_diplomacy_title;Embrace the Ideal of Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_diplomacy_desc;The channels of power require an eye for detail, a fine touch, and a silver tongue. Let our people focus our energies into refining these qualities so we may be masters over those who are less.. refined.\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic Points Generation: +100%\nBase Influence Points Generation: +20%\nCB Generation Speed: +15%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_education_title;Embrace the Ideal of Education;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_education_desc;Our people must look forward, ignoring the wanton worries of our rivals. Wield logic and rationality to march forward!\n\n§YThe modifiers for this NV are:§W\n§GEducation Efficiency: +20%\nResearch Points Modifier: +15%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_order_desc;The foreigners progress and dominate through an orderly and organized society, based on a sense of duty to their country. If we were to embrace this ideal, we might strive as they do.\n\n§YThe modifiers for this NV are:§W\n§G2% Soldier Promotion Chance\nOrganization Regain Rate: +10%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_production_desc;The foreigners progress through an industrious society based on hard work. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GRGO Throughput: +10%\nFactory Input: -5%\nFactory Output: +5%\nIndustry Tech Research Bonus: 5%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_autocracy_title;Embrace the Ideal of Autocracy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_autocracy_desc;The foreigners progress through a society based on strong leadership, obedience and loyalty. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GRuling Party Support: +30%\nLeadership Modifier: 100%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n\n§YThe modifiers for this NV are:§W\n§GBonus Assimilation Rate: +35%\nCulture Tech Research Bonus: 5%§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+switch_to_liberty_title;Embrace the Ideal of Liberty;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+switch_to_liberty_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of liberty and personal freedom above all else.\n\n§YThe modifiers for this NV are:§W\n§GPolitical Reform Desire: +12.5%\n§GSocial Reform Desire: +12.5%\nCommerce Tech Research Bonus: 5%\n Your Nation may radicalize, be careful!§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+national_confusion;National Confusion;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+academic_confusion;Academic Confusion;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+change_tech_school_on_title;Change Tech School (Hidden);;;;;;;;;;;;;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;;;;;;;;;;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;;;;;;;;;;;;x
+change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;;;;;;;;x
+academic_confusion_desc;Our academia is in a state of disarray, following a paradigm shift within our academic establishment. Our prestige and research will be hampered while the effect lasts.;;;;;;;;;;;;;;x
+switch_to_traditional_academic_title;Restore The Academia;;;;;;;;;;;;;;x
+switch_to_traditional_academic_desc;Many within our academic circles feel that the present direction of our academia suffers from an undue bias, and that we should return to a more traditional academic profile.;;;;;;;;;;;;;;x
+switch_to_army_tech_title;Military-Industrial Complex;;;;;;;;;;;;;;x
+switch_to_army_tech_desc;Cooperation between private industrialists and the military, on the issues of national defense and war policy, have led to the development of a particularly important web of connections, personal ties and acquaintances, with just an ever so slight hint of corruption, that can best be described as a Military-Industrial Complex. By furthering the goals and ambitions of these informal networks within our academia, we can boost industrial and military research, at the expense of navy and culture.;;;;;;;;;;;;;;x
+switch_to_navy_tech_title;Sea power & The Merchant Marine;;;;;;;;;;;;;;x
+switch_to_navy_tech_desc;It has been said that the best way to get ahead in our country is to go via the naval schools. Much of our country's military and political elites have been educated navy men, or have served in the merchant marine. The navy's importance for a seafaring country like our own cannot be underestimated, and by promoting these groups and backgrounds politically, we can ensure that our naval technology will develop at an increased rate, at the expense, however, of other fields of research.;;;;;;;;;;;;;;x
+switch_to_culture_tech_title;Avantgarde Intelligentsia;;;;;;;;;;;;;;x
+switch_to_culture_tech_desc;A cultural and ideological avantgarde within our country has, during the past years, been undertaking a long march through our academic institutions. By steadily working their way up the rungs of the academic ladder, these radical new ideologues are now in a position to completely subvert our academic institutions to better suit their ideological agenda. By supporting their cause, we can increase the speed of our cultural research, to the detriment, however, of other spheres of intellectual progress.;;;;;;;;;;;;;;x
+switch_to_trade_tech_title;Tycoon Capitalism & Business Schools;;;;;;;;;;;;;;x
+switch_to_trade_tech_desc;Our country has under the past years come increasingly under the sway of select cliques of people who have all been educated at the same, or similar, elite business schools and companies. By supporting these groups, we can ensure that our academia's focus lies where it matters: in the fields of commerce and industry. This change will, however, come at the expense of other fields of research.;Depuis quelques années, notre pays est en proie à des groupes de personnes, notre pays qui ont toutes suivi le même enseignement au sein d'écoles commerciales et d'entreprises similaires. En soutenant ces groupes, nous pourrons veiller à ce que notre académie se concentre sur ce qui importe : les domaines du commerce et de l'industrie. Cependant, un tel changement s'opérera au détriment d'autres domaines de recherche.;;;;;;;;;;;;;;x
+switch_to_industry_tech_title;Corporative Industrialism;;;;;;;;;;;;;;x
+NORMAL_WAR_INSTALL_NEW_GOV_NAME;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
+AGRESSION_WAR_INSTALL_NEW_GOV_NAME;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
+will_receive_title;Request A Grant;;;;;;;;;;;;x
+will_receive_desc;This will request a grant from other players. Please note they must have choosen the decision to enable giving grants for the request to go through. It can be reversed at any time.;;;;;;;;;;;;x
+#will_not_receive_title;Disable Receiving Grants;;;;;;;;;;;;x
+#will_not_receive_desc;This will prohibit other players from giving us grants. It can be reversed at any time.;;;;;;;;;;;;x
+will_give_title;Enable Giving Grants;;;;;;;;;;;;x
+will_give_desc;This will allow us to give grants to other players. It must be activated before a player chooses to request grants. It can be reversed at any time.;;;;;;;;;;;;x
+will_not_give_title;Disable Giving Grants;;;;;;;;;;;;x
+will_not_give_desc;This will prevent us from getting events when other players request grants. It can be reversed at any time.;;;;;;;;;;;;x
+EVTNAME2600;$STATENAME$ Integration;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC2600;$COUNTRY$ has maintained control over $STATENAME$ for us to consider the possibility of integrating it into $COUNTRY$ as a whole. There are $COUNTRY_ADJ$ flags waving in $PROVINCENAME$, flown by $COUNTRY_ADJ$ citizens, so it does not seem so far-fetched an idea that $STATENAME$ be eventually considered $COUNTRY_ADJ$ territory by the world at large.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+EVTNAME2605;$PROVINCENAME$ Integrated into $COUNTRY$;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC2605;$COUNTRY$ has controlled $PROVINCENAME$ for a long time-- long enough for those within $PROVINCENAME$ to truly consider themselves $COUNTRY_ADJ$ citizens, and for the rest of the world to consider the $COUNTRY_ADJ$ claim to the province to be legitimate as well. Though there are still some unhappy with the development, $PROVINCENAME$ is now considered an integral part of $COUNTRY$.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+EVT2600OPTA;Integrate Them.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT2600OPTB;Reject Them.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT2605OPTA;Hurrah!;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+core_integration;Core Integration;;;;;;;;;;;;;x,,,,
+core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;;;;;;;;;;x,,,
+nationalist_agitation;Nationalist Agitation;;;;;;;;;;;;x,,,,
+nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;;;;;;;;;x,,
+integration_refusal;No Integration;;;;;;;;;;;;;x,,,,
+integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;;;;;;;;;;x,,,
+generic_conservative;Generic Conservative;;;;;;;;;;;;;x
+generic_reactionary;Generic Reactionary;;;;;;;;;;;;;x
+generic_liberal;Generic Liberal;;;;;;;;;;;;;x
+generic_socialist;Generic Socialist;;;;;;;;;;;;;x
+generic_communist;Generic Communist;;;;;;;;;;;;;x
+generic_fascist;Generic Fascist;;;;;;;;;;;;;x
+generic_anarcho;Generic Anarcho-liberal;;;;;;;;;;;;;x
+bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
+bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;;;;;;;;;;;x
+bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;;;;;;;;;;;x
 no_personality;§WNo Bonus;;;;;;;;;;;;;;
 attack_1.1;+1 Attack;;;;;;;;;;;;;;
 attack_1.2;+1 Attack;;;;;;;;;;;;;;
@@ -300,6 +374,106 @@ attack_2.97;+2 Attack;;;;;;;;;;;;;;
 attack_2.98;+2 Attack;;;;;;;;;;;;;;
 attack_2.99;+2 Attack;;;;;;;;;;;;;;
 attack_2.100;+2 Attack;;;;;;;;;;;;;;
+attack_2.101;+2 Attack;;;;;;;;;;;;;;
+attack_2.102;+2 Attack;;;;;;;;;;;;;;
+attack_2.103;+2 Attack;;;;;;;;;;;;;;
+attack_2.104;+2 Attack;;;;;;;;;;;;;;
+attack_2.105;+2 Attack;;;;;;;;;;;;;;
+attack_2.106;+2 Attack;;;;;;;;;;;;;;
+attack_2.107;+2 Attack;;;;;;;;;;;;;;
+attack_2.108;+2 Attack;;;;;;;;;;;;;;
+attack_2.109;+2 Attack;;;;;;;;;;;;;;
+attack_2.110;+2 Attack;;;;;;;;;;;;;;
+attack_2.111;+2 Attack;;;;;;;;;;;;;;
+attack_2.112;+2 Attack;;;;;;;;;;;;;;
+attack_2.113;+2 Attack;;;;;;;;;;;;;;
+attack_2.114;+2 Attack;;;;;;;;;;;;;;
+attack_2.115;+2 Attack;;;;;;;;;;;;;;
+attack_2.116;+2 Attack;;;;;;;;;;;;;;
+attack_2.117;+2 Attack;;;;;;;;;;;;;;
+attack_2.118;+2 Attack;;;;;;;;;;;;;;
+attack_2.119;+2 Attack;;;;;;;;;;;;;;
+attack_2.120;+2 Attack;;;;;;;;;;;;;;
+attack_2.121;+2 Attack;;;;;;;;;;;;;;
+attack_2.122;+2 Attack;;;;;;;;;;;;;;
+attack_2.123;+2 Attack;;;;;;;;;;;;;;
+attack_2.124;+2 Attack;;;;;;;;;;;;;;
+attack_2.125;+2 Attack;;;;;;;;;;;;;;
+attack_2.126;+2 Attack;;;;;;;;;;;;;;
+attack_2.127;+2 Attack;;;;;;;;;;;;;;
+attack_2.128;+2 Attack;;;;;;;;;;;;;;
+attack_2.129;+2 Attack;;;;;;;;;;;;;;
+attack_2.130;+2 Attack;;;;;;;;;;;;;;
+attack_2.131;+2 Attack;;;;;;;;;;;;;;
+attack_2.132;+2 Attack;;;;;;;;;;;;;;
+attack_2.133;+2 Attack;;;;;;;;;;;;;;
+attack_2.134;+2 Attack;;;;;;;;;;;;;;
+attack_2.135;+2 Attack;;;;;;;;;;;;;;
+attack_2.136;+2 Attack;;;;;;;;;;;;;;
+attack_2.137;+2 Attack;;;;;;;;;;;;;;
+attack_2.138;+2 Attack;;;;;;;;;;;;;;
+attack_2.139;+2 Attack;;;;;;;;;;;;;;
+attack_2.140;+2 Attack;;;;;;;;;;;;;;
+attack_2.141;+2 Attack;;;;;;;;;;;;;;
+attack_2.142;+2 Attack;;;;;;;;;;;;;;
+attack_2.143;+2 Attack;;;;;;;;;;;;;;
+attack_2.144;+2 Attack;;;;;;;;;;;;;;
+attack_2.145;+2 Attack;;;;;;;;;;;;;;
+attack_2.146;+2 Attack;;;;;;;;;;;;;;
+attack_2.147;+2 Attack;;;;;;;;;;;;;;
+attack_2.148;+2 Attack;;;;;;;;;;;;;;
+attack_2.149;+2 Attack;;;;;;;;;;;;;;
+attack_2.150;+2 Attack;;;;;;;;;;;;;;
+attack_2.151;+2 Attack;;;;;;;;;;;;;;
+attack_2.152;+2 Attack;;;;;;;;;;;;;;
+attack_2.153;+2 Attack;;;;;;;;;;;;;;
+attack_2.154;+2 Attack;;;;;;;;;;;;;;
+attack_2.155;+2 Attack;;;;;;;;;;;;;;
+attack_2.156;+2 Attack;;;;;;;;;;;;;;
+attack_2.157;+2 Attack;;;;;;;;;;;;;;
+attack_2.158;+2 Attack;;;;;;;;;;;;;;
+attack_2.159;+2 Attack;;;;;;;;;;;;;;
+attack_2.160;+2 Attack;;;;;;;;;;;;;;
+attack_2.161;+2 Attack;;;;;;;;;;;;;;
+attack_2.162;+2 Attack;;;;;;;;;;;;;;
+attack_2.163;+2 Attack;;;;;;;;;;;;;;
+attack_2.164;+2 Attack;;;;;;;;;;;;;;
+attack_2.165;+2 Attack;;;;;;;;;;;;;;
+attack_2.166;+2 Attack;;;;;;;;;;;;;;
+attack_2.167;+2 Attack;;;;;;;;;;;;;;
+attack_2.168;+2 Attack;;;;;;;;;;;;;;
+attack_2.169;+2 Attack;;;;;;;;;;;;;;
+attack_2.170;+2 Attack;;;;;;;;;;;;;;
+attack_2.171;+2 Attack;;;;;;;;;;;;;;
+attack_2.172;+2 Attack;;;;;;;;;;;;;;
+attack_2.173;+2 Attack;;;;;;;;;;;;;;
+attack_2.174;+2 Attack;;;;;;;;;;;;;;
+attack_2.175;+2 Attack;;;;;;;;;;;;;;
+attack_2.176;+2 Attack;;;;;;;;;;;;;;
+attack_2.177;+2 Attack;;;;;;;;;;;;;;
+attack_2.178;+2 Attack;;;;;;;;;;;;;;
+attack_2.179;+2 Attack;;;;;;;;;;;;;;
+attack_2.180;+2 Attack;;;;;;;;;;;;;;
+attack_2.181;+2 Attack;;;;;;;;;;;;;;
+attack_2.182;+2 Attack;;;;;;;;;;;;;;
+attack_2.183;+2 Attack;;;;;;;;;;;;;;
+attack_2.184;+2 Attack;;;;;;;;;;;;;;
+attack_2.185;+2 Attack;;;;;;;;;;;;;;
+attack_2.186;+2 Attack;;;;;;;;;;;;;;
+attack_2.187;+2 Attack;;;;;;;;;;;;;;
+attack_2.188;+2 Attack;;;;;;;;;;;;;;
+attack_2.189;+2 Attack;;;;;;;;;;;;;;
+attack_2.190;+2 Attack;;;;;;;;;;;;;;
+attack_2.191;+2 Attack;;;;;;;;;;;;;;
+attack_2.192;+2 Attack;;;;;;;;;;;;;;
+attack_2.193;+2 Attack;;;;;;;;;;;;;;
+attack_2.194;+2 Attack;;;;;;;;;;;;;;
+attack_2.195;+2 Attack;;;;;;;;;;;;;;
+attack_2.196;+2 Attack;;;;;;;;;;;;;;
+attack_2.197;+2 Attack;;;;;;;;;;;;;;
+attack_2.198;+2 Attack;;;;;;;;;;;;;;
+attack_2.199;+2 Attack;;;;;;;;;;;;;;
+attack_2.200;+2 Attack;;;;;;;;;;;;;;
 attack_3.1;§B+3 Attack;;;;;;;;;;;;;;
 attack_3.2;§B+3 Attack;;;;;;;;;;;;;;
 attack_3.3;§B+3 Attack;;;;;;;;;;;;;;
@@ -1300,3 +1474,10 @@ defence_minus_4.2;§R-4 Defence;;;;;;;;;;;;;;
 defence_minus_4.3;§R-4 Defence;;;;;;;;;;;;;;
 defence_minus_4.4;§R-4 Defence;;;;;;;;;;;;;;
 defence_minus_5.1;§R-5 Defence;;;;;;;;;;;;;;
+persistant;§WSpeed Bonus;;;;;;;;;;;;;;
+EVTNAME12341234;Infamy Limit Violated!;;;;;;;;;;;;;x;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EVTDESC12341234;You're the worst scum of the earth and you deserve what's coming for you;;;;;;;;;;;;;x;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+badboymod;Over Infamy Limit;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+desc_badboymod;We have violated international law by breaching the infamy limit. The nation suffers greatly for the misbehaviour of our Leader!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME123412345;You're below infamy limit once again!;;;;;;;;;;;;;x;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;,,,,,,,,,,,,,,,
+EVTDESC123412345;Good boy. Here's a cookie.;;;;;;;;;;;;;x;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;,,,,,,,,,,,,,,,,,,

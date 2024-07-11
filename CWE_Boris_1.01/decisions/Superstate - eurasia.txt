@@ -273,7 +273,7 @@ political_decisions = {
 			OR = { government = presidential_dictatorship government = nationalist_dictatorship government = populist_dictatorship government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy AND = { has_country_flag = trade_block_ambition OR = { government = democracy government = democracy1 } } }  
 			election = no
 			war = no
-			political_polarization = 1
+			second_cold_war = 1
 			#has_unclaimed_cores = no
 		}
 		effect = {
@@ -318,7 +318,7 @@ political_decisions = {
 
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             		war = no
             		XEA = {
 				any_core = {
@@ -381,7 +381,7 @@ political_decisions = {
 			}
 			election = no
 			is_greater_power = yes
-			political_polarization = 1
+			second_cold_war = 1
             		war = no
 		}
 		
@@ -435,7 +435,7 @@ political_decisions = {
 			}
 			election = no
 			is_greater_power = yes 
-			political_polarization = 1
+			second_cold_war = 1
             		war = no
 		}
 		
