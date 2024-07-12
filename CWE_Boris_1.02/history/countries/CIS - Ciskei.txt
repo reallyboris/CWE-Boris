@@ -1,5 +1,5 @@
 capital = 2098
-primary_culture = xhosa
+primary_culture = zulu
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

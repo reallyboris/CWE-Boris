@@ -1,5 +1,5 @@
 capital = 2082
-primary_culture = herero
+primary_culture = ovambo
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

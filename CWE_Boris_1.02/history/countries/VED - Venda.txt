@@ -1,5 +1,5 @@
 capital = 2108
-primary_culture = venda
+primary_culture = zulu
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

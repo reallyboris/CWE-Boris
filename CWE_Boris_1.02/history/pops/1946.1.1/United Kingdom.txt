@@ -8158,12 +8158,12 @@
 		size = 351
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 16124
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 239
 	 } 
@@ -8256,12 +8256,12 @@
 		size = 25
 	 } 
 	farmers = {
-		culture = lozi
+		culture = ovambo
 		religion =  protestant 
 		size = 21797
 	 } 
 	farmers = {
-		culture = lozi
+		culture = ovambo
 		religion = secularism
 		size = 275
 	 } 
@@ -8342,77 +8342,77 @@
 #Monzo - Monzo (201000/50250 POPS)
 2015 = {
 	officers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 148
 	 } 
 	officers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 595
 	 } 
 	soldiers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	aristocrats = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 49
 	 } 
 	capitalists = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 247
 	 } 
 	capitalists = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 495
 	 } 
 	clergymen = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	artisans = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 686
 	 } 
 	artisans = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 34000
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 430
 	 } 

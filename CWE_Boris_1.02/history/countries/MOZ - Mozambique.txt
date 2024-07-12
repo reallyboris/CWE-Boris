@@ -1,6 +1,6 @@
 capital = 2049
 primary_culture = black_portuguese
-culture = tsonga
+culture = zulu
 religion = secularism
 government = proletarian_dictatorship
 plurality = 3.0

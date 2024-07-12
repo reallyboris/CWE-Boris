@@ -1,5 +1,5 @@
 capital = 3353
-primary_culture = damara
+primary_culture = ovambo
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

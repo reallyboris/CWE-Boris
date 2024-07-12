@@ -1,5 +1,5 @@
 capital = 3350
-primary_culture = kavango
+primary_culture = zulu
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

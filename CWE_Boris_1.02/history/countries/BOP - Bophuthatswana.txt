@@ -1,5 +1,5 @@
 capital = 2107
-primary_culture = tswana
+primary_culture = zulu
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0

@@ -1,5 +1,5 @@
 capital = 2114
-primary_culture = swazi
+primary_culture = zulu
 religion = secularism
 government = colonial_government
 plurality = 2.0
