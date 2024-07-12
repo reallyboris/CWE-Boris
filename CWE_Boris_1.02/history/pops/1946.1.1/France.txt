@@ -1252,7 +1252,7 @@
 	 } 
 
 }
-#Bougie - Skikda, Jijel, Béjaïa, Tizi Ouzou (949000237250 POPS)
+#Bougie - Skikda, Jijel, Bï¿½jaï¿½a, Tizi Ouzou (949000237250 POPS)
 1701 = {
 	soldiers = {
 		culture = berber
@@ -1303,7 +1303,7 @@
 	 } 
 
 }
-#Setif - Bouïra, Setif,Bordj Bou Arréridj (750000187500 POPS)
+#Setif - Bouï¿½ra, Setif,Bordj Bou Arrï¿½ridj (750000187500 POPS)
 1702 = {
 	officers = {
 		culture = french
@@ -1713,7 +1713,7 @@
 	 } 
 
 }
-#Mascara - Saïda, Sidi Bel Abbès, Mascara (475000118750 POPS)
+#Mascara - Saï¿½da, Sidi Bel Abbï¿½s, Mascara (475000118750 POPS)
 1707 = {
 	soldiers = {
 		culture = berber
@@ -1956,7 +1956,7 @@
 	 } 
 
 }
-#Biskra - Biskra, Batna, Tébessa, Khenchela (770000192500 POPS)
+#Biskra - Biskra, Batna, Tï¿½bessa, Khenchela (770000192500 POPS)
 1710 = {
 	soldiers = {
 		culture = berber
@@ -2064,7 +2064,7 @@
 	 } 
 
 }
-#Laghwat - Tiaret , Médéa, Djelfa, Laghouat (888000222000 POPS)
+#Laghwat - Tiaret , Mï¿½dï¿½a, Djelfa, Laghouat (888000222000 POPS)
 1713 = {
 	soldiers = {
 		culture = berber
@@ -6679,7 +6679,7 @@
 		size = 27
 	 } 
 }
-#Nola - Nana-Mambéré, Mambéré-Kadéï, Sangha-Mbaéré (22500056250 POPS)
+#Nola - Nana-Mambï¿½rï¿½, Mambï¿½rï¿½-Kadï¿½ï¿½, Sangha-Mbaï¿½rï¿½ (22500056250 POPS)
 1966 = {
 	officers = {
 		culture = baya_mandjia
@@ -6767,7 +6767,7 @@
 		size = 34
 	 } 
 }
-#Bouar - Ouham-Pendé (13900034750 POPS)
+#Bouar - Ouham-Pendï¿½ (13900034750 POPS)
 1967 = {
 	officers = {
 		culture = baya_mandjia
@@ -7457,52 +7457,52 @@
 		size = 12
 	 } 
 	clergymen = {
-		culture = sangha
+		culture = mongo
 		religion =  catholic 
 		size = 86
 	 } 
 	clergymen = {
-		culture = sangha
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	artisans = {
-		culture = sangha
+		culture = mongo
 		religion =  catholic 
 		size = 1989
 	 } 
 	artisans = {
-		culture = sangha
+		culture = mongo
 		religion = secularism
 		size = 30
 	 } 
 	farmers = {
-		culture = sangha
+		culture = mongo
 		religion =  catholic 
 		size = 39472
 	 } 
 	farmers = {
-		culture = sangha
+		culture = mongo
 		religion = secularism
 		size = 601
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 17680
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 269
 	 } 
 	farmers = {
-		culture = mbochi
+		culture = mongo
 		religion =  catholic 
 		size = 14536
 	 } 
 	farmers = {
-		culture = mbochi
+		culture = mongo
 		religion = secularism
 		size = 221
 	 } 
@@ -7510,77 +7510,77 @@
 #Madingou - Madingou (14200035500 POPS)
 1978 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 104
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 419
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 6
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 1398
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 21
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 34
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 174
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 349
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 5
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 786
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 11
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 28357
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 431
 	 } 
@@ -7588,27 +7588,27 @@
 #Djambala - Djambala (7300018250 POPS)
 1980 = {
 	officers = {
-		culture = mbochi
+		culture = mongo
 		religion =  catholic 
 		size = 53
 	 } 
 	soldiers = {
-		culture = mbochi
+		culture = mongo
 		religion =  catholic 
 		size = 215
 	 } 
 	soldiers = {
-		culture = mbochi
+		culture = mongo
 		religion = secularism
 		size = 3
 	 } 
 	aristocrats = {
-		culture = mbochi
+		culture = mongo
 		religion =  catholic 
 		size = 450
 	 } 
 	aristocrats = {
-		culture = mbochi
+		culture = mongo
 		religion = secularism
 		size = 6
 	 } 
@@ -7774,12 +7774,12 @@
 		size = 30
 	 } 
 	aristocrats = {
-		culture = chinese
-		religion =  taoism 
+		culture = french
+		religion =  catholic 
 		size = 3465
 	 } 
 	aristocrats = {
-		culture = chinese
+		culture = french
 		religion = secularism
 		size = 61
 	 } 
@@ -7854,12 +7854,12 @@
 		size = 5108
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = merida
 		religion =  catholic 
 		size = 23718
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = merida
 		religion = secularism
 		size = 422
 	 } 
@@ -7867,82 +7867,82 @@
 #Fianarantsoa - Fianarantsoa (491000122750 POPS)
 2116 = {
 	officers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 361
 	 } 
 	officers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1447
 	 } 
 	soldiers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 25
 	 } 
 	aristocrats = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 4824
 	 } 
 	aristocrats = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 85
 	 } 
 	bureaucrats = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 119
 	 } 
 	bureaucrats = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 602
 	 } 
 	capitalists = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 10
 	 } 
 	clergymen = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1205
 	 } 
 	clergymen = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 21
 	 } 
 	artisans = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1388
 	 } 
 	artisans = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 24
 	 } 
 	farmers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 108049
 	 } 
 	farmers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 1924
 	 } 
@@ -7950,82 +7950,82 @@
 #Ampanihy - Ampanihy (491000122750 POPS)
 2117 = {
 	officers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 361
 	 } 
 	officers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1447
 	 } 
 	soldiers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 25
 	 } 
 	aristocrats = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 4824
 	 } 
 	aristocrats = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 85
 	 } 
 	bureaucrats = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 119
 	 } 
 	bureaucrats = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 602
 	 } 
 	capitalists = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 10
 	 } 
 	clergymen = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1205
 	 } 
 	clergymen = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 21
 	 } 
 	artisans = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 1388
 	 } 
 	artisans = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 24
 	 } 
 	farmers = {
-		culture = betsileo
+		culture = merida
 		religion =  catholic 
 		size = 5728
 	 } 
 	farmers = {
-		culture = betsileo
+		culture = merida
 		religion = secularism
 		size = 102
 	 } 
@@ -8126,82 +8126,82 @@
 #Toamasina - Toamasina (750000187500 POPS)
 2119 = {
 	officers = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 552
 	 } 
 	officers = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 9
 	 } 
 	soldiers = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 2210
 	 } 
 	soldiers = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 39
 	 } 
 	aristocrats = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 7368
 	 } 
 	aristocrats = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 131
 	 } 
 	bureaucrats = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 183
 	 } 
 	bureaucrats = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 3
 	 } 
 	capitalists = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 920
 	 } 
 	capitalists = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 16
 	 } 
 	clergymen = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 1842
 	 } 
 	clergymen = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 32
 	 } 
 	artisans = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 2121
 	 } 
 	artisans = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 37
 	 } 
 	farmers = {
-		culture = betsimisaraka
+		culture = merida
 		religion =  catholic 
 		size = 154281
 	 } 
 	farmers = {
-		culture = betsimisaraka
+		culture = merida
 		religion = secularism
 		size = 2748
 	 } 
@@ -8219,82 +8219,82 @@
 #Antsiranana - Antsiranana (33900084750 POPS)
 2120 = {
 	officers = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 249
 	 } 
 	officers = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 999
 	 } 
 	soldiers = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 3330
 	 } 
 	aristocrats = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 59
 	 } 
 	bureaucrats = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 82
 	 } 
 	bureaucrats = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 415
 	 } 
 	capitalists = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 832
 	 } 
 	clergymen = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 958
 	 } 
 	artisans = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 17
 	 } 
 	farmers = {
-		culture = tsimihety
+		culture = merida
 		religion =  catholic 
 		size = 72234
 	 } 
 	farmers = {
-		culture = tsimihety
+		culture = merida
 		religion = secularism
 		size = 1286
 	 } 
@@ -8350,82 +8350,82 @@
 #Toliara - Toliara (31900079750 POPS)
 2122 = {
 	officers = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 234
 	 } 
 	officers = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 940
 	 } 
 	soldiers = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 16
 	 } 
 	aristocrats = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 3134
 	 } 
 	aristocrats = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 55
 	 } 
 	bureaucrats = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 77
 	 } 
 	bureaucrats = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 391
 	 } 
 	capitalists = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 6
 	 } 
 	clergymen = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 783
 	 } 
 	clergymen = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 13
 	 } 
 	artisans = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 901
 	 } 
 	artisans = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 16
 	 } 
 	farmers = {
-		culture = sakalava
+		culture = merida
 		religion =  catholic 
 		size = 60921
 	 } 
 	farmers = {
-		culture = sakalava
+		culture = merida
 		religion = secularism
 		size = 1085
 	 } 
@@ -9467,77 +9467,77 @@
 #Loango - Loango (18000045000 POPS)
 2624 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 132
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 531
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 8
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 1773
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 27
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 44
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 221
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 443
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 6
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 996
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 15
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 35944
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 547
 	 } 
@@ -17937,7 +17937,7 @@
 		size = 18813
 	 } 
 }
-#Karlsruhe - Baden-Württemberg (840000210000 POPS)
+#Karlsruhe - Baden-Wï¿½rttemberg (840000210000 POPS)
 586 = {
 	officers = {
 		culture = german
@@ -18040,7 +18040,7 @@
 		size = 25737
 	 } 
 }
-#Freiburg - Baden-Württemberg (840000210000 POPS)
+#Freiburg - Baden-Wï¿½rttemberg (840000210000 POPS)
 587 = {
 	officers = {
 		culture = german
@@ -18143,7 +18143,7 @@
 		size = 25737
 	 } 
 }
-#Konstanz - Baden-Württemberg (840000210000 POPS)
+#Konstanz - Baden-Wï¿½rttemberg (840000210000 POPS)
 588 = {
 	officers = {
 		culture = german
@@ -18246,7 +18246,7 @@
 		size = 25737
 	 } 
 }
-#Tubingen - Baden-Württemberg (840000210000 POPS)
+#Tubingen - Baden-Wï¿½rttemberg (840000210000 POPS)
 591 = {
 	officers = {
 		culture = german
@@ -18349,7 +18349,7 @@
 		size = 25737
 	 } 
 }
-#Ulm - Baden-Württemberg (840000210000 POPS)
+#Ulm - Baden-Wï¿½rttemberg (840000210000 POPS)
 593 = {
 	officers = {
 		culture = german
@@ -18452,7 +18452,7 @@
 		size = 25737
 	 } 
 }
-#Sigmaringen - Baden-Württemberg (840000210000 POPS)
+#Sigmaringen - Baden-Wï¿½rttemberg (840000210000 POPS)
 594 = {
 	officers = {
 		culture = german
@@ -18907,7 +18907,7 @@
 		size = 4679
 	 } 
 }
-#Saint-Martin & Saint Barthélemy (60001500 POPS)
+#Saint-Martin & Saint Barthï¿½lemy (60001500 POPS)
 3283 = {
 	officers = {
 		culture = french

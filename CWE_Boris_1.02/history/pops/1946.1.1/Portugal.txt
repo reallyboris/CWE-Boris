@@ -665,12 +665,12 @@
 		size = 1069
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = mongo
 		religion =  catholic 
 		size = 151003
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = mongo
 		religion = secularism
 		size = 3871
 	 } 
@@ -685,12 +685,12 @@
 		size = 1161
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = black_portuguese
 		religion =  catholic 
 		size = 10614
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = black_portuguese
 		religion = secularism
 		size = 272
 	 } 
@@ -698,77 +698,77 @@
 #Cabinda - Cabinda (88000/22000 POPS)
 2000 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 64
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 257
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 6
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 858
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 22
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 21
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 107
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 214
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 5
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 448
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 11
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 17658
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 452
 	 } 
@@ -776,82 +776,82 @@
 #Mbanza - Uige, Zaire (299000/74750 POPS)
 2001 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 218
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 874
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 22
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 2915
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 74
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 72
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 363
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 9
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 728
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 18
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 1523
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 39
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 59998
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 1538
 	 } 
@@ -1532,12 +1532,12 @@
 	farmers = {
 		culture = african_minor
 		religion =  catholic 
-		size = 14922
+		size = 15473
 	 } 
 	farmers = {
 		culture = african_minor
 		religion = secularism
-		size = 382
+		size = 396
 	 } 
 	farmers = {
 		culture = ovambo
@@ -1548,16 +1548,6 @@
 		culture = ovambo
 		religion =  secularism
 		size = 375
-	 } 
-	farmers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 551
-	 } 
-	farmers = {
-		culture = bakongo
-		religion = secularism
-		size = 14
 	 } 
 }
 #Saurimo - Lunda Norte, Lunda Sur (231000/57750 POPS)
@@ -2053,82 +2043,82 @@
 #Massekisse - Massekisse (449000/112250 POPS)
 2052 = {
 	officers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 325
 	 } 
 	officers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 10
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 1303
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 43
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 4344
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 145
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 108
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 3
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 542
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 18
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 1085
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 36
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 1196
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 40
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 13900
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 466
 	 } 
@@ -2561,82 +2551,82 @@
 #Mossurize - Mossurize (261000/65250 POPS)
 2058 = {
 	officers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 188
 	 } 
 	officers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 757
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 25
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 2525
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 84
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 62
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 315
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 10
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 630
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 21
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 695
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 23
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 39645
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 1331
 	 } 

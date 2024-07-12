@@ -4309,77 +4309,77 @@
 #kavangoland - kavangoland (27000/6750 POPS)
 3350 = {
 	officers = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 58
 	 } 
 	officers = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 238
 	 } 
 	soldiers = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 4
 	 } 
 	aristocrats = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 593
 	 } 
 	aristocrats = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 16
 	 } 
 	bureaucrats = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 19
 	 } 
 	capitalists = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 81
 	 } 
 	capitalists = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 197
 	 } 
 	clergymen = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 4
 	 } 
 	artisans = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 268
 	 } 
 	artisans = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 5
 	 } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 7053
          } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion =  secularism
 		size = 211
 	 } 

@@ -1,5 +1,5 @@
 capital = 2000
-primary_culture = bakongo
+primary_culture = mongo
 religion = secularism
 government = democracy
 plurality = 3.0
