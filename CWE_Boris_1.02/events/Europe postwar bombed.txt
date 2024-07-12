@@ -12,8 +12,7 @@ country_event = {
 		any_owned_province = { AND = { continent = europe NOT = { has_province_modifier = war_bombed } } }
 	}
 
-	option = {
-		name = "EVTOPTA91302" 
+	immediate = {
 		random_owned = {
 			limit = { province_id = 1865 }
 			add_province_modifier = { name = war_bombed duration = 700 }
@@ -33,6 +32,10 @@ country_event = {
 			}
 			add_province_modifier = { name = war_bombed duration = 700 } 
 		}
+	}
+
+	option = {
+		name = "EVTOPTA91302" 
 	}
 }
 
