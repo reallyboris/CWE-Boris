@@ -15824,12 +15824,12 @@
 		size = 2085
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 42277
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 5359
 	 } 
@@ -16030,12 +16030,12 @@
 		size = 2104
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 32537
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 4124
 	 } 
@@ -16153,12 +16153,12 @@
 		size = 652
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 36655
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 4646
 	 } 
@@ -16176,22 +16176,22 @@
 #Cardiff - Cardiff (1218000/304500 POPS)
 273 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 3660
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 858
 	 } 
 	soldiers = {
-		culture = english
+		culture = welshwelsh
 		religion =  protestant 
 		size = 14643
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 3435
 	 } 
@@ -16206,12 +16206,12 @@
 		size = 1446
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1479
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 347
 	 } 
@@ -16236,22 +16236,22 @@
 		size = 1157
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 6855
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1608
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 6512
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1527
 	 } 
@@ -16266,12 +16266,12 @@
 		size = 4904
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 51748
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 12138
 	 } 
@@ -16379,12 +16379,12 @@
 		size = 1220
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1831
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 429
 	 } 
@@ -16492,12 +16492,12 @@
 		size = 426
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 9228
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 2164
 	 } 
@@ -16515,42 +16515,42 @@
 #Holyhead - Holyhead (851000/212750 POPS)
 276 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 2557
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 599
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 10231
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 2399
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 4307
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1010
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 136
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 32
 	 } 

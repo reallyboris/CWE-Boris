@@ -242,12 +242,12 @@
 		size = 6
 	 } 
 	farmers = {
-		culture = black_anglo
+		culture = ovambo
 		religion =  protestant 
 		size = 1744
 	 } 
 	farmers = {
-		culture = black_anglo
+		culture = ovambo
 		religion = secularism
 		size = 35
 	 } 
@@ -2671,23 +2671,23 @@
 		religion = secularism
 		size = 1700
 	 } 
-	craftsmen = {
+	clerks = {
 		culture = afrikaaner
 		religion =  protestant 
-		size = 12163
+		size = 2663
 	 } 
-	craftsmen = {
+	clerks = {
 		culture = afrikaaner
 		religion = secularism
-		size = 866
+		size = 366
 	 } 
 	craftsmen = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion =  protestant 
-		size = 8055
+		size = 18055
 	 } 
 	craftsmen = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion = secularism
 		size = 234
 	 } 
@@ -4467,77 +4467,77 @@
 #kaokoland - bushmanland(POPS 9000/2250) 
 3352 = {
 	officers = {
-		culture = african_minor
+		culture = ovambo
 		religion =  animist
 		size = 58
 	 } 
 	officers = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = african_minor
+		culture = ovambo
 		religion =  animist
 		size = 132
 	 } 
 	soldiers = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 4
 	 } 
 	aristocrats = {
-		culture = african_minor
+		culture = ovambo
 		religion =  animist
 		size = 493
 	 } 
 	aristocrats = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 16
 	 } 
 	bureaucrats = {
-		culture = african_minor
+		culture = ovambo
 		religion =  animist
 		size = 19
 	 } 
 	capitalists = {
-		culture = african_minor
+		culture = ovambo
 		religion =  animist
 		size = 98
 	 } 
 	capitalists = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = african_minor
+		culture = ovambo
 		religion = animist
 		size = 97
 	 } 
 	clergymen = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 4
 	 } 
 	artisans = {
-		culture = african_minor
+		culture = ovambo
 		religion = animist
 		size = 380
 	 } 
 	artisans = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 75
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = ovambo
 		religion = animist
 		size = 853
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = ovambo
 		religion = secularism
 		size = 48
          }
