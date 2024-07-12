@@ -848,12 +848,12 @@
 		size = 999
 	 } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 17016
 	 } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 558
 	 } 
@@ -868,12 +868,12 @@
 		size = 3198
 	 } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion =  protestant 
 		size = 77006
 	 } 
 	farmers = {
-		culture = zulu
+		culture = ovambo
 		religion = secularism
 		size = 2505
 	 } 
@@ -2824,15 +2824,25 @@
 		religion = secularism
 		size = 36
 	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion =  protestant 
+		size = 280
+	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion = secularism
+		size = 20
+	 } 
 	artisans = {
 		culture = black_anglo
 		religion =  protestant 
-		size = 2152
+		size = 1849
 	 } 
 	artisans = {
 		culture = black_anglo
 		religion = secularism
-		size = 97
+		size = 100
 	 } 
 	farmers = {
 		culture = black_anglo
@@ -4694,77 +4704,77 @@
 #Namaland - Namaland (POPS 34000/8500) 
 3355 = {
 	officers = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 258
 	 } 
 	officers = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 1
 	 } 
 	soldiers = {
-		culture = nama
+		culture = ovambo
 		religion =  protestant 
 		size = 793
 	 } 
 	soldiers = {
-		culture = nama
+		culture = ovambo
 		religion = secularism
 		size = 116
 	 } 
 	aristocrats = {
-		culture = nama
+		culture = ovambo
 		religion =  protestant 
 		size = 823
 	 } 
 	aristocrats = {
-		culture = nama
+		culture = ovambo
 		religion = secularism
 		size = 2
 	 } 
 	bureaucrats = {
-		culture = nama
+		culture = ovambo
 		religion =  protestant 
 		size = 455
 	 } 
 	capitalists = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 55
 	 } 
 	capitalists = {
-		culture = nama
+		culture = ovambo
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 763
 	 } 
 	clergymen = {
-		culture = nama
+		culture = ovambo
 		religion = sunni
 		size = 4
 	 } 
 	artisans = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 1606
 	 } 
 	artisans = {
-		culture = nama
+		culture = ovambo
 		religion = secularism
 		size = 23
 	 } 
 	farmers = {
-		culture = nama
+		culture = ovambo
 		religion = protestant 
 		size = 3120
 	 } 
 	farmers = {
-		culture = nama
+		culture = ovambo
 		religion = secularism
 		size = 478
 	 } 

@@ -1,5 +1,5 @@
 capital = 3355
-primary_culture = nama
+primary_culture = ovambo
 religion = secularism
 government = populist_dictatorship
 plurality = 5.0
