@@ -141,6 +141,12 @@ raw_material_goods = {
 		cost = 1.4
 		color = { 255 255 255 }
 	}
+	credit = {
+		cost = 10
+		tradeable = no
+		money = yes
+		color = { 61 167 64 }
+	}
 }
 #14
 industrial_goods = {
@@ -346,10 +352,4 @@ consumer_goods = {
 		available_from_start = no
 	}
 
-	credit = {
-		cost = 10
-		color = { 61 167 64 }
-		tradeable = no
-		money = yes
-	}
 }
