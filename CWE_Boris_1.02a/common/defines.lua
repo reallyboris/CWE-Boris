@@ -461,8 +461,8 @@ diplomacy = {
 
 	REMOVEFROMSPHERE_RELATION_ON_ACCEPT = -10,
 	REMOVEFROMSPHERE_INFLUENCE_COST = 100,
-	REMOVEFROMSPHERE_PRESTIGE_COST = 10, -- only applied if removing country is sphere leader
-	REMOVEFROMSPHERE_INFAMY_COST = 1, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_PRESTIGE_COST = 5, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_INFAMY_COST = 0, -- only applied if removing country is sphere leader
 
 	INCREASEOPINION_RELATION_ON_ACCEPT = 20,
 	INCREASEOPINION_INFLUENCE_COST = 50,
@@ -522,7 +522,7 @@ diplomacy = {
 	
 	-- effects of manually releasing a nation
 	RELEASE_NATION_PRESTIGE = 5,
-	RELEASE_NATION_INFAMY = -5,
+	RELEASE_NATION_INFAMY = -2,
 	
 	INFAMY_CLEAR_UNION_SPHERE = 5, -- Infamy for asserting hegemony
 	
