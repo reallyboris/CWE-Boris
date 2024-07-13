@@ -49,7 +49,7 @@ country_event = {
 				militancy = -5
 				consciousness = -5
 			}
-			
+			country_event = 1200238
 		}
 		
 		ai_chance = { factor = 0.7 }
@@ -140,6 +140,7 @@ country_event = {
 		ruling_party_ideology = socialist
 		any_owned = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
 		any_owned = { any_pop = { dominant_issue = { value = planned_economy factor = 0.25 } } }
+		country_event = 1200238
 		ai_chance = { factor = 0.8 }
 	}
 
@@ -174,7 +175,7 @@ country_event = {
 				sphere_owner = { diplomatic_influence = { who = RAK value = 200 } }
 			}
 		}
-		
+		country_event = 1200238
 		ai_chance = { factor = 0.2 }
 	}
 

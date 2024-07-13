@@ -318,6 +318,7 @@ country_event = {
 				militancy = 4 
 				consciousness = 2 
 			}
+			country_event = 1200238
 		}
 		ai_chance = { factor = 0.8 }
 	}
@@ -337,6 +338,7 @@ country_event = {
 				}
 			}
 			add_country_modifier = { name = revolution_chaos duration = 3650 }
+			country_event = 1200238
 		}
 		
 		ai_chance = { factor = 0.2 }

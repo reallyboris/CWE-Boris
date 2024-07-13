@@ -155,7 +155,7 @@ country_event = {
   
 	option = {
 		name = "Release Manchuria as a Soviet puppet"
-		prestige = -50
+		prestige = -100
 		badboy = 5
 		
 		#Relations boost and loss
@@ -202,7 +202,7 @@ country_event = {
 
 	option = {
 		name = "Manchuria shall remain under Soviet rule"
-		prestige_factor = -0.04
+		prestige_factor = -0.1
 		badboy = 10
 		
 		#Relations boost and loss
@@ -330,11 +330,10 @@ country_event = {
 						province_id = 1604 
 						province_id = 1477 
 						province_id = 1538
-						type = bureaucrats  
 						province_id = 1540 
 					} 
 				} 
-				OR = { type = officers type = soldiers type = aristocrats type = capitalists type = clerks type = craftsmen } 
+				OR = { type = bureaucrats type = officers type = soldiers type = aristocrats type = capitalists type = clerks type = craftsmen } 
 			} 
 			move_pop = 1485 # Taibei
 		}

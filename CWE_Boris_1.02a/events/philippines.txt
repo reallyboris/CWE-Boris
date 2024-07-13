@@ -23,7 +23,10 @@ country_event = {
 		ai_chance = { factor = 0.9 }
 		prestige = 5
 		release_vassal = PHI
-		PHI = { government = democracy }
+		PHI = { 
+			government = democracy 
+			country_event = 1200238
+		}
 	}
 	
 	option = {

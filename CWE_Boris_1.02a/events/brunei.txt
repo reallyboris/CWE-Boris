@@ -36,6 +36,7 @@ country_event = {
   option = {
     name = "OK"
 	any_pop = { consciousness = -1.0 }
+  country_event = 1200238
   }
 }
 country_event = {

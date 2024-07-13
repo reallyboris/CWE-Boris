@@ -16,6 +16,7 @@ country_event = {
   option = {
     name = EVT_8013402_A
 	define_general = { name = "Rama VIII" personality = energetic background = no_background }
+  country_event = 1200238
   }
 }
 country_event = {
@@ -36,6 +37,7 @@ country_event = {
   option = {
     name = OK
 	define_general = { name = "Rama IX" personality = energetic background = no_background }
+  country_event = 1200238
   }
 }
 country_event = {

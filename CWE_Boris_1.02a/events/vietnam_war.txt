@@ -57,6 +57,7 @@ country_event = {
 					value = conservative
 				}
 			}
+			country_event = 1200238
 		}
 	
 		#Vietnam becomes North Vietnam
@@ -94,6 +95,7 @@ country_event = {
 					value = conservative
 				}
 			}
+			country_event = 1200238
 		}
 		
 		create_alliance = SVI

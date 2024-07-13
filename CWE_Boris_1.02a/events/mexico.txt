@@ -24,6 +24,7 @@ country_event = {
 		name = "It is a great time to be a Mexican!"
 		prestige = 100
 		add_country_modifier = { name = dirigisme duration = 5840 }
+		country_event = 1200238
 	}
 	
 }

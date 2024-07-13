@@ -3648,6 +3648,8 @@ months = 1
 option = {
 name = "Embrace this magical way"
 
+money = 500000
+
 set_country_flag = south_american_isi_event_fired
 
 add_country_modifier = { name = economic_boom duration = 5840 }

@@ -732,10 +732,10 @@ electric_gear_factory = {
 bio_fuel_factory = {       
 	template = fuel_template
 	input_goods = {    
-		grain = 6
+		grain = 8
 	} 
 	output_goods = fuel 
-	value = 2
+	value = 2.2
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spclow }
@@ -786,6 +786,25 @@ gas_fuel_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = natural_gas }
 		value = 0.5
+	}
+}
+
+coal_liquefaction_fuel_factory = {       
+	template = fuel_template
+	input_goods = {    
+		coal = 16
+	} 
+	output_goods = petroleum
+	value = 2.1
+	bonus = {
+		trigger = { 
+			country = { has_country_flag = spclow }
+		}
+		value = 0.10
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = coal }
+		value = 0.25
 	}
 }
 
@@ -1145,10 +1164,10 @@ heating_electricity_gas_factory = {
 nuclear_fuel_factory = {    
 	template = power_plant_template
 	input_goods = {    
-		other_minerals = 10
+		other_minerals = 11
 	} 
 	output_goods = heating_electricity
-	value = 10
+	value = 11
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spclow }
@@ -1164,10 +1183,10 @@ nuclear_fuel_factory = {
 coal_fuel_factory = {    
 	template = fuel_template
 	input_goods = {    
-		coal = 4
+		coal = 15
 	} 
 	output_goods = heating_electricity
-	value = 2.2
+	value = 5.5
 	bonus = {
 		trigger = { 
 			country = { has_country_flag = spclow }
@@ -1177,7 +1196,7 @@ coal_fuel_factory = {
 
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
-		value = 0.50
+		value = 0.25
 	}
 }
 
