@@ -902,13 +902,13 @@ guiTypes = {
 			position = {x= 655 y = 135 }
 			priority = 100			
 			minValue = 0 
-			maxValue = 100
+			maxValue = 10000
 			stepSize =1
 			startValue = 20
 			horizontal = 1
 			useRangeLimit = yes
 			rangeLimitMin = 0
-			rangeLimitMax = 100
+			rangeLimitMax = 10000
 			rangeLimitMinIcon = "slider_min"
 			rangeLimitMaxIcon = "slider_max"
 			
