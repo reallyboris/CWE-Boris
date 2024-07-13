@@ -90,6 +90,7 @@ territorial_dispute_internal
 war_reparations
 rude_boy
 great_war_penalty_cb
+negotiated_transfer
 }
 
 gunboat = {
@@ -4257,6 +4258,89 @@ dismantle_cb = {
 		THIS = { set_country_flag = this_won_CB }
 		set_country_flag = this_lost_CB
 		
+	}
+}
+
+#Negotiated Transfer
+
+# Rennes System
+
+negotiated_transfer = {
+	sprite_index = 17
+	is_triggered_only = yes
+	months = 0
+	crisis = no
+	constructing_cb = no
+	always = yes
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+
+	can_use = {
+		THIS = { ai = no }
+		ai = no
+		number_of_states = 2 # annex if you want their last state
+		NOT = { truce_with = THIS } 
+		OR = { 
+				civilized = yes 
+				tag = LCT
+			}
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
+	}
+	
+	allowed_countries = {
+#		NOT = { tag = LCT }
+		OR = {
+			FROM = { vassal_of = THIS }
+			FROM = { substate_of = THIS }
+			FROM = { tag = THIS } 
+			AND = { 
+				FROM = { ai = no } 
+				THIS = { alliance_with = FROM }
+			} 
+		}
+		FROM = {
+			exists = yes
+		}
+	}
+
+	allowed_states = {
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_transfer_provinces = yes
+	
+	war_name = WAR_NEGOTIATE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.00
+		}
 	}
 }
 

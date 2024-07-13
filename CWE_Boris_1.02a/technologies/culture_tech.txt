@@ -289,7 +289,6 @@ radio_network = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.025
 	
 	ai_chance = {
 		factor = 2
@@ -327,7 +326,6 @@ public_switched_telephone_network = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.025
 
 	ai_chance = {
 		factor = 2
@@ -367,7 +365,6 @@ pstn_network = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.025
 
 	ai_chance = {
 		factor = 2
@@ -405,7 +402,6 @@ telephone_exchange = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.025
 
 	ai_chance = {
 		factor = 2
@@ -435,7 +431,6 @@ early_networks = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.025
 
 	ai_chance = {
 		factor = 6
@@ -473,7 +468,6 @@ strd_internet = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.05
 
 	ai_chance = {
 		factor = 6
@@ -515,7 +509,6 @@ high_speed_uni_network = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.025
 	increase_research = 0.10
-	goods_demand = 0.05
 
 	ai_chance = {
 		factor = 6
@@ -547,7 +540,6 @@ uni_internet = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.10
 	increase_research = 0.10
-	goods_demand = 0.05
 
 	ai_chance = {
 		factor = 6
@@ -575,7 +567,6 @@ distributed_computing_research = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.10
 	increase_research = 0.10
-	goods_demand = 0.05
 
 	ai_chance = {
 		factor = 6
@@ -603,7 +594,6 @@ research_supercomputers = {
 	administrative_efficiency = 0.025
 	education_efficiency = 0.10
 	increase_research = 0.10
-	goods_demand = 0.05
 
 	ai_chance = {
 		factor = 6
