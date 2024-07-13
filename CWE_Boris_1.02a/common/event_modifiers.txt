@@ -2,6 +2,40 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+requested_grant = {
+	icon = 10
+}
+
+un_sanctions_veto = {
+	global_pop_militancy_modifier = 0.05
+	core_pop_consciousness_modifier = 0.05
+	icon = 4
+}
+
+kinda_bad_badboy = {
+	loan_interest = 10
+	tariff_efficiency_modifier = -0.40
+	mobilisation_economy_impact = 2
+	diplomatic_points_modifier = -0.6
+	factory_owner_cost = 1
+	global_immigrant_attract = -0.2
+	org_regain = -0.05
+	land_organisation = -0.02
+	naval_organisation = -0.02
+	factory_throughput = -0.25
+	import_cost = 1
+	RGO_throughput = -0.4
+	prestige = -0.2
+	war_exhaustion = 2
+	research_points_modifier = -0.6
+	cb_generation_speed_modifier = -0.3
+	global_pop_militancy_modifier = 0.2
+	global_pop_consciousness_modifier = 0.2
+	icon = 8
+}
+
+
+
 bureaucrats_fix_cooldown = {
 	icon = 12
 }
@@ -1687,8 +1721,8 @@ icon = 14
 ### UN Infamy Sanctions ###
 
 un_polit_sanc = {
-ruling_party_support = -0.5
-political_reform_desire = 0.25
+ruling_party_support = -0.1
+political_reform_desire = 0.05
 research_points_modifier = -0.05
 icon = 14
 }
@@ -3727,6 +3761,13 @@ oic_member = { prestige = 0.05 icon = 7 }
 oic_chairmanship = { prestige = 0.010 icon = 7 }
 
 ### UN Peace Mechanism ###
+
+called_allies_un_sanctions = {	
+	prestige = -0.01
+	icon = 18
+}
+
+
 
 stop_un_spam = {	
 	prestige = 0.01

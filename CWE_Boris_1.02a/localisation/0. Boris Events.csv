@@ -1,5 +1,11 @@
-CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;
-event_decision_title_desc;TEXT;;;;;;;;;;X;;;;;;;
-EVTDESC669967;WWII bombing adjustment;;;;;;;;;;X;;;;;;;
-EVTDESC669910;Your taxes are too high;;;;;;;;;;X;;;;;;;
-EVTDESC1200;World hunger fix;;;;;;;;;;X;;;;;;;
+CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;;x;;;;;;;;;;;;;;;;,
+event_decision_title_desc;TEXT;;;;;;;;;;X;;;;;;;,
+EVTDESC669967;WWII bombing adjustment;;;;;;;;;;X;;;;;;;,
+EVTDESC669910;Your taxes are too high;;;;;;;;;;X;;;;;;;,
+EVTDESC1200;World hunger fix;;;;;;;;;;X;;;;;;;,
+EVT_9010_NAME;UN Security Council on sanctions on $FROMCOUNTRY$;;;;;;;;;;;;;x,
+EVT_9010_DESC;Ongoing actions in $FROMCOUNTRY$ calls for the UN Security Council to act.;;;;;;;;;;;;;x,
+EVT_9010_A;Spinelessly Veto Security Council Resolution on the issue.;;;;;;;;;;;;;x,
+EVT_9010_B;Sanction $FROMCOUNTRY$!;;;;;;;;;;;;;x,
+EVT_9010_C;Conditions in $STATENAME$ must improve, but we can't afford a crisis now!;;;;;;;;;;;;;x
+EVT_9010_D;Conditions in $STATENAME$ must improve. Let the crisis evolve!;;;;;;;;;;;;;x,

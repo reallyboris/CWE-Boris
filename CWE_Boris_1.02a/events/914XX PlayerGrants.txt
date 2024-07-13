@@ -10,11 +10,11 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "Enable Giving Grants and Military Supplies"
+		name = "Enable Giving Military Supplies"
 		clr_country_flag = deny_grant
 	}
 	option = {
-		name = "Deny Giving Grants and Military Supplies"
+		name = "Deny Giving Military Supplies"
 		set_country_flag = deny_grant
 	}
 	option = {

@@ -2,7 +2,7 @@ political_decisions = {
 
 	will_receive = {
 		alert = no
-		picture = dollar
+		picture = hydrogen_bomb
 		potential = {
 			ai = no
 			NOT = { has_country_flag = will_receive_grants }
@@ -19,7 +19,7 @@ political_decisions = {
 
 	}
 
-	z1manage_grants = {
+	AAmanage_grants = {
 		picture = hydrogen_bomb
 		alert = no
 		potential = {

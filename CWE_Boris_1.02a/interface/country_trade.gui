@@ -340,12 +340,13 @@ guiTypes = {
 			format = centre
 		}
 		
-		checkboxType = {
-			name = "buy_from_stockpile"
-			position = { x = 715 y = 388 }
-			quadTextureSprite = "GFX_trade_stockpile_checkbox"
-			Orientation = "UPPER_LEFT"
-		}
+		######buy_from_stockpile breaks economy
+		#checkboxType = {
+		#	name = "buy_from_stockpile"
+		#	position = { x = 715 y = 388 }
+		#	quadTextureSprite = "GFX_trade_stockpile_checkbox"
+		#	Orientation = "UPPER_LEFT"
+		#}
 		
 		guiButtonType = {
 			name = "stockpile_sort_by_goods"
@@ -561,6 +562,7 @@ guiTypes = {
 				format = centre
 			}
 			
+###########THIS maxValue is stockpile size################
 			scrollbarType = {
 				name = "sell_slider"	
 				slider = "slider"
@@ -571,7 +573,7 @@ guiTypes = {
 				size = {x = 220 y = 20 }
 				priority = 100			
 				minValue = 0
-				maxValue = 3000
+				maxValue = 2800
 				stepSize = 2
 				startValue = 0
 				horizontal = 1
@@ -692,7 +694,7 @@ guiTypes = {
 			position = { x = 22 y = 4 }
 			name = "price"
 			font = "Arial10"
-			text = "99¤"
+			text = "99ï¿½"
 			maxWidth = 45
 			maxHeight = 24
 			format = right
