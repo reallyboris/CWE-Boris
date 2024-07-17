@@ -29,11 +29,7 @@ political_decisions = {
 
 			money = 2000000
 			
-			OR = { 
-				part_of_sphere = no 
-				rank = 28
-#				is_secondary_power = yes 
-				}
+			OR = { part_of_sphere = no is_secondary_power = yes }
 
 			OR = { 
 				ruling_party_ideology = socialist 
@@ -41,12 +37,31 @@ political_decisions = {
 				ruling_party_ideology = communist_social
 			}
 
-			any_country = {
-				capital_scope = { OR = { continent = mena is_core = SUD } }
-				ai = yes 
-				primary_culture = arab 
-				OR = { in_sphere = THIS vassal_of = THIS AND = { is_vassal = no relation = { who = THIS value = 200 } } } 
+			OR = {
+				AND = {
+					tag = SYR
+					EGY = {
+						ai = yes 
+						OR = { in_sphere = THIS vassal_of = THIS AND = { is_vassal = no relation = { who = THIS value = 200 } } } 
+					}
+				}
+				AND = {
+					tag = EGY
+					SYR = {
+						ai = yes 
+						OR = { in_sphere = THIS vassal_of = THIS AND = { is_vassal = no relation = { who = THIS value = 200 } } } 
+					}
+				}
+				AND = {
+					tag = SUD
+					EGY = {
+						ai = yes 
+						OR = { in_sphere = THIS vassal_of = THIS AND = { is_vassal = no relation = { who = THIS value = 200 } } } 
+					}
+				}
 			}
+
+
 
 		}
 

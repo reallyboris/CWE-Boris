@@ -10872,17 +10872,14 @@ any_owned_province = { is_core = GER }
 ENG = { any_owned_province = { is_core = GER } }
 has_country_flag = no_partition_of_west_germany
 #ENG = { has_country_flag = no_partition_of_west_germany }
-#OR = { 
-#exists = OG1 
-RUS = { has_country_flag = policy_on_germany } 
-#}
+OR = { exists = OG1 RUS = { has_country_flag = policy_on_germany } }
 NOT = { year = 1990 }
 NOT = { has_country_flag = form_bizonia }
 }
 
-#mean_time_to_happen = { 
-#months = 1
-#	}
+mean_time_to_happen = { 
+months = 1
+	}
 
 option = {
 name = "Propose the Bizone to the British (80% chance of success)"

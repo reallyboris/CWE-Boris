@@ -139,6 +139,18 @@ substate = {
 }
 vassal = {
 	first = USA
+	second = OG4
+	start_date = 1945.1.1
+	end_date = 1947.1.1
+}
+vassal = {
+	first = RUS
+	second = OG1
+	start_date = 1945.1.1
+	end_date = 1947.1.1
+}
+vassal = {
+	first = USA
 	second = ICL
 	start_date = 1945.1.1
 	end_date = 1947.1.1

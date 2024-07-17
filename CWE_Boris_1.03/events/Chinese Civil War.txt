@@ -352,6 +352,10 @@ country_event = {
 			move_pop = 1485 # Taibei
 		}
 		
+		any_pop = { limit = { OR = { type = aristocrats type = capitalists } } money = 800000 }
+		any_pop = { limit = { OR = { type = bureaucrats type = officers type = soldiers } } money = 80000 }
+		any_pop = { limit = { OR = { type = aristocrats type = capitalists } } money = 100000 }
+
 		KMT = { inherit = TAI }
 		
 		#Capital Taipei for the KMT
