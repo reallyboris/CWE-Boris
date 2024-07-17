@@ -66,7 +66,7 @@ country_event = {
 
 	trigger = {
     	tag = USA
-		year = 1947 
+#		year = 1947 
 		NOT = { year = 1990 }
 		
 		any_owned_province = { is_core = GER }
@@ -75,10 +75,10 @@ country_event = {
 		has_country_flag = occupation_zones_in_germany
 	}
 
-	mean_time_to_happen = { 
-		months = 8 
-		modifier = { factor = 0.1 year = 1948 } 
-	}
+#	mean_time_to_happen = { 
+#		months = 8 
+#		modifier = { factor = 0.1 year = 1948 } 
+#	}
 
 	immediate = { set_country_flag = policy_on_germany }
 
@@ -615,7 +615,7 @@ country_event = {
 
 	trigger = {
     	tag = RUS
-		year = 1948 
+		year = 1947 
 		NOT = { year = 1955 }
 		
 		government = proletarian_dictatorship
@@ -628,7 +628,7 @@ country_event = {
     	NOT = { has_country_flag = no_partition_of_west_germany }
 	}
 
-	mean_time_to_happen = { months = 2 }
+#	mean_time_to_happen = { months = 2 }
 
 	option = {
 		name = "Create the beginnings of an East German state"
@@ -660,6 +660,7 @@ country_event = {
 		relation = { who = USA value = -100 }
 		badboy = 5
 		ai_chance = { factor = 0.1 }
+		inherit = OG1
 	}
 
 }
@@ -917,7 +918,7 @@ country_event = {
 #Question of the 1937 German Borders
 country_event = {
   id = 82041001
-  title = "Recognition of the Oder–Neisse Line?"
+  title = "Recognition of the Oderï¿½Neisse Line?"
   desc = EVT_82041001_DESC
   picture = "oder_line"
   
@@ -935,7 +936,7 @@ country_event = {
 	mean_time_to_happen = { months = 1 }
 
 	option = {
-		name = "Refuse to recognise the Oder–Neisse Line!"
+		name = "Refuse to recognise the Oderï¿½Neisse Line!"
 
 		badboy = 5
 
@@ -944,7 +945,7 @@ country_event = {
 
 		set_country_flag = oder_line_claim
 
-		#Oder–Neisse Line claims
+		#Oderï¿½Neisse Line claims
 
 		685 = { add_core = GER }
 		684 = { add_core = GER }
@@ -1043,7 +1044,7 @@ country_event = {
 
 	trigger = {
 		tag = USA
-		year = 1955
+		year = 1952
 		NOT = { year = 1990 }
 		
 		#Cold War

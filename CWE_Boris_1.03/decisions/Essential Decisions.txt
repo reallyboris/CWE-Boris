@@ -229,7 +229,7 @@ political_decisions = {
 				government = hms_government 
 			}
 			is_vassal = no
-			new_growth_theory = 1
+			year = 1948
 			NOT = { has_country_flag = germaneconomy }
 		}
 		effect = {
