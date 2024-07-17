@@ -66,7 +66,7 @@ OR = { AND = { OR = { government = proletarian_dictatorship government = proleta
 	option = {
 		name = "Weaknesspays!"
 		treasury = 2000000
-		badboy = -1
+		badboy = 0.5
 			}
 }
 
@@ -140,7 +140,7 @@ country_event = {
 	
 	option = {
 		name = "We thank our Communist Brothers!"
-		treasury = 880000
+		treasury = 1080000
 				}
 }
 
@@ -199,7 +199,7 @@ country_event = {
 	
 	option = {
 		name = "Money really does grows on trees!"
-		any_owned = { owner = { money = 20000 } }
+		any_owned = { owner = { money = 50000 } }
 		any_pop = { limit = { culture = french } money = 5 }
 		any_pop = { limit = { culture = white_french } money = 10 }
 		any_pop = { limit = { culture = jewish } money = 10 }
