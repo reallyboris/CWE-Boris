@@ -5203,9 +5203,6 @@ icon = 16
 }
 
 cold_war_low = {
-
-#global_pop_consciousness_modifier = -0.25
-
 badboy = -0.01
 icon = 16
 }
@@ -7360,12 +7357,12 @@ unrecognized_government  = {
  
 ### Great War ###
 
-#international_pariah = {
-#	diplomatic_points_modifier = -0.25
-#	non_accepted_pop_militancy_modifier = 0.1
-#	prestige = -0.01
-#	icon = 4
-#}
+international_pariah = {
+	diplomatic_points_modifier = -0.25
+	non_accepted_pop_militancy_modifier = 0.1
+	prestige = -0.01
+	icon = 4
+}
 
 apartheid = {
 	prestige = -0.01
