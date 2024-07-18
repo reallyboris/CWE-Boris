@@ -1003,7 +1003,7 @@ intensive_farming = {
 	rgo_output = 0.10
 
 	#Farms and mines become more efficient
-	farm_rgo_eff = 0.2
+	farm_rgo_eff = 0.25
 	mine_rgo_eff = 0.1
 	
 	ai_chance = {
@@ -1060,7 +1060,7 @@ mineral_processing = {
 	
 	#Farms and mines become more efficient
 	farm_rgo_eff = 0.05
-	mine_rgo_eff = 0.1
+	mine_rgo_eff = 0.2
 	
 	ai_chance = {
 		factor = 1.1
