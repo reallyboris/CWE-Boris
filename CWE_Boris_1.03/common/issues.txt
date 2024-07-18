@@ -9,7 +9,7 @@ party_issues = {
 			min_tariff = 0.01
 		}
 		free_trade = {
-			max_tariff = 0.00
+			max_tariff = 0.02
 			min_tariff = -1
 		}
 	}
