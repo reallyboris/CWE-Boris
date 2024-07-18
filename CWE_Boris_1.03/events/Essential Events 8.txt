@@ -8541,14 +8541,14 @@ country_event = {
 				is_core = CHI 
 				is_state_capital = no 
 			}
-			any_pop = { literacy = 0.02 militancy = 2 }
+			any_pop = { literacy = 0.03 militancy = 2 }
 		}
 		any_owned = {
 			limit = { 
 				is_core = CHI 
 				is_state_capital = yes
 			}
-			any_pop = { literacy = 0.05 militancy = 3 }
+			any_pop = { literacy = 0.06 militancy = 3 }
 		}
 		
 		#Remove high pop growth modifiers
