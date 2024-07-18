@@ -6201,6 +6201,15 @@ activate_technology = guerrilla
 activate_technology = heavy_tanks
 activate_technology = post_war_radar
 activate_technology = infantry
+activate_technology = fossil_fuel_power
+activate_technology = radio
+activate_technology = intensive_farming
+activate_technology = modern_roads
+activate_technology = electricity
+any_pop = { limit = { culture = chinese OR = { type = clerks type = craftsmen } } money = 100000 }
+any_pop = { limit = { culture = chinese OR = { type = artisans } } money = 800000 }
+any_pop = { limit = { culture = chinese OR = { type = bureaucrats type = officers type = soldiers type = clergymen } } money = 50000 }
+any_pop = { limit = { culture = chinese OR = { type = aristocrats type = capitalists } } money = 800000 }
 		}
 
 }
