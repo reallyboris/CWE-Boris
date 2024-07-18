@@ -86,7 +86,7 @@ medium_farm = {
 }
 
 us_immigration_start_fix ={
-immigrant_attract = 1.4
+immigrant_attract = 3
 }
 
 us_tax_start_fix ={
