@@ -11,8 +11,18 @@ life_rating = 35
 terrain = urban_hong_kong
 colonial = 0
 state_building = {
+	level = 8
+	building = petroleum_fuel_factory
+	upgrade = yes
+}
+state_building = {
 	level = 1
 	building = jewellery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = beverages_factory
 	upgrade = yes
 }
 1992.1.1 = {
