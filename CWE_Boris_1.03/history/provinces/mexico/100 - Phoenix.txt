@@ -8,17 +8,12 @@ terrain = special_grand_canyon
 railroad = 1
 colonial = 0
 state_building = {
-	level = 1
-	building = glass_factory
+	level = 5
+	building = oil_seeds_canned_food_factory
 	upgrade = yes
 }
 state_building = {
 	level = 1
-	building = jewellery_factory
-	upgrade = yes
-}
-state_building = {
-	level = 4
 	building = copper_wire_factory
 	upgrade = yes
 }

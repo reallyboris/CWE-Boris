@@ -6,7 +6,11 @@ life_rating = 30
 terrain = urban_batavia
 colonial = 2
 naval_base = 1
-
+state_building = {
+	level = 5
+	building = oil_seeds_canned_food_factory
+	upgrade = yes
+}
 1950.1.1 = {
 owner = IDO
 controller = IDO
@@ -27,11 +31,6 @@ state_building = {
 state_building = {
 	level = 6
 	building = grain_canned_food_factory
-	upgrade = yes
-}
-state_building = {
-	level = 6
-	building = oil_seeds_canned_food_factory
 	upgrade = yes
 }
 state_building = {
