@@ -87,6 +87,7 @@ medium_farm = {
 
 us_immigration_start_fix ={
 immigrant_attract = 3
+global_assimilation_rate = 0.5
 }
 
 us_tax_start_fix ={
@@ -854,7 +855,7 @@ icon = 13
 occupied_province = {
 immigrant_attract = -0.5
 immigrant_push = 0.5
-assimilation_rate = -0.5
+assimilation_rate = -1
 pop_militancy_modifier = 0.05
 number_of_voters = -1
 icon = 20
