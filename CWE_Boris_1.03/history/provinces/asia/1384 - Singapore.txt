@@ -7,13 +7,23 @@ naval_base = 2
 terrain = urban_singapore
 colonial = 0
 state_building = {
-	level = 2
+	level = 3
 	building = fish_canned_food_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
+	level = 1
+	building = petroleum_fuel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
 	building = heating_electricity_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = beverages_factory
 	upgrade = yes
 }
 1992.1.1 = {

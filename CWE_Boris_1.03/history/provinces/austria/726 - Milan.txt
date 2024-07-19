@@ -11,6 +11,11 @@ state_building = {
 	building = fabric_factory
 	upgrade = yes
 }
+state_building = {
+	level = 1
+	building = paper_factory
+	upgrade = yes
+}
 1992.1.1 = {
 owner = ITA
 controller = ITA
