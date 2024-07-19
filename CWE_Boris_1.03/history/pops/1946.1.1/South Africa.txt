@@ -2505,20 +2505,25 @@
 	 } 
 	artisans = {
 		culture = afrikaaner
+		religion =  secularism
+		size = 500
+	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion =  protestant 
+		size = 24034
+	 } 
+	craftsmen = {
+		culture = afrikaaner
 		religion = secularism
 		size = 1194
 	 } 
-	artisans = {
-		culture = afrikaaner
-		religion =  protestant 
-		size = 24534
-	 } 
-	craftsmen = {
+	clerks = {
 		culture = afrikaaner
 		religion =  protestant 
 		size = 90
 	 } 
-	craftsmen = {
+	clerks = {
 		culture = afrikaaner
 		religion = secularism
 		size = 10
@@ -2824,15 +2829,25 @@
 		religion = secularism
 		size = 36
 	 } 
+	clerks = {
+		culture = afrikaaner
+		religion =  protestant 
+		size = 2280
+	 } 
+	clerks = {
+		culture = afrikaaner
+		religion = secularism
+		size = 20
+	 } 
 	craftsmen = {
 		culture = afrikaaner
 		religion =  protestant 
-		size = 280
+		size = 18000
 	 } 
 	craftsmen = {
 		culture = afrikaaner
 		religion = secularism
-		size = 20
+		size = 300
 	 } 
 	artisans = {
 		culture = black_anglo
@@ -2857,12 +2872,12 @@
 	farmers = {
 		culture = zulu
 		religion =  protestant 
-		size = 120218
+		size = 100218
 	 } 
 	farmers = {
 		culture = zulu
 		religion = secularism
-		size = 4506
+		size = 4206
 	 } 
 	farmers = {
 		culture = zulu
@@ -2917,65 +2932,65 @@
 		religion = secularism
 		size = 958
 	 } 
-	aristocrats = {
-		culture = black_anglo
+	craftsmen = {
+		culture = afrikaaner
+		religion =  protestant 
+		size = 4033
+	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion = secularism
+		size = 138
+	 } 
+	clerks = {
+		culture = afrikaaner
 		religion =  protestant 
 		size = 1097
 	 } 
-	aristocrats = {
-		culture = black_anglo
+	clerks = {
+		culture = afrikaaner
 		religion = secularism
 		size = 68
 	 } 
 	bureaucrats = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion =  protestant 
 		size = 54
 	 } 
 	bureaucrats = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion = secularism
 		size = 8
 	 } 
 	capitalists = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion =  protestant 
 		size = 276
 	 } 
 	capitalists = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion = secularism
 		size = 40
 	 } 
 	clergymen = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion =  protestant 
 		size = 453
 	 } 
 	clergymen = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion = secularism
 		size = 81
 	 } 
 	artisans = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion =  protestant 
 		size = 1817
 	 } 
 	artisans = {
-		culture = black_anglo
+		culture = afrikaaner
 		religion = secularism
 		size = 79
-	 } 
-	farmers = {
-		culture = black_anglo
-		religion =  protestant 
-		size = 4033
-	 } 
-	farmers = {
-		culture = black_anglo
-		religion = secularism
-		size = 138
 	 } 
 	farmers = {
 		culture = zulu
@@ -3033,12 +3048,12 @@
 	aristocrats = {
 		culture = afrikaaner
 		religion =  protestant 
-		size = 14055
+		size = 5055
 	 } 
 	aristocrats = {
 		culture = afrikaaner
 		religion = secularism
-		size = 1289
+		size = 289
 	 } 
 	bureaucrats = {
 		culture = afrikaaner
@@ -3080,15 +3095,25 @@
 		religion = secularism
 		size = 41
 	 } 
-	artisans = {
-		culture = black_anglo
+	clerks = {
+		culture = afrikaaner
 		religion =  protestant 
-		size = 2520
+		size = 3900
 	 } 
-	artisans = {
-		culture = black_anglo
+	clekrs = {
+		culture = afrikaaner
 		religion = secularism
-		size = 27
+		size = 100
+	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion =  protestant 
+		size = 8020
+	 } 
+	craftsmen = {
+		culture = afrikaaner
+		religion = secularism
+		size = 527
 	 } 
 	farmers = {
 		culture = black_anglo
