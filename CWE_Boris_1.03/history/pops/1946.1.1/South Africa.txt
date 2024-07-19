@@ -467,7 +467,7 @@
 	 } 
 	bureaucrats = {
 		culture = afrikaaner
-		religion =  secularism 
+		religion = secularism 
 		size = 2
 	 } 
 	capitalists = {
@@ -2505,7 +2505,7 @@
 	 } 
 	artisans = {
 		culture = afrikaaner
-		religion =  secularism
+		religion = secularism
 		size = 500
 	 } 
 	craftsmen = {
@@ -3100,7 +3100,7 @@
 		religion =  protestant 
 		size = 3900
 	 } 
-	clekrs = {
+	clerks = {
 		culture = afrikaaner
 		religion = secularism
 		size = 100
@@ -4405,7 +4405,7 @@
          } 
 	farmers = {
 		culture = ovambo
-		religion =  secularism
+		religion = secularism
 		size = 211
 	 } 
 }
