@@ -91,12 +91,12 @@
 		size = 2848
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 150493
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 1904
 	 } 
@@ -104,92 +104,92 @@
 #Boma - Bas-Congo (911000/227750 POPS)
 1983 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 674
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 8
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 2698
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 34
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 8996
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 113
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 224
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 1123
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 14
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 2248
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 28
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 2725
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 34
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 149985
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 1898
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 50464
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 638
 	 } 
@@ -277,12 +277,12 @@
 		size = 2286
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 57213
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 724
 	 } 
@@ -290,92 +290,92 @@
 #Kumbana - Bandundu (1625000/406250 POPS)
 1985 = {
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 1202
 	 } 
 	officers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 15
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 4814
 	 } 
 	soldiers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 60
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 16046
 	 } 
 	aristocrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 203
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 400
 	 } 
 	bureaucrats = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 5
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 2005
 	 } 
 	capitalists = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 25
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 4011
 	 } 
 	clergymen = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 50
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 4861
 	 } 
 	artisans = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 61
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion =  catholic 
 		size = 211371
 	 } 
 	farmers = {
-		culture = bakongo
+		culture = mongo
 		religion = secularism
 		size = 2675
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 146184
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 1850
 	 } 
@@ -966,12 +966,12 @@
 		size = 261
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 23538
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 297
 	 } 
@@ -1142,12 +1142,12 @@
 		size = 2422
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 79018
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 1256
 	 } 
@@ -1235,12 +1235,12 @@
 		size = 422
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 18268
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 256
 	 } 
@@ -1323,12 +1323,12 @@
 		size = 261
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 23538
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 297
 	 } 
@@ -1416,12 +1416,12 @@
 		size = 776
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion =  catholic 
 		size = 69799
 	 } 
 	farmers = {
-		culture = lingala
+		culture = mongo
 		religion = secularism
 		size = 883
 	 } 
@@ -1532,77 +1532,77 @@
 #Baramo - Orientale (201000/50250 POPS)
 1998 = {
 	officers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 148
 	 } 
 	officers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 595
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 49
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 247
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 495
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 600
 	 } 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 44227
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 559
 	 } 

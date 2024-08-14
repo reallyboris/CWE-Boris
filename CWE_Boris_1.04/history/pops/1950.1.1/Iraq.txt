@@ -367,12 +367,12 @@
 	artisans = {
 		culture = arab_mesopotamian
 		religion =  shiite 
-		size = 2256
+		size = 62256
 	 } 
 	farmers = {
 		culture = arab_mesopotamian
 		religion =  shiite 
-		size = 77209
+		size = 17209
 	 } 
 
 	#For Pan-Arab and National Arab

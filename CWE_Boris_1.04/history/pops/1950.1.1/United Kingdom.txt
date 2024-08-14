@@ -4017,92 +4017,92 @@
 #Waw - Waw (252000/63000 POPS)
 1843 = {
 	officers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 184
 	 } 
 	officers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 738
 	 } 
 	soldiers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 2463
 	 } 
 	aristocrats = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 56
 	 } 
 	bureaucrats = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 61
 	 } 
 	bureaucrats = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 307
 	 } 
 	capitalists = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 615
 	 } 
 	clergymen = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 722
 	 } 
 	artisans = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 16
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 47250
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 1087
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion =  protestant 
 		size = 7821
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = secularism
 		size = 180
 	 } 
@@ -4110,82 +4110,82 @@
 #Bor - Bor (745000/186250 POPS)
 1844 = {
 	officers = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 545
 	 } 
 	officers = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 2184
 	 } 
 	soldiers = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 50
 	 } 
 	aristocrats = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 7282
 	 } 
 	aristocrats = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 167
 	 } 
 	bureaucrats = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 181
 	 } 
 	bureaucrats = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	capitalists = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 910
 	 } 
 	capitalists = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	clergymen = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 1820
 	 } 
 	clergymen = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 41
 	 } 
 	artisans = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 2134
 	 } 
 	artisans = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 49
 	 } 
 	farmers = {
-		culture = shilluk
+		culture = african_minor
 		religion =  protestant 
 		size = 3146
 	 } 
 	farmers = {
-		culture = shilluk
+		culture = african_minor
 		religion = secularism
 		size = 72
 	 } 
@@ -4200,18 +4200,18 @@
 		size = 460
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 114696
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 2640
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
+		religion =  protestant 
 		size = 24942
 	 } 
 	farmers = {
@@ -4223,77 +4223,77 @@
 #Yambio - Yambio (140000/35000 POPS)
 1845 = {
 	officers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 102
 	 } 
 	officers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 410
 	 } 
 	soldiers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 9
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 1368
 	 } 
 	aristocrats = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	bureaucrats = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 34
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 171
 	 } 
 	capitalists = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 342
 	 } 
 	clergymen = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 400
 	 } 
 	artisans = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 9
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 30594
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 704
 	 } 
@@ -4301,98 +4301,98 @@
 #Lado - Lado (255000/63750 POPS)
 1846 = {
 	officers = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 186
 	 } 
 	officers = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 747
 	 } 
 	soldiers = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 2492
 	 } 
 	aristocrats = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 57
 	 } 
 	bureaucrats = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 61
 	 } 
 	bureaucrats = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 310
 	 } 
 	capitalists = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 622
 	 } 
 	clergymen = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 730
 	 } 
 	artisans = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 16
 	 } 
 	farmers = {
-		culture = bari
+		culture = african_minor
 		religion =  protestant 
 		size = 22889
 	 } 
 	farmers = {
-		culture = bari
+		culture = african_minor
 		religion = secularism
 		size = 526
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion =  protestant 
 		size = 3738
 	 } 
 	farmers = {
-		culture = azande
+		culture = african_minor
 		religion = secularism
 		size = 86
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
+		religion =  protestant 
 		size = 29100
 	 } 
 	farmers = {
@@ -6497,7 +6497,7 @@
 	aristocrats = {
 		culture = ijaw
 		religion =  protestant 
-		size = 18087
+		size = 158087
 	 } 
 	aristocrats = {
 		culture = ijaw
@@ -6567,7 +6567,7 @@
 	farmers = {
 		culture = ibo
 		religion =  protestant 
-		size = 333718
+		size = 183718
 	 } 
 	farmers = {
 		culture = ibo
@@ -6693,12 +6693,12 @@
 	aristocrats = {
 		culture = ibo
 		religion =  protestant 
-		size = 15201
+		size = 180201
 	 } 
 	aristocrats = {
 		culture = ibo
 		religion = secularism
-		size = 758
+		size = 25758
 	 } 
 	bureaucrats = {
 		culture = ibo
@@ -6743,7 +6743,7 @@
 	farmers = {
 		culture = ibo
 		religion =  protestant 
-		size = 322837
+		size = 172837
 	 } 
 	farmers = {
 		culture = ibo
@@ -6776,12 +6776,12 @@
 	aristocrats = {
 		culture = ibibio
 		religion =  protestant 
-		size = 11344
+		size = 101344
 	 } 
 	aristocrats = {
 		culture = ibibio
 		religion = secularism
-		size = 565
+		size = 10565
 	 } 
 	bureaucrats = {
 		culture = ibibio
@@ -6826,7 +6826,7 @@
 	farmers = {
 		culture = ibibio
 		religion =  protestant 
-		size = 240914
+		size = 140914
 	 } 
 	farmers = {
 		culture = ibibio
@@ -8158,12 +8158,12 @@
 		size = 351
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 16124
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 239
 	 } 
@@ -8256,12 +8256,12 @@
 		size = 25
 	 } 
 	farmers = {
-		culture = lozi
+		culture = ovambo
 		religion =  protestant 
 		size = 21797
 	 } 
 	farmers = {
-		culture = lozi
+		culture = ovambo
 		religion = secularism
 		size = 275
 	 } 
@@ -8342,77 +8342,77 @@
 #Monzo - Monzo (201000/50250 POPS)
 2015 = {
 	officers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 148
 	 } 
 	officers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 595
 	 } 
 	soldiers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	aristocrats = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 1984
 	 } 
 	aristocrats = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 25
 	 } 
 	bureaucrats = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 49
 	 } 
 	capitalists = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 247
 	 } 
 	capitalists = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 495
 	 } 
 	clergymen = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	artisans = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 686
 	 } 
 	artisans = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion =  protestant 
 		size = 34000
 	 } 
 	farmers = {
-		culture = tonga
+		culture = african_minor
 		religion = secularism
 		size = 430
 	 } 
@@ -8872,18 +8872,18 @@
 		size = 1024
 	 } 
 	farmers = {
-		culture = kiga
+		culture = nyakole
 		religion =  protestant 
 		size = 74200
 	 } 
 	farmers = {
-		culture = kiga
+		culture = nyakole
 		religion = secularism
 		size = 939
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
+		religion =  protestant 
 		size = 108447
 	 } 
 	farmers = {
@@ -8895,88 +8895,88 @@
 #Masindi - Masindi (472000/118000 POPS)
 2021 = {
 	officers = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 349
 	 } 
 	officers = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 1398
 	 } 
 	soldiers = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 4661
 	 } 
 	aristocrats = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 59
 	 } 
 	bureaucrats = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 116
 	 } 
 	bureaucrats = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 582
 	 } 
 	capitalists = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 1165
 	 } 
 	clergymen = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 641
 	 } 
 	artisans = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	farmers = {
-		culture = langi
+		culture = african_minor
 		religion =  protestant 
 		size = 57504
 	 } 
 	farmers = {
-		culture = langi
+		culture = african_minor
 		religion = secularism
 		size = 727
 	 } 
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
+		religion =  protestant 
 		size = 50105
 	 } 
 	farmers = {
@@ -9227,57 +9227,57 @@
 #Marsabit - Eastern (46000/11500 POPS)
 2025 = {
 	officers = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 33
 	 } 
 	soldiers = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 136
 	 } 
 	soldiers = {
-		culture = meru
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	aristocrats = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 456
 	 } 
 	aristocrats = {
-		culture = meru
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	bureaucrats = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 10
 	 } 
 	capitalists = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 56
 	 } 
 	clergymen = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 114
 	 } 
 	artisans = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 96
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 10494
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion = secularism
 		size = 79
 	 } 
@@ -9285,77 +9285,77 @@
 #Lodwar - Rift Valley (252000/63000 POPS)
 2026 = {
 	officers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 187
 	 } 
 	officers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 750
 	 } 
 	soldiers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	aristocrats = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 2501
 	 } 
 	aristocrats = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 18
 	 } 
 	bureaucrats = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 62
 	 } 
 	capitalists = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 312
 	 } 
 	capitalists = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 625
 	 } 
 	clergymen = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	artisans = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 529
 	 } 
 	artisans = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	farmers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 12538
 	 } 
 	farmers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 94
 	 } 
@@ -9373,102 +9373,102 @@
 #Nakuru - Rift Valley (1334000/333500 POPS)
 2027 = {
 	officers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 992
 	 } 
 	officers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 3971
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 30
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 13239
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 100
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 330
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 1654
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 3309
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 25
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 2805
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 21
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 3484
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 26
 	 } 
 	farmers = {
-		culture = kisii
+		culture = african_minor
 		religion =  protestant 
 		size = 46339
 	 } 
 	farmers = {
-		culture = kisii
+		culture = african_minor
 		religion = secularism
 		size = 350
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion =  protestant 
 		size = 36409
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = secularism
 		size = 275
 	 } 
@@ -9483,12 +9483,12 @@
 		size = 1025
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 82383
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion = secularism
 		size = 622
 	 } 
@@ -9496,102 +9496,102 @@
 #Kisumu - Western, Nyanza (1549000/387250 POPS)
 2028 = {
 	officers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 1152
 	 } 
 	officers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	soldiers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 4612
 	 } 
 	soldiers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 34
 	 } 
 	aristocrats = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 15373
 	 } 
 	aristocrats = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 116
 	 } 
 	bureaucrats = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 384
 	 } 
 	bureaucrats = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 1921
 	 } 
 	capitalists = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	clergymen = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 3842
 	 } 
 	clergymen = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 29
 	 } 
 	artisans = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 3258
 	 } 
 	artisans = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 24
 	 } 
 	farmers = {
-		culture = luhya
+		culture = african_minor
 		religion =  protestant 
 		size = 146253
 	 } 
 	farmers = {
-		culture = luhya
+		culture = african_minor
 		religion = secularism
 		size = 1105
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion =  protestant 
 		size = 161425
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = secularism
 		size = 1219
 	 } 
 	farmers = {
-		culture = kisii
+		culture = african_minor
 		religion =  protestant 
 		size = 45695
 	 } 
 	farmers = {
-		culture = kisii
+		culture = african_minor
 		religion = secularism
 		size = 345
 	 } 
@@ -9674,12 +9674,12 @@
 		size = 22135
 	 } 
 	farmers = {
-		culture = kamba
+		culture = african_minor
 		religion =  protestant 
 		size = 84278
 	 } 
 	farmers = {
-		culture = kamba
+		culture = african_minor
 		religion = secularism
 		size = 636
 	 } 
@@ -9936,22 +9936,22 @@
 		size = 176
 	 } 
 	farmers = {
-		culture = kamba
+		culture = african_minor
 		religion =  protestant 
 		size = 80332
 	 } 
 	farmers = {
-		culture = kamba
+		culture = african_minor
 		religion = secularism
 		size = 607
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion =  protestant 
 		size = 90669
 	 } 
 	farmers = {
-		culture = meru
+		culture = african_minor
 		religion = secularism
 		size = 685
 	 } 
@@ -10586,12 +10586,12 @@
 		size = 5272
 	 } 
 	farmers = {
-		culture = luo
-		religion =  protestant 
+		culture = african_minor
+		religion =  catholic 
 		size = 58588
 	 } 
 	farmers = {
-		culture = luo
+		culture = african_minor
 		religion = secularism
 		size = 741
 	 } 
@@ -10770,82 +10770,82 @@
 #Arusha - Arusha (555000/138750 POPS)
 2047 = {
 	officers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 410
 	 } 
 	officers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 1644
 	 } 
 	soldiers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 5480
 	 } 
 	aristocrats = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 69
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 136
 	 } 
 	bureaucrats = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 684
 	 } 
 	capitalists = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 1369
 	 } 
 	clergymen = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 17
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 1292
 	 } 
 	artisans = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 16
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african_minor
 		religion =  protestant 
 		size = 28715
 	 } 
 	farmers = {
-		culture = maasai
+		culture = african_minor
 		religion = secularism
 		size = 363
 	 } 
@@ -11184,12 +11184,12 @@
 		size = 348
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 30422
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 1267
 	 } 
@@ -11197,92 +11197,92 @@
 #Serowe - Central, North-East (106000/26500 POPS)
 2075 = {
 	officers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 75
 	 } 
 	officers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 3
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 305
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 12
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 1017
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 42
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 50
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 126
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 5
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 254
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 10
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 553
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 23
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 1431
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 59
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 19338
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 805
 	 } 
@@ -11290,97 +11290,97 @@
 #Nokaneng - Ghanzi, North-West (39000/9750 POPS)
 2076 = {
 	officers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 27
 	 } 
 	officers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 112
 	 } 
 	soldiers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 4
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 374
 	 } 
 	aristocrats = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 15
 	 } 
 	bureaucrats = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 18
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 46
 	 } 
 	capitalists = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 1
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 93
 	 } 
 	clergymen = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 3
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 203
 	 } 
 	artisans = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 8
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion =  protestant 
 		size = 3430
 	 } 
 	farmers = {
-		culture = shona
+		culture = zulu
 		religion = secularism
 		size = 142
 	 } 
 	farmers = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 561
 	 } 
 	farmers = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 23
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 3649
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 152
 	 } 
@@ -11388,77 +11388,77 @@
 #Tsabong - Ghanzi, Kgalagadi (17000/4250 POPS)
 2077 = {
 	officers = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 11
 	 } 
 	soldiers = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 48
 	 } 
 	soldiers = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 2
 	 } 
 	aristocrats = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 163
 	 } 
 	aristocrats = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 6
 	 } 
 	bureaucrats = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 7
 	 } 
 	capitalists = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 20
 	 } 
 	clergymen = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 40
 	 } 
 	clergymen = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 1
 	 } 
 	artisans = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 88
 	 } 
 	artisans = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 3
 	 } 
 	farmers = {
-		culture = khoisan
+		culture = ovambo
 		religion =  protestant 
 		size = 109
 	 } 
 	farmers = {
-		culture = khoisan
+		culture = ovambo
 		religion = secularism
 		size = 4
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 3221
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 134
 	 } 
@@ -15206,82 +15206,82 @@
 #Mochudi - Kgatleng, Kwenen (67000/16750 POPS)
 2574 = {
 	officers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 48
 	 } 
 	officers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 192
 	 } 
 	soldiers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 8
 	 } 
 	aristocrats = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 643
 	 } 
 	aristocrats = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 26
 	 } 
 	bureaucrats = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 31
 	 } 
 	bureaucrats = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 79
 	 } 
 	capitalists = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 160
 	 } 
 	clergymen = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 6
 	 } 
 	artisans = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 349
 	 } 
 	artisans = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 14
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion =  protestant 
 		size = 13128
 	 } 
 	farmers = {
-		culture = tswana
+		culture = ovambo
 		religion = secularism
 		size = 547
 	 } 
@@ -15621,102 +15621,102 @@
 #Dundee - Dundee (627000/156750 POPS)
 268 = {
 	officers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 2064
 	 } 
 	officers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 261
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 8259
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 1046
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 5564
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 705
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 138
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 17
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 694
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 88
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 1390
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 176
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 4007
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 507
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 3806
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 482
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 12221
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 1549
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 3587
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 454
 	 } 
@@ -15734,102 +15734,102 @@
 #Edinburgh - Edinburgh (844000/211000 POPS)
 269 = {
 	officers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 2778
 	 } 
 	officers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 352
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 11117
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 1409
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 7490
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 949
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 187
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 23
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 936
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 118
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 1872
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 237
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 5394
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 683
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 5124
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 649
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 16451
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 2085
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 42277
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 5359
 	 } 
@@ -15950,92 +15950,92 @@
 #Glasgow - Glasgow (2735000/683750 POPS)
 271 = {
 	officers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 9007
 	 } 
 	officers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 1141
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 36028
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 4567
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 24273
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 3076
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 606
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 76
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 3033
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 384
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 6067
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 769
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 17479
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 2215
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 16605
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 2104
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 32537
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 4124
 	 } 
@@ -16063,102 +16063,102 @@
 #Dumfries - Dumfries (264000/66000 POPS)
 272 = {
 	officers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 868
 	 } 
 	officers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 110
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 3477
 	 } 
 	soldiers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 440
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 2343
 	 } 
 	aristocrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 297
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 58
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 7
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 292
 	 } 
 	capitalists = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 37
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 585
 	 } 
 	clergymen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 74
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 1687
 	 } 
 	clerks = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 213
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 1602
 	 } 
 	artisans = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 203
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 5145
 	 } 
 	craftsmen = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 652
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion =  protestant 
 		size = 36655
 	 } 
 	farmers = {
-		culture = english
+		culture = scottish
 		religion = secularism
 		size = 4646
 	 } 
@@ -16176,102 +16176,102 @@
 #Cardiff - Cardiff (1218000/304500 POPS)
 273 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 3660
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 858
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 14643
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 3435
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 6165
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1446
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1479
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 347
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1479
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 347
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 4932
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1157
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 6855
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1608
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 6512
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1527
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 20910
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 4904
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 51748
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 12138
 	 } 
@@ -16289,102 +16289,102 @@
 #Cardigan - Cardigan (303000/75750 POPS)
 274 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 910
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 213
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 3642
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 854
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1533
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 359
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 367
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 86
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 367
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 86
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1227
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 287
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1705
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 399
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1620
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 380
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 5201
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1220
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1831
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 429
 	 } 
@@ -16402,102 +16402,102 @@
 #Llandrindod - Llandrindod (106000/26500 POPS)
 275 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 318
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 74
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1274
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 298
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 536
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 125
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 128
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 30
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 128
 	 } 
 	capitalists = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 30
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 429
 	 } 
 	clergymen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 100
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 596
 	 } 
 	clerks = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 139
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 566
 	 } 
 	artisans = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 132
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 1819
 	 } 
 	craftsmen = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 426
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 9228
 	 } 
 	farmers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 2164
 	 } 
@@ -16515,42 +16515,42 @@
 #Holyhead - Holyhead (851000/212750 POPS)
 276 = {
 	officers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 2557
 	 } 
 	officers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 599
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 10231
 	 } 
 	soldiers = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 2399
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 4307
 	 } 
 	aristocrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 1010
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion =  protestant 
 		size = 136
 	 } 
 	bureaucrats = {
-		culture = english
+		culture = welsh
 		religion = secularism
 		size = 32
 	 } 
@@ -19537,77 +19537,77 @@
 #Blue Nile - Blue Nile (178000/44500 POPS)
 3277 = {
 	officers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 130
 	 } 
 	officers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 521
 	 } 
 	soldiers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 12
 	 } 
 	aristocrats = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 1739
 	 } 
 	aristocrats = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 40
 	 } 
 	bureaucrats = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 43
 	 } 
 	capitalists = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 217
 	 } 
 	capitalists = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 4
 	 } 
 	clergymen = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 434
 	 } 
 	clergymen = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 10
 	 } 
 	artisans = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 509
 	 } 
 	artisans = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 11
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion =  protestant 
 		size = 7278
 	 } 
 	farmers = {
-		culture = dinka
+		culture = nuer
 		religion = secularism
 		size = 167
 	 } 

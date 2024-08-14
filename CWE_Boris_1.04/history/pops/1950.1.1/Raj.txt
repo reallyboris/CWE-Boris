@@ -943,8 +943,8 @@
         religion = sikh
         size = 10150
     }
-	
-	officers = {
+
+    officers = {
         culture = punjabi
         religion = secularism
         size = 204
@@ -967,8 +967,8 @@
         religion = sikh
         size = 59600
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = punjabi
         religion = secularism
         size = 814
@@ -4781,7 +4781,7 @@
     soldiers = {
         culture = sindi
         religion = sunni
-        size = 1425
+        size = 100000
     }
 
     artisans = {
@@ -4823,7 +4823,7 @@
     farmers = {
         culture = indian_muslim
         religion = shiite
-        size = 855360
+        size = 800360
     }
 
     farmers = {
@@ -4834,6 +4834,11 @@
 }
 #Sukkur - Sukkur (1625000/406250 POPS)
 1289 = {
+    aristocrats = {
+        culture = sindi
+        religion = shiite
+	size = 70000
+    }
     artisans = {
         culture = sindi
         religion = shiite
@@ -4861,13 +4866,13 @@
     farmers = {
         culture = sindi
         religion = shiite
-        size = 73137
+        size = 53137
     }
 
     farmers = {
         culture = sindi
         religion = sunni
-        size = 291950
+        size = 251950
     }
 }
 #Umarkot - Umarkot (707000/176750 POPS)
@@ -7683,37 +7688,31 @@
     artisans = {
         culture = hindi
         religion = hindu
-        size = 41003
+        size = 491003
     }
 
     artisans = {
         culture = hindi
         religion = secularism
-        size = 943
-    }
-
-    artisans = {
-        culture = hindi
-        religion = hindu
-        size = 1024
+        size = 50943
     }
 
     artisans = {
         culture = hindi
         religion = secularism
-        size = 23
+        size = 1023
     }
 
     capitalists = {
         culture = hindi
         religion = hindu
-        size = 5124
+        size = 130124
     }
 
     capitalists = {
         culture = hindi
         religion = secularism
-        size = 117
+        size = 75117
     }
 
     clergymen = {
@@ -7743,19 +7742,19 @@
     farmers = {
         culture = hindi
         religion = hindu
-        size = 688635
+        size = 208635
     }
 
     farmers = {
         culture = hindi
         religion = secularism
-        size = 15850
+        size = 5850
     }
 
     farmers = {
         culture = hindi
         religion = sunni
-        size = 252180
+        size = 42180
     }
 }
 #Udanchniy - Faridabad (5301000/1325250 POPS)

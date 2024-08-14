@@ -274,7 +274,7 @@
 	aristocrats = {
 		culture = egyptian
 		religion =  sunni 
-		size = 29320
+		size = 129320
 	 } 
 	clergymen = {
 		culture = egyptian
@@ -289,7 +289,7 @@
 	farmers = {
 		culture = egyptian
 		religion =  sunni 
-		size = 643803
+		size = 543803
 	 } 
 
 	#For Pan-Arab and National Arab

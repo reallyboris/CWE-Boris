@@ -3707,7 +3707,7 @@
 		size = 1849
 	 } 
 }
-#Houston - Houston (709000/615000 POPS)
+#Houston - Houston (709000/715000 POPS)
 132 = {
 	capitalists = {
 		culture = white_anglo
@@ -3802,7 +3802,7 @@
 	farmers = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 181177
+		size = 281177
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -16088,7 +16088,7 @@
 	capitalists = {
 		culture = jewish
 		religion =  jewish 
-		size = 10000
+		size = 13000
 	 } 
 	capitalists = {
 		culture = white_anglo
@@ -16148,43 +16148,43 @@
 	artisans = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 200000
+		size = 100000
 	 } 
 	artisans = {
 		culture = white_anglo
 		religion = secularism
-		size = 100000
+		size = 50000
 	 } 
 	craftsmen = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 112639
+		size = 112599
 	 } 
 	craftsmen = {
 		culture = white_anglo
 		religion = secularism
-		size = 11140
+		size = 11180
 	 } 
 	clerks = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 200000
+		size = 250000
+	 } 
+	labourers = {
+		culture = white_anglo
+		religion = protestant
+		size = 150008
 	 } 
 	labourers = {
 		culture = white_anglo
 		religion = secularism
-		size = 100000
+		size = 50000
 	 } 
 	labourers = {
 		culture = jewish
 		religion =  jewish 
-		size = 81683
-	 } 
-	labourers = {
-		culture = jewish
-		religion = secularism
-		size = 8078
-	 } 
+		size = 98883
+	 }  
 	labourers = {
 		culture = afro_american
 		religion =  protestant 
@@ -16194,11 +16194,6 @@
 		culture = afro_american
 		religion = secularism
 		size = 6550
-	 } 
-	labourers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 12130
 	 } 
 }
 #Long Island - Long Island (2473000/618250 POPS)

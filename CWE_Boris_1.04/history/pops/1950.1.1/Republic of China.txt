@@ -6761,12 +6761,12 @@
 	artisans = {
 		culture = chinese
 		religion =  taoism 
-		size = 81766
+		size = 1081766
 	 } 
 	artisans = {
 		culture = chinese
 		religion = secularism
-		size = 21077
+		size = 121077
 	 } 
 	bureaucrats = {
 		culture = chinese
@@ -6781,7 +6781,7 @@
 	capitalists = {
 		culture = chinese
 		religion =  taoism 
-		size = 10216
+		size = 210216
 	 } 
 	capitalists = {
 		culture = chinese
@@ -6811,12 +6811,12 @@
 	farmers = {
 		culture = chinese
 		religion =  taoism 
-		size = 1889173
+		size = 889173
 	 } 
 	farmers = {
 		culture = chinese
 		religion = secularism
-		size = 487143
+		size = 187143
 	 } 
 }
 #Tongchuan - Nanchong, Suining, Guang'an (5314000/1328500 POPS)
@@ -9351,7 +9351,7 @@
 		size = 1
 	 } 
 }
-#Unalakeet - Zhaotong (2086000/521500 POPS)
+#Unalakeet - Zhaotong (1902992/475748 POPS)
 2631 = {
 	soldiers = {
 		culture = zhuang

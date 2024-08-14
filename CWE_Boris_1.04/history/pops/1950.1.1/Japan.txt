@@ -3267,12 +3267,12 @@
 	artisans = {
 		culture = japanese
 		religion =  shinto 
-		size = 10535
+		size = 190535
 	 } 
 	artisans = {
 		culture = japanese
 		religion = secularism
-		size = 2273
+		size = 22273
 	 } 
 	artisans = {
 		culture = japanese
@@ -3287,11 +3287,11 @@
 	farmers = {
 		culture = japanese
 		religion =  shinto 
-		size = 248216
+		size = 88216
 	 } 
 	farmers = {
 		culture = japanese
 		religion = secularism
-		size = 53566
+		size = 13566
 	 } 
 }
