@@ -7,7 +7,6 @@ country_event = { # Medium Oil Field 15+ bill barels
 
   trigger = {
 	OR = {
-####		AND = { year = 1965 owns = 1167 1167 = { NOT = { has_province_modifier = oil_field_medium } } } # Zakum Field 
 		AND = { year = 1963 owns = 1131 1131 = { NOT = { has_province_modifier = oil_field_medium } } } # Marun Field
 		AND = { year = 1948 owns = 1034 1034 = { NOT = { has_province_modifier = oil_field_medium } } } # Romashkino Field
 		AND = { year = 1965 owns = 1061 1061 = { NOT = { has_province_modifier = oil_field_medium } } } # Samotlor Field
@@ -24,7 +23,6 @@ country_event = { # Medium Oil Field 15+ bill barels
 	any_owned = { 
 		limit = { 
 			OR = { 
-####				AND = { province_id = 1167 NOT = { has_province_modifier = oil_field_medium } }
 				AND = { province_id = 1131 NOT = { has_province_modifier = oil_field_medium } }
 				AND = { province_id = 1034 NOT = { has_province_modifier = oil_field_medium } }
 				AND = { province_id = 1061 NOT = { has_province_modifier = oil_field_medium } }
@@ -46,15 +44,10 @@ country_event = { # Large Oil Field 30+ bill barels
 
   trigger = {
 	OR = {
-####		AND = { year = 1951 owns = 2586 2586 = { NOT = { has_province_modifier = oil_field } } } # Ghawar Field
-####		AND = { year = 1948 owns = 935 935 = { NOT = { has_province_modifier = oil_field } } } # Burgan Field
 		AND = { year = 2007 owns = 2435 2435 = { NOT = { has_province_modifier = oil_field } } } # Sugar Loaf field
 		AND = { year = 1981 owns = 2184 2184 = { NOT = { has_province_modifier = oil_field } } } # Cantarell Field
-##		AND = { year = 1922 owns = 2270 2270 = { NOT = { has_province_modifier = oil_field } } } # Bolivar Coastal Field
-####		AND = { year = 1951 owns = 1163 1163 = { NOT = { has_province_modifier = oil_field } } } # Safaniya Oil Field
 		AND = { year = 2000 owns = 1182 1182 = { NOT = { has_province_modifier = oil_field } } } # Kashagan Field
 		AND = { year = 1927 owns = 1132 1132 = { NOT = { has_province_modifier = oil_field } } } # Gachsaran Field
-####		AND = { year = 1953 owns = 932 932 = { NOT = { has_province_modifier = oil_field } } } # Rumaila Field
 	}
     year = 1948 
   }
@@ -66,15 +59,10 @@ country_event = { # Large Oil Field 30+ bill barels
 	any_owned = { 
 		limit = { 
 			OR = { 
-####				AND = { province_id = 2586 NOT = { has_province_modifier = oil_field } }
-####				AND = { province_id = 935 NOT = { has_province_modifier = oil_field } }
 				AND = { province_id = 2435 NOT = { has_province_modifier = oil_field } }
 				AND = { province_id = 2184 NOT = { has_province_modifier = oil_field } }
-##				AND = { province_id = 2270 NOT = { has_province_modifier = oil_field } }
-####				AND = { province_id = 1163 NOT = { has_province_modifier = oil_field } }
 				AND = { province_id = 1182 NOT = { has_province_modifier = oil_field } }
 				AND = { province_id = 1132 NOT = { has_province_modifier = oil_field } }
-####				AND = { province_id = 932 NOT = { has_province_modifier = oil_field } }
 			}
 			produces = petroleum NOT = { has_province_modifier = oil_field } 
 		} 
@@ -128,7 +116,6 @@ country_event = { # Custom Oil Field
 			produces = petroleum NOT = { has_province_modifier = oil_field_custom } 
 		} 
 		add_province_modifier = { name = oil_field_custom duration = -1 } 
-		remove_province_modifier = { name = oil_field_custom duration = -1 } 
 	}
   }
 }
