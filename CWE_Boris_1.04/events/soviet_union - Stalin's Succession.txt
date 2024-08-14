@@ -2470,7 +2470,7 @@ country_event = { # Reducing the Importance of the Navy?
 		
 		set_country_flag = ussr_novorossiysk_sinking
 		
-		add_country_modifier = { name = chinese_military duration = -1 }
+		add_country_modifier = { name = chinese_military duration = 500 }
 		
 		ai_chance = { factor = 0.7 }
 	}
