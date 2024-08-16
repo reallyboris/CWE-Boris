@@ -299,6 +299,7 @@ country_event = {
 			target = SKO
 			attacker_goal = { casus_belli = cut_down_to_size } 
 			defender_goal = { casus_belli = humiliate } 
+			defender_goal = { casus_belli = status_quo } 
 			call_ally = no
 		}
 		
