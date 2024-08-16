@@ -5286,9 +5286,9 @@ icon = 9
 
 ###
 keiretsu = {
-    local_factory_throughput = 0.5
-	local_factory_output = 0.5
-    local_RGO_throughput = 0.5
+    local_factory_throughput = 0.05
+	local_factory_output = 0.05
+    local_RGO_throughput = 0.05
 	icon = 9
 }
 
