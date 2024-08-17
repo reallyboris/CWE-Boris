@@ -17,7 +17,20 @@ country_event = {
 
 	option = {
 		name = "We shall continue the fight from Taiwan!"
-
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		activate_technology = cold_war_doctrine
+		activate_technology = proxy_war
+		activate_technology = guerrilla
+		activate_technology = heavy_tanks
+		activate_technology = post_war_radar
+		activate_technology = infantry
+		activate_technology = fossil_fuel_power
+		activate_technology = radio
+		activate_technology = intensive_farming
+		activate_technology = modern_roads
+		activate_technology = electricity
 		any_pop = { 
 			limit = { 
 				location = { province_id = 1485 } 
