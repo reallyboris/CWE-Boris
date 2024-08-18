@@ -17,9 +17,10 @@ country_event = {
 
 	option = {
 		name = "We shall continue the fight from Taiwan!"
+		prestige = -800
 		money = 2000000
 		money = 2000000
-		money = 2000000
+		money = 1000000
 		activate_technology = cold_war_doctrine
 		activate_technology = proxy_war
 		activate_technology = guerrilla
