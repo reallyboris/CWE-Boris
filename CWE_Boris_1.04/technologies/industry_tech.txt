@@ -3,8 +3,6 @@ fossil_fuel_power = {
 	area = tech_power
 	year = 1946
 	cost = 3600
-	
-	activate_building = rubber_plastics_factory
 
 	activate_building = coal_liquefaction_fuel_factory
 	
@@ -1902,6 +1900,8 @@ electricity = {
 	year = 1946
 	cost = 3600
 	
+	activate_building = rubber_plastics_factory
+
 	#Factory Buffs
 	factory_output = 0.05
     factory_cost = -0.05

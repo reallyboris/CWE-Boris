@@ -220,7 +220,6 @@ country_event = { # Rich soil/ore deposit
 		AND = { year = 1945 owns = 131 131 = { NOT = { has_province_modifier = medium_farm } } }
 		AND = { year = 1945 owns = 143 143 = { NOT = { has_province_modifier = medium_farm } } }
 		AND = { year = 1945 owns = 144 144 = { NOT = { has_province_modifier = medium_farm } } }
-		AND = { year = 1945 owns = 146 146 = { NOT = { has_province_modifier = medium_farm } } }
 		AND = { year = 1945 owns = 151 151 = { NOT = { has_province_modifier = medium_farm } } }
 		AND = { year = 1945 owns = 152 152 = { NOT = { has_province_modifier = medium_farm } } }
 		AND = { year = 1945 owns = 153 153 = { NOT = { has_province_modifier = medium_farm } } }
@@ -257,7 +256,6 @@ country_event = { # Rich soil/ore deposit
 				AND = { province_id = 131 NOT = { has_province_modifier = medium_farm } }
 				AND = { province_id = 143 NOT = { has_province_modifier = medium_farm } }
 				AND = { province_id = 144 NOT = { has_province_modifier = medium_farm } }
-				AND = { province_id = 146 NOT = { has_province_modifier = medium_farm } }
 				AND = { province_id = 151 NOT = { has_province_modifier = medium_farm } }
 				AND = { province_id = 152 NOT = { has_province_modifier = medium_farm } }
 				AND = { province_id = 153 NOT = { has_province_modifier = medium_farm } }
