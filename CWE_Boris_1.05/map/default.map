@@ -26,7 +26,7 @@ sea_starts = {
     
 #definitions = "../nwomod/NWO/map/definition.csv"
 #definitions = "../mod/CWE/map/definition.csv"
-definitions = "../mod/CWE_Boris_1.04/map/definition.csv"
+definitions = "../mod/CWE_Boris_1.05/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
