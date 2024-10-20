@@ -835,8 +835,7 @@ overpopulated_province1 = {
 		NOT = { num_of_cities = 2 }
 		total_pops = 1000000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_province2 = {
@@ -847,8 +846,7 @@ overpopulated_province2 = {
 		NOT = { num_of_cities = 2 }
 		total_pops = 1500000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_province3 = {
@@ -883,8 +881,7 @@ overpopulated_nation1 = {
 		NOT = { number_of_states = 2 }
 		total_pops = 5000000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_nation2 = {
@@ -895,8 +892,7 @@ overpopulated_nation2 = {
 		NOT = { number_of_states = 3 }
 		total_pops = 10000000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_nation3 = {
@@ -907,8 +903,7 @@ overpopulated_nation3 = {
 		NOT = { number_of_states = 4 }
 		total_pops = 15000000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_nation4 = {
@@ -919,8 +914,7 @@ overpopulated_nation4 = {
 		NOT = { number_of_states = 5 }
 		total_pops = 20000000
 	}
-	global_immigrant_attract = -0.10
-	global_population_growth = -0.001
+	pop_consciousness_modifier = 0.01
 }
 
 overpopulated_nation5 = {

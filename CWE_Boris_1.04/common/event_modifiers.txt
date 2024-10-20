@@ -81,7 +81,7 @@ crat_10 = {
 }
 
 medium_farm = {
-    local_RGO_throughput = 7.5
+    local_RGO_throughput = 6
 	icon = 9
 }
 
