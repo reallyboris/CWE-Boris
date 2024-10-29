@@ -3,7 +3,7 @@ controller = FRA
 add_core = DAI
 add_core = SVI
 trade_goods = cattle
-life_rating = 30
+life_rating = 35
 terrain = dry_forest_hills
 colonial = 2
 
@@ -18,6 +18,6 @@ owner = DAI
 controller = DAI
 add_core = DAI
 add_core = SVI
-life_rating = 30
+life_rating = 35
 colonial = 0
 }

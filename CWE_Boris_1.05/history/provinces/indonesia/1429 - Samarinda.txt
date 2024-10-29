@@ -3,7 +3,7 @@ controller = NET
 add_core = IDO
 add_core = DYA
 trade_goods = petroleum
-life_rating = 15
+life_rating = 35
 terrain = swamp_jungle
 colonial = 2
 
@@ -17,6 +17,6 @@ colonial = 0
 owner = IDO
 controller = IDO
 add_core = IDO
-life_rating = 15
+life_rating = 35
 colonial = 0
 }

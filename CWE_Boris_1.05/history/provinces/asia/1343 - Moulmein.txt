@@ -3,7 +3,7 @@ controller = ENG
 add_core = BUR
 add_core =  MOS
 trade_goods = grain
-life_rating = 30
+life_rating = 35
 terrain = seasonal_jungle_mountains
 colonial = 2
 
@@ -18,7 +18,7 @@ owner = BUR
 controller = BUR
 add_core = BUR
 add_core =  MOS
-life_rating = 30
+life_rating = 35
 colonial = 0
 state_building = {
 	level = 1

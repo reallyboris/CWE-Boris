@@ -3,7 +3,7 @@ controller = NET
 add_core = IDO
 add_core = ESM
 trade_goods = coffee
-life_rating = 30
+life_rating = 35
 terrain = jungle_farmland
 colonial = 2
 
@@ -18,6 +18,6 @@ owner = IDO
 controller = IDO
 add_core = IDO
 add_core = ESM
-life_rating = 30
+life_rating = 35
 colonial = 0
 }

@@ -3,7 +3,7 @@ controller = SAF
 add_core = NAM
 add_core = KAV
 trade_goods = sugar
-life_rating = 15
+life_rating = 35
 terrain = dry_forest_hills
 colonial = 0
 1992.1.1 = {
@@ -11,6 +11,6 @@ owner = NAM
 controller = NAM
 add_core = NAM
 add_core = KAV
-life_rating = 15
+life_rating = 35
 colonial = 0
 }
