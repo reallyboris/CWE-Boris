@@ -186,7 +186,7 @@ government = presidential_dictatorship
 government = proletarian_dictatorship
 government = proletarian_dictatorship1
 
-war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
+war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
 
 
 		NOT = { is_our_vassal = THIS }
@@ -1187,7 +1187,7 @@ government = presidential_dictatorship
 government = proletarian_dictatorship
 government = proletarian_dictatorship1
 
-war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
+war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
 		
 		any_owned_province = {
 			NOT = { is_core = THIS }
@@ -1297,7 +1297,7 @@ government = presidential_dictatorship
 government = proletarian_dictatorship
 government = proletarian_dictatorship1
 
-war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
+war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot } }
 		
 		any_owned_province = {
 			NOT = { is_core = THIS }
@@ -1402,7 +1402,7 @@ government = presidential_dictatorship
 government = proletarian_dictatorship
 government = proletarian_dictatorship1
 
-war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
+war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
 
 } }
 		
@@ -2363,7 +2363,7 @@ assisted_unification = {
 				government = proletarian_dictatorship
 				government = proletarian_dictatorship1
 
-				war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
+				war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
 			} 
 		}
 
@@ -2697,7 +2697,7 @@ make_puppet = {
 				government = proletarian_dictatorship
 				government = proletarian_dictatorship1
 
-				war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
+				war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
 			} 
 		}
 
@@ -2901,7 +2901,7 @@ humiliate = {
 				government = proletarian_dictatorship
 				government = proletarian_dictatorship1
 
-				war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
+				war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
 			} 
 		}
 
@@ -2990,7 +2990,7 @@ destroy_wmd = {
 				government = proletarian_dictatorship
 				government = proletarian_dictatorship1
 
-				war_policy = jingoism war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
+				war_policy = jingoism war_policy = pro_military war = yes has_country_flag = world_medium has_country_flag = world_high has_country_flag = cold_war_high has_country_modifier = cold_war_hot 
 
 			} 
 		}
