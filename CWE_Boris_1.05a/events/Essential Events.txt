@@ -381,17 +381,17 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA tag = TAI tag = FMS tag = MEX tag = SAF tag = IDO }
-		NOT = { has_country_flag = isrpopboom }
+		OR = { tag = SAF tag = MSY tag = SVI tag = SNG tag = FMS }
 
 	}
 	
 	option = {
 		name = "A higher birthrate is always good"
 
-		any_country = { limit = { OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA tag = TAI tag = FMS tag = MEX tag = SAF tag = IDO }  } 
+		any_country = { limit = { OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA tag = TAI tag = FMS tag = MEX tag = SAF tag = IDO tag = ENG tag = FRA }  } 
 		any_owned = {
-			add_province_modifier = { name = government_sanitarium duration = 1000 }
+			limit = { OR = { is_core = THI is_core = MSY is_core = PHI is_core = DAI is_core = SVI is_core = BRU is_core = SNG is_core = BUR is_core = CAM is_core = LUA is_core = TAI is_core = FMS is_core = MEX is_core = SAF is_core = IDO } }
+			add_province_modifier = { name = government_sanitarium duration = 800 }
 		}
 		set_country_flag = isrpopboom
 		}
