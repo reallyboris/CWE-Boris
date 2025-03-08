@@ -914,7 +914,6 @@ country_event = {
 		any_pop = { limit = { location = { province_id = 2100 } culture = british } move_pop = 2087 } # -> Cape town
 		any_pop = { limit = { location = { province_id = 2672 } culture = british } move_pop = 2087 } # -> Cape town
 		any_pop = { limit = { location = { province_id = 2099 } culture = british } move_pop = 2087 } # -> Cape town
-
 		
 		#Form the Bantustans
 		any_country = {

@@ -1,0 +1,33 @@
+political_decisions = {
+
+	movewhitessaf = {
+		picture = "antartic"
+		potential = {
+			OR = { 
+				tag = BOP
+				tag = CIS
+				tag = TRK
+				tag = QWA
+				tag = NDB
+				tag = NGW
+				tag = GZA
+				tag = LBW
+				tag = VED
+				tag = ZUL
+			}
+			NOT = { has_country_flag = move_whitessaf }
+			NOT = { year = 1994 }
+		}
+		allow = {
+			is_vassal = yes
+		}
+		effect = {
+			any_pop = { limit = { NOT = { is_culture_group = african } } move_pop = 2087 }
+			set_country_flag = move_whitessaf
+		}
+		ai_will_do = { 
+			factor = 1 
+		}
+	}
+
+}
