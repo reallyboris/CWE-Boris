@@ -710,7 +710,7 @@ province_event = {
 		name = "EVTOPTA12120"
 		add_province_modifier = {
 			name = blood_and_iron_mine
-			duration = -1
+			duration = 1825
 		}
 	}
 	

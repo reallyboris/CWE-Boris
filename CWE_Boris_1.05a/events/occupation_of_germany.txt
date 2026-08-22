@@ -27,6 +27,12 @@ country_event = {
 			militancy = -5 
 			consciousness = 2 
 		}
+		money = 2000000
+		social_reforms = acceptable_health_care
+		any_owned = {
+			add_province_modifier = { name = government_sanitarium duration = 70 }
+			add_province_modifier = { name = government_sanitarium duration = 70 }
+		}
 	}
 }
 
@@ -51,7 +57,12 @@ country_event = {
 		name = "This is a new dawn for Germany!"
 		prestige = 100
 		relation = { who = RUS value = 100 }
+		RUS = { any_owned = { limit = { is_core = DDR } secede_province = DDR } }
 		any_pop = { militancy = -5 consciousness = 1 }
+		any_owned = {
+			add_province_modifier = { name = government_sanitarium duration = 70 }
+			add_province_modifier = { name = government_sanitarium duration = 70 }
+		}
 	}
 }
 
@@ -122,6 +133,7 @@ country_event = {
 			government = sar_government 
 			country_event = 800054 
 			ruling_party_ideology = conservative 
+			social_reforms = acceptable_health_care
 		}
 		
 		diplomatic_influence = { who = ICB value = 200 }
@@ -139,6 +151,7 @@ country_event = {
 			government = democracy 
 			country_event = 800054 
 			ruling_party_ideology = conservative 
+			social_reforms = acceptable_health_care
 		}
 		
 		diplomatic_influence = { who = SGF value = 200 }
@@ -220,6 +233,7 @@ country_event = {
 			government = democracy 
 			country_event = 800054
 			ruling_party_ideology = conservative
+			social_reforms = acceptable_health_care
 		}
 		
 		diplomatic_influence = { who = NGF value = 200 }
@@ -268,6 +282,7 @@ country_event = {
 			government = hms_government 
 			country_event = 800054 
 			ruling_party_ideology = conservative
+			social_reforms = acceptable_health_care
 		}
 
 		diplomatic_influence = { who = HAN value = 200 }
@@ -285,6 +300,7 @@ country_event = {
 			government = democracy 
 			country_event = 800054 
 			ruling_party_ideology = conservative
+			social_reforms = acceptable_health_care
 		}
 		
 		diplomatic_influence = { who = NGF value = 200 }
@@ -417,6 +433,7 @@ country_event = {
 			government = mandate_government 
 			country_event = 800054 
 			ruling_party_ideology = conservative
+			social_reforms = acceptable_health_care
 		}
 		
 		diplomatic_influence = { who = RHL value = 200 }
@@ -690,6 +707,7 @@ country_event = {
 			country_event = 800054 
 			ruling_party_ideology = conservative
 			any_owned = { add_province_modifier = { name = blood_and_iron_mine duration = 730 } }
+			social_reforms = acceptable_health_care
 		}
 	}
 }

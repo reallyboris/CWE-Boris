@@ -1625,7 +1625,7 @@
 		size = 4908
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 35916
 	 } 
@@ -2811,12 +2811,12 @@
 		size = 133486
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 90937
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 30000
 	 } 
@@ -2914,12 +2914,12 @@
 		size = 244676
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = animist 
 		size = 33000
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 4066
 	 } 
@@ -3007,12 +3007,12 @@
 		size = 31890
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = animist 
 		size = 200000
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 34407
 	 } 
@@ -4458,12 +4458,12 @@
 		size = 50832
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 11816
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 3046
 	 } 
@@ -5939,7 +5939,7 @@
 		size = 346
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 617
 	 } 
@@ -6037,7 +6037,7 @@
 		size = 1840
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 31273
 	 } 
@@ -7415,37 +7415,37 @@
 #Urumqi - Changji, Wujiaqu, Ürümqi, Turpan (254000/63500 POPS)
 1600 = {
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 210
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 25
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 16928
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 2
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 174
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 87
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 17
 	 } 
@@ -7558,72 +7558,72 @@
 #Kunming - Kunming, Qujing, Zhaotong (5216000/1304000 POPS)
 1601 = {
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 746
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 89
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 60140
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 8
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 618
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 309
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 62
 	 } 
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 187
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 22
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 15035
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 154
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 77
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 15
 	 } 
@@ -9424,37 +9424,37 @@
 		size = 55
 	 } 
 	soldiers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 829
 	 } 
 	officers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 99
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 66807
 	 } 
 	clerks = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 9
 	 } 
 	clergymen = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 686
 	 } 
 	capitalists = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 343
 	 } 
 	bureaucrats = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 68
 	 } 

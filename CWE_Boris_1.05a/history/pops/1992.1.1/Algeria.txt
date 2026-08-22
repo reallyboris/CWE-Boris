@@ -1665,7 +1665,7 @@
 		size = 2391
 	 }	 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 7025
 	 } 
@@ -1673,7 +1673,7 @@
 #Ilizi - Ilizi (40000/10000 POPS)
 1719 = {
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 7807
 	 } 
@@ -1754,12 +1754,12 @@
 #In Guezzam - Tamanrasset (74000/18500 POPS)
 1721 = {
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1509
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 14443
 	 } 
@@ -1767,12 +1767,12 @@
 #Tin Zawatene - Andar (74000/18500 POPS)
 1722 = {
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1509
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 14443
 	 } 
@@ -1780,12 +1780,12 @@
 #Tamanrasset - Tamanrasset (73000/18250 POPS)
 1724 = {
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1489
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 14249
 	 } 

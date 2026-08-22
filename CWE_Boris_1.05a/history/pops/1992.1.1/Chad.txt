@@ -119,102 +119,102 @@
 #Moundou - Moundou, Doba, Pala (1155000/288750 POPS)
 1819 = {
 	officers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 319
 	 } 
 	officers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 24
 	 } 
 	soldiers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1281
 	 } 
 	soldiers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 96
 	 } 
 	aristocrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 10741
 	 } 
 	aristocrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 808
 	 } 
 	bureaucrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 267
 	 } 
 	bureaucrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 20
 	 } 
 	capitalists = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1341
 	 } 
 	capitalists = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 101
 	 } 
 	clergymen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 2684
 	 } 
 	clergymen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 202
 	 } 
 	clerks = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 2196
 	 } 
 	clerks = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 165
 	 } 
 	artisans = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 2086
 	 } 
 	artisans = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 157
 	 } 
 	craftsmen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 6701
 	 } 
 	craftsmen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 504
 	 } 
 	farmers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 128128
 	 } 
 	farmers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 9644
 	 } 
@@ -340,47 +340,47 @@
 #Abeche - Abeche (937000/234250 POPS)
 1821 = {
 	soldiers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 1118
 	 } 
 	aristocrats = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 9370
 	 } 
 	capitalists = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 1171
 	 } 
 	clergymen = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 2342
 	 } 
 	clerks = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 1916
 	 } 
 	artisans = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 1820
 	 } 
 	craftsmen = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 5846
 	 } 
 	farmers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 62576
 	 } 
 	farmers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 126495
 	 } 
@@ -418,7 +418,7 @@
 		size = 102234
 	 } 
 	farmers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 12825
 	 } 
@@ -446,7 +446,7 @@
 		size = 22573
 	 } 
 	farmers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 80150
 	 } 
@@ -557,7 +557,7 @@
 #Zouar - Bardai, Borkou (67000/16750 POPS)
 1825 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 15031
 	 } 
@@ -565,19 +565,19 @@
 #Faya - Fada (97000/24250 POPS)
 1826 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 9634
 	 } 
 	farmers = {
-		culture = zaghawa
+		culture = black_muslim
 		religion =  sunni 
 		size = 12125
 	 } 
 }
 3282 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 3758
 	 } 

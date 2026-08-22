@@ -79,14 +79,13 @@ country_event = {
 	
 	
 	trigger = {
-NOT = { has_country_modifier = cold_war_hot }
-OR = { NOT = { year = 1955 } war = no }
+		NOT = { has_country_modifier = cold_war_hot }
+		war = no
 		tag = USA
 		is_greater_power = yes
 		government = democracy
 		ai = yes
 		NOT = { money = 2000000 }
-
 	}
 	
 	option = {
@@ -105,7 +104,7 @@ country_event = {
 	
 	trigger = {
 		year = 1950
-	OR = { tag = ENG tag = FRA tag = NET tag = BEL }
+	OR = { tag = ENG tag = FRA }
 		ai = yes
 		NOT = { has_country_flag = moneyforallfraeng }
 
@@ -113,6 +112,10 @@ country_event = {
 	
 	option = {
 		name = "Money really does grows on trees!"
+		treasury = 2000000
+		treasury = 2000000
+		treasury = 2000000
+		treasury = 2000000
 		treasury = 2000000
 		set_country_flag = moneyforallfraeng
 		}
@@ -131,16 +134,14 @@ country_event = {
 		NOT = { year = 1990 }
 		OR = { NOT = { year = 1955 } war = no }
 		tag = CHI
-		ai = yes
 		government = proletarian_dictatorship
 		war_with = KMT
-		NOT = { money = 1000000 }
-
 	}
 	
 	option = {
 		name = "We thank our Communist Brothers!"
-		treasury = 1080000
+		treasury = 1999000
+		treasury = 1999000
 				}
 }
 
@@ -199,7 +200,7 @@ country_event = {
 	
 	option = {
 		name = "Money really does grows on trees!"
-		any_owned = { owner = { money = 50000 } }
+		any_owned = { owner = { money = 100000 } }
 		any_pop = { limit = { culture = french } money = 5 }
 		any_pop = { limit = { culture = white_french } money = 10 }
 		any_pop = { limit = { culture = jewish } money = 10 }
@@ -220,6 +221,7 @@ country_event = {
 		any_pop = { limit = { culture = french_canadian } money = 1000 }
 		any_pop = { limit = { culture = afrikaaner } money = 1100 }
 		set_country_flag = playermoneyboost
+		country_event = 1201
 	}
 }
 
@@ -236,10 +238,14 @@ country_event = {
 		has_country_flag = exportfocus
 		any_owned_province = { AND = { is_colonial = no NOT = { has_province_modifier = exportfocus } } }
 	}
+
+	mean_time_to_happen = { 
+		months = 6
+	}
 	
 	option = {
 		name = "Yes, do it"
-		treasury = -1000
+		treasury = -10
 		any_owned = { limit = { AND = { is_colonial = no NOT = { has_province_modifier = exportfocus } } } add_province_modifier = { name = exportfocus duration = -1 } }
 		}
 }
@@ -257,10 +263,14 @@ country_event = {
 		has_country_flag = importfocus
 		any_owned_province = { AND = { is_colonial = no NOT = { has_province_modifier = importsubstitutionfocus } } }
 	}
+
+	mean_time_to_happen = { 
+		months = 6
+	}
 	
 	option = {
 		name = "Yes, do it"
-		treasury = -1000
+		treasury = -10
 		any_owned = { limit = { AND = { is_colonial = no NOT = { has_province_modifier = importsubstitutionfocus } } } add_province_modifier = { name = importsubstitutionfocus duration = -1 } }
 		}
 }
@@ -381,20 +391,73 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { tag = SAF tag = MSY tag = SVI tag = SNG tag = FMS }
+		OR = { tag = SAF tag = SVI tag = FMS }
 
 	}
 	
 	option = {
 		name = "A higher birthrate is always good"
 
-		any_country = { limit = { OR = { tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA tag = TAI tag = FMS tag = MEX tag = SAF tag = IDO tag = ENG tag = FRA }  } 
+		any_country = { limit = { OR = { tag = RHO tag = THI tag = MSY tag = PHI tag = DAI tag = SVI tag = BRU tag = SNG tag = BUR tag = CAM tag = LUA tag = TAI tag = FMS tag = MEX tag = SAF tag = IDO tag = ENG tag = FRA }  } 
 		any_owned = {
-			limit = { OR = { is_core = THI is_core = MSY is_core = PHI is_core = DAI is_core = SVI is_core = BRU is_core = SNG is_core = BUR is_core = CAM is_core = LUA is_core = TAI is_core = FMS is_core = MEX is_core = SAF is_core = IDO } }
-			add_province_modifier = { name = government_sanitarium duration = 800 }
+			limit = { OR = { is_core = RHO is_core = THI is_core = MSY is_core = PHI is_core = DAI is_core = SVI is_core = BRU is_core = SNG is_core = BUR is_core = CAM is_core = LUA is_core = TAI is_core = FMS is_core = MEX is_core = SAF is_core = IDO } }
+			add_province_modifier = { name = government_sanitarium duration = 400 }
 		}
-		set_country_flag = isrpopboom
+		
 		}
+	}
+}
+#SEA part 2 population boom
+country_event = {
+	id = 1200239
+	title = "SEA Population Boom 2"
+	desc = "The war is over and the population is booming, many people are starting to feel that it is ok to have larger families."
+	picture = "germanpopulationboom"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = { tag = MSY tag = SNG }
+	}
+	
+	option = {
+		name = "A higher birthrate is always good"
+
+		any_country = { limit = { exists = yes  } 
+		any_owned = {
+			limit = { OR = { is_core = RHO is_core = THI is_core = PHI is_core = MEX is_core = SAF } }
+			add_province_modifier = { name = government_sanitarium duration = 1600 }
+		}
+		
+		}
+	}
+}
+#Latam population boom
+country_event = {
+	id = 1200240
+	title = "LATAM Population Boom"
+	desc = "The war is over and the population is booming, many people are starting to feel that it is ok to have larger families."
+	picture = "germanpopulationboom"
+	
+	fire_only_once = yes
+	
+	trigger = {
+	tag = BRZ
+	}
+	
+	option = {
+		name = "A higher birthrate is always good"
+
+		any_country = { limit = { exists = yes } 
+			any_owned = {
+				limit = { OR = { is_core = HON is_core = ELS is_core = BRZ is_core = VNZ is_core = CLM is_core = PRG } }
+				add_province_modifier = { name = government_sanitarium duration = 450 }
+			}
+		}
+		any_owned = {
+				limit = { OR = { is_core = HON is_core = ELS is_core = BRZ is_core = VNZ is_core = CLM is_core = PRG } }
+				add_province_modifier = { name = government_sanitarium duration = 450 }
+			}
 	}
 }
 #GERMAN population boom
@@ -829,7 +892,6 @@ country_event = {
 			add_accepted_culture = mande
 			add_accepted_culture = fula
 			add_accepted_culture = wolof
-			add_accepted_culture = zarma
 			add_accepted_culture = hausa
 			add_accepted_culture = akan
 		}
@@ -845,7 +907,7 @@ country_event = {
 			capital = 1965 #Bangui
 			government = colonial_government 
 			country_event = 800054 
-			add_accepted_culture = baya_mandjia
+			add_accepted_culture = kanem_bornou
 			add_accepted_culture = teke
 			add_accepted_culture = fang
 			add_accepted_culture = sara

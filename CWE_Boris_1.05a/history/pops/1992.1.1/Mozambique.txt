@@ -141,12 +141,12 @@
 		size = 12350
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 26448
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 3952
 	 } 
@@ -606,102 +606,102 @@
 #Tete - Tete (195000/48750 POPS)
 2054 = {
 	officers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 6
 	 } 
 	officers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 28
 	 } 
 	soldiers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 1696
 	 } 
 	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 253
 	 } 
 	bureaucrats = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 84
 	 } 
 	bureaucrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	capitalists = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 211
 	 } 
 	capitalists = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	clergymen = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 423
 	 } 
 	clergymen = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 63
 	 } 
 	clerks = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 498
 	 } 
 	clerks = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 74
 	 } 
 	artisans = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 473
 	 } 
 	artisans = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 70
 	 } 
 	craftsmen = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 1520
 	 } 
 	craftsmen = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 227
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 37468
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 5598
 	 } 
@@ -812,102 +812,102 @@
 #Zombo - Zombo (195000/48750 POPS)
 2056 = {
 	officers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 6
 	 } 
 	officers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 28
 	 } 
 	soldiers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 1696
 	 } 
 	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 253
 	 } 
 	bureaucrats = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 84
 	 } 
 	bureaucrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	capitalists = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 211
 	 } 
 	capitalists = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	clergymen = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 423
 	 } 
 	clergymen = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 63
 	 } 
 	clerks = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 498
 	 } 
 	clerks = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 74
 	 } 
 	artisans = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 473
 	 } 
 	artisans = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 70
 	 } 
 	craftsmen = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 1520
 	 } 
 	craftsmen = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 227
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 37468
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 5598
 	 } 
@@ -1344,22 +1344,22 @@
 		size = 819
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 4750
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 709
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 252073
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 37666
 	 } 
@@ -1367,102 +1367,102 @@
 #Angoche - Angoche (661000/165250 POPS)
 2061 = {
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 24
 	 } 
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 98
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 5750
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 859
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 287
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 42
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 718
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 107
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1437
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 214
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1690
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 252
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1605
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 239
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 5155
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 770
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 126999
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 18977
 	 } 
@@ -1470,102 +1470,102 @@
 #Ibo - Ibo (1062000/265500 POPS)
 2063 = {
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 39
 	 } 
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 159
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 23
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 9239
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 1380
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 461
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 69
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1154
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 172
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 2309
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 345
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 2715
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 405
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 2579
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 385
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 8283
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 1237
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 204042
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 30489
 	 } 
@@ -1573,102 +1573,102 @@
 #Nampula - Nampula (661000/165250 POPS)
 2064 = {
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 24
 	 } 
 	officers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 98
 	 } 
 	soldiers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 5750
 	 } 
 	aristocrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 859
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 287
 	 } 
 	bureaucrats = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 42
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 718
 	 } 
 	capitalists = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 107
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1437
 	 } 
 	clergymen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 214
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1690
 	 } 
 	clerks = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 252
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 1605
 	 } 
 	artisans = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 239
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 5155
 	 } 
 	craftsmen = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 770
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 126999
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 18977
 	 } 
@@ -1786,12 +1786,12 @@
 		size = 17349
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 30408
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 4543
 	 } 
@@ -1909,22 +1909,22 @@
 		size = 2094
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion =  protestant 
 		size = 109282
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 16329
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion =  protestant 
 		size = 25218
 	 } 
 	farmers = {
-		culture = makua
+		culture = african_minor
 		religion = secularism
 		size = 3768
 	 } 

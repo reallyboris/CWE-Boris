@@ -3104,12 +3104,12 @@
 		size = 1967
 	 } 
 	farmers = {
-		culture = khasi
+		culture = assamese
 		religion =  protestant 
 		size = 224815
 	 } 
 	farmers = {
-		culture = khasi
+		culture = assamese
 		religion = secularism
 		size = 22234
 	 } 
@@ -3142,102 +3142,102 @@
 #Imphal - Manipur (3236000/809000 POPS)
 1259 = {
 	officers = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 1075
 	 } 
 	officers = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 106
 	 } 
 	soldiers = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 4303
 	 } 
 	soldiers = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 425
 	 } 
 	artisans = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 29447
 	 } 
 	artisans = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 2912
 	 } 
 	bureaucrats = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 736
 	 } 
 	bureaucrats = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 72
 	 } 
 	capitalists = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 3680
 	 } 
 	capitalists = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 364
 	 } 
 	clergymen = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 7361
 	 } 
 	clergymen = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 728
 	 } 
 	clerks = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 2483
 	 } 
 	clerks = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 245
 	 } 
 	artisans = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 2358
 	 } 
 	artisans = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 233
 	 } 
 	craftsmen = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 7574
 	 } 
 	craftsmen = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 749
 	 } 
 	farmers = {
-		culture = manupur
+		culture = assamese
 		religion =  hindu 
 		size = 345881
 	 } 
 	farmers = {
-		culture = manupur
+		culture = assamese
 		religion = secularism
 		size = 34208
 	 } 
@@ -9429,12 +9429,12 @@
 		size = 3937
 	 } 
 	farmers = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 53789
 	 } 
 	farmers = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 2831
 	 } 
@@ -9575,112 +9575,112 @@
 #Agartala - Mizoram (808000/202000 POPS)
 2566 = {
 	officers = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 268
 	 } 
 	officers = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 26
 	 } 
 	soldiers = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 1073
 	 } 
 	soldiers = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 106
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 2334
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 230
 	 } 
 	artisans = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 5018
 	 } 
 	artisans = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 496
 	 } 
 	bureaucrats = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 183
 	 } 
 	bureaucrats = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 18
 	 } 
 	capitalists = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 919
 	 } 
 	capitalists = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 90
 	 } 
 	clergymen = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 1838
 	 } 
 	clergymen = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 181
 	 } 
 	clerks = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 619
 	 } 
 	clerks = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 61
 	 } 
 	artisans = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 588
 	 } 
 	artisans = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 58
 	 } 
 	craftsmen = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 1890
 	 } 
 	craftsmen = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 187
 	 } 
 	farmers = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 25704
 	 } 
 	farmers = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 2542
 	 } 
@@ -9700,12 +9700,12 @@
 		size = 2020
 	 } 
 	farmers = {
-		culture = mizoram
+		culture = naga
 		religion =  protestant 
 		size = 136026
 	 } 
 	farmers = {
-		culture = mizoram
+		culture = naga
 		religion = secularism
 		size = 13453
 	 } 
@@ -12380,112 +12380,112 @@
 #Tripura - Tripura (2720000/680000 POPS)
 3280 = {
 	officers = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 903
 	 } 
 	officers = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 89
 	 } 
 	soldiers = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 3617
 	 } 
 	soldiers = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 357
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 24752
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 2448
 	 } 
 	bureaucrats = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 618
 	 } 
 	bureaucrats = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 61
 	 } 
 	capitalists = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 3094
 	 } 
 	capitalists = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 306
 	 } 
 	clergymen = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 6188
 	 } 
 	clergymen = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 612
 	 } 
 	clerks = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 2087
 	 } 
 	clerks = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 206
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 1982
 	 } 
 	artisans = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 196
 	 } 
 	craftsmen = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 6366
 	 } 
 	craftsmen = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 629
 	 } 
 	farmers = {
-		culture = tripuri
+		culture = bengali
 		religion =  hindu 
 		size = 117465
 	 } 
 	farmers = {
-		culture = tripuri
+		culture = bengali
 		religion = secularism
 		size = 11617
 	 } 
 	farmers = {
-		culture = bengali
+		culture = naga
 		religion =  protestant 
 		size = 43316
 	 } 
 	farmers = {
-		culture = bengali
+		culture = naga
 		religion = secularism
 		size = 4284
 	 } 

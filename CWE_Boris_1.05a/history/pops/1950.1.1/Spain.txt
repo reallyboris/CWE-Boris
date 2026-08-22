@@ -474,12 +474,12 @@
 		size = 539
 	 } 
 	farmers = {
-		culture = biko
+		culture = fang
 		religion =  catholic 
 		size = 5894
 	 } 
 	farmers = {
-		culture = biko
+		culture = fang
 		religion = secularism
 		size = 151
 	 } 
@@ -3652,102 +3652,102 @@
 #Balearic Islands - Balearic Islands (659000/164750 POPS)
 502 = {
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 839
 	 } 
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 32
 	 } 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 3358
 	 } 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 130
 	 } 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 6342
 	 } 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 247
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 316
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 12
 	 } 
 	capitalists = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 792
 	 } 
 	capitalists = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 30
 	 } 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 1585
 	 } 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 61
 	 } 
 	clerks = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 4506
 	 } 
 	clerks = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 175
 	 } 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 4281
 	 } 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 166
 	 } 
 	craftsmen = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 13745
 	 } 
 	craftsmen = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 535
 	 } 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 67303
 	 } 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 2622
 	 } 

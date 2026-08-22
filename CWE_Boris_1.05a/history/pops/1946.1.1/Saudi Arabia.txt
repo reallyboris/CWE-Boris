@@ -482,7 +482,7 @@
 		size = 71
 	 } 
 	farmers = {
-		culture = arab_gulf
+		culture = saudi
 		religion =  sunni 
 		size = 184118
 	 } 

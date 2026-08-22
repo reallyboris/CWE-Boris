@@ -1,97 +1,97 @@
 #Imphal - Manipur (1826000/456500 POPS)
 1259 = {
     officers = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 642
     }
 
     officers = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 14
     }
 
     soldiers = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 2569
     }
 
     soldiers = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 59
     }
 
     aristocrats = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 12851
     }
 
     aristocrats = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 295
     }
 
     bureaucrats = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 320
     }
 
     bureaucrats = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 7
     }
 
     capitalists = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 1605
     }
 
     capitalists = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 36
     }
 
     clergymen = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 3212
     }
 
     clergymen = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 73
     }
 
     artisans = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 3570
     }
 
     artisans = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 82
     }
 
     farmers = {
-        culture = manupur
+        culture = assamese
         religion = hindu
         size = 151930
     }
 
     farmers = {
-        culture = manupur
+        culture = assamese
         religion = secularism
         size = 3497
     }

@@ -3,8 +3,6 @@ primary_culture = chinese
 culture = chinese_hokkien
 culture = chinese_hakka
 culture = manchu
-culture = miao
-culture = hui
 culture = yi
 culture = hani
 culture = bai
@@ -62,6 +60,8 @@ cold_war_doctrine = 1
 heavy_tanks = 1
 infantry = 1
 decolonization = 1
+fossil_fuel_power = 1
+intensive_farming = 1
 proxy_war = 1
 # Starting Consciousness
 consciousness = 2

@@ -9480,7 +9480,7 @@
 		size = 3295
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 4675
 	 } 
@@ -10242,7 +10242,7 @@
 #Khorug - Khorug (46000/11500 POPS)
 1208 = {
 	farmers = {
-		culture = pamir
+		culture = persian
 		religion =  sunni 
 		size = 9890
 	 } 
@@ -11921,52 +11921,52 @@
 		size = 36
 	 } 
 	bureaucrats = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 546
 	 } 
 	bureaucrats = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 30
 	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 521
 	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 28
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 433
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 24
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 1371
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 76
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 18492
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 1024
 	 } 
@@ -20431,22 +20431,22 @@
 		size = 2336
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 5269
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 292
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 5269
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion = secularism
 		size = 292
 	 } 

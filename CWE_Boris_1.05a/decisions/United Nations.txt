@@ -207,6 +207,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = 50
+			money = 250000
 			country_event = 1512261
 			clr_country_flag = not_participating_UNSC
 			add_country_modifier = { name = unsc_permanent_member duration = -1 }

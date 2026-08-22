@@ -36,7 +36,7 @@
 		size = 1
 	 } 
 	farmers = {
-		culture = arab_gulf
+		culture = emirati
 		religion =  sunni 
 		size = 2034
 	 } 

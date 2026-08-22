@@ -1,82 +1,82 @@
 #Tumlong - Tumlong (610000/152500 POPS)
 1328 = {
 	officers = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 289
 	 } 
 	officers = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 15
 	 } 
 	soldiers = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 1159
 	 } 
 	soldiers = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 61
 	 } 
 	aristocrats = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 5795
 	 } 
 	aristocrats = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 305
 	 } 
 	bureaucrats = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 144
 	 } 
 	bureaucrats = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 7
 	 } 
 	capitalists = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 723
 	 } 
 	capitalists = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 38
 	 } 
 	clergymen = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 1448
 	 } 
 	clergymen = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 76
 	 } 
 	artisans = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 1831
 	 } 
 	artisans = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 96
 	 } 
 	farmers = {
-		culture = sikkim
+		culture = ngalop
 		religion =  buddhist 
 		size = 46557
 	 } 
 	farmers = {
-		culture = sikkim
+		culture = ngalop
 		religion = secularism
 		size = 2450
 	 } 

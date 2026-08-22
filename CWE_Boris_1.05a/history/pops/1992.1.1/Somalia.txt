@@ -117,12 +117,12 @@
 		size = 4238
 	 } 
 	craftsmen = {
-		culture = mushunguli
+		culture = somali
 		religion =  sunni 
 		size = 7286
 	 } 
 	farmers = {
-		culture = mushunguli
+		culture = somali
 		religion =  sunni 
 		size = 231664
 	 } 

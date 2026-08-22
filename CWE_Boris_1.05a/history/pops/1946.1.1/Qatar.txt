@@ -21,12 +21,12 @@
 		size = 30
 	 } 
 	clergymen = {
-		culture = arab_gulf
+		culture = qatari
 		religion =  sunni 
 		size = 61
 	 } 
 	artisans = {
-		culture = arab_gulf
+		culture = qatari
 		religion =  sunni 
 		size = 218
 	 } 
@@ -36,7 +36,7 @@
 		size = 2
 	 } 
 	farmers = {
-		culture = arab_gulf
+		culture = qatari
 		religion =  sunni 
 		size = 1910
 	 } 
@@ -48,22 +48,12 @@
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 1113
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 11
+		size = 1135
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
 		size = 1113
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 11
 	 } 
 
 	#For Pan-Arab and National Arab

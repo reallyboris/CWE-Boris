@@ -8,7 +8,7 @@ terrain = urban_new_york
 railroad = 1
 colonial = 0
 state_building = {
-	level = 20
+	level = 25
 	building = education_rnd_factory
 	upgrade = yes
 }
@@ -18,8 +18,8 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 3
-	building = ships_factory
+	level = 8
+	building = beverages_coffee_factory
 	upgrade = yes
 }
 state_building = {
@@ -28,18 +28,18 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 5
+	level = 8
 	building = petroleum_fuel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
+	level = 10
 	building = electric_telecommunications_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
-	building = telecommunications_factory
+	level = 10
+	building = grain_canned_food_factory
 	upgrade = yes
 }
 
@@ -51,7 +51,7 @@ life_rating = 60
 railroad = 2
 colonial = 0
 state_building = {
-	level = 28
+	level = 50
 	building = financial_services_factory
 	upgrade = yes
 }

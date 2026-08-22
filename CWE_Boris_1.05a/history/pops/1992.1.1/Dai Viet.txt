@@ -337,22 +337,22 @@
 		size = 2260
 	 } 
 	craftsmen = {
-		culture = miao
+		culture = zhuang
 		religion =  protestant 
 		size = 9222
 	 } 
 	craftsmen = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 7246
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  protestant 
 		size = 299855
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 235600
 	 } 
@@ -460,12 +460,12 @@
 		size = 59708
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion =  protestant 
 		size = 307230
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion = secularism
 		size = 241395
 	 } 
@@ -1088,22 +1088,22 @@
 		size = 3551
 	 } 
 	craftsmen = {
-		culture = tay
+		culture = vietnamese
 		religion =  buddhist 
 		size = 14499
 	 } 
 	craftsmen = {
-		culture = tay
+		culture = vietnamese
 		religion = secularism
 		size = 11392
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion =  buddhist 
 		size = 163647
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion = secularism
 		size = 128580
 	 } 

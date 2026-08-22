@@ -181,18 +181,21 @@ country_event = {
 	option = {
 		name = "Inject the cash into the National Bank"
 		prestige = 100
+
+		#UK had more Marshall Plan aid
+		random_owned = { limit = { owner = { tag = ENG } } owner = { money = 2000000 } }
 		
 		#Add money to pops
 		any_pop = {
 			limit = {is_primary_culture = yes}
 
-			money = 150
+			money = 1500
 		}
 
 		any_pop = {
 			limit = {is_accepted_culture = yes}
 
-			money = 75
+			money = 750
 		}
 		
 		#US gains influence and relations with country_event
@@ -219,7 +222,7 @@ country_event = {
 		money = 500000
 		
 		#UK had more Marshall Plan aid
-		random_owned = { limit = { owner = { tag = ENG } } owner = { money = 500000 } }
+		random_owned = { limit = { owner = { tag = ENG } } owner = { money = 2000000 money = 2000000 } }
 		
 		#Add money to pops
 		any_pop = {
@@ -258,7 +261,7 @@ country_event = {
 		money = 1000000
 		
 		#UK had more Marshall Plan aid
-		random_owned = { limit = { owner = { tag = ENG } } owner = { money = 1000000 } }
+		random_owned = { limit = { owner = { tag = ENG } } owner = { money = 2000000 money = 2000000 money = 2000000 } }
 		
 		#US gains influence and relations with country_event
 		USA = {

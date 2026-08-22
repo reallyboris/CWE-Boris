@@ -1048,14 +1048,14 @@
 		size = 416
 	 } 
 	farmers = {
-		culture = beja
+		culture = african_minor
 		religion =  sunni 
 		size = 2439
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = arab
+		culture = sudanese
 		religion =  sunni 
 		size = 1000
 	 } 

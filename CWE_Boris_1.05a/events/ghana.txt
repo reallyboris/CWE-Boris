@@ -18,7 +18,7 @@ country_event = { # Independence of Ghana
     name = EVT_8010700_A
 	prestige = 10
 	release = GHA
-GHA = { government = hms_government1 country_event = 800054 }
+  GHA = { government = hms_government1 country_event = 800054 }
 	ENG = { diplomatic_influence = { who = GHA value = 200 } }
 	create_alliance = GHA
 	ai_chance = { factor = 0.9 }
@@ -27,7 +27,7 @@ GHA = { government = hms_government1 country_event = 800054 }
   option = {
     name = EVT_8010700_B
 	release_vassal = GHA
-GHA = { government = colonial_government country_event = 800054 }
+  GHA = { government = colonial_government country_event = 800054 }
 	ENG = { diplomatic_influence = { who = GHA value = 200 } }
 	any_pop = { limit = { OR = { culture = ewe culture = african_minor } } militancy = 2 consciousness = 2 }
 	create_alliance = GHA
@@ -53,9 +53,9 @@ country_event = { # Independence of Ghana
 
   trigger = {
     tag = GHA
-	government = hms_government1
+	  government = hms_government1
     year = 1960 NOT = { year = 1990 }
-	is_vassal = no
+	  is_vassal = no
   }
 
   mean_time_to_happen = { months = 10 }

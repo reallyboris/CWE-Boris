@@ -9343,7 +9343,7 @@ country_event = {
 		
 		#Increased Gagauz nationalism
 		any_pop = {
-			limit = { culture = gagauz }
+			limit = { culture = romanian }
 			militancy = 3
 			consciousness = 3
 			ideology = { factor = 0.05 value = nationalist }

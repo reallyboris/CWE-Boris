@@ -2814,12 +2814,12 @@
 		size = 43710
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 29140
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 43710
 	 } 

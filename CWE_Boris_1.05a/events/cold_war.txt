@@ -533,7 +533,7 @@ country_event = {
 USA = { OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 } }
 
 #Non-communist or weak Russia
-RUS = { OR = { NOT = { rank = 3 } NOT = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy } } } }
+RUS = { OR = { NOT = { rank = 6 } NOT = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy } } } }
 		
 		NOT = { has_country_flag = cold_warusa1 }
 		has_global_flag = blocsenabled

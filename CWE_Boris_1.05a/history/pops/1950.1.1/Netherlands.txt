@@ -921,77 +921,77 @@
 #Menado - North Sulawesi (760000/190000 POPS)
 1433 = {
 	officers = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 568
 	 } 
 	officers = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 2274
 	 } 
 	soldiers = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 5
 	 } 
 	aristocrats = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 7581
 	 } 
 	aristocrats = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 19
 	 } 
 	bureaucrats = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 189
 	 } 
 	capitalists = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 947
 	 } 
 	capitalists = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 1895
 	 } 
 	clergymen = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 4
 	 } 
 	craftsmen = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 3394
 	 } 
 	craftsmen = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 8
 	 } 
 	farmers = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 115816
 	 } 
 	farmers = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 290
 	 } 
@@ -1111,77 +1111,77 @@
 #Bali - Bali (1303000/325750 POPS)
 1438 = {
 	officers = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 974
 	 } 
 	officers = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 3899
 	 } 
 	soldiers = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 9
 	 } 
 	aristocrats = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 12997
 	 } 
 	aristocrats = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 32
 	 } 
 	bureaucrats = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 324
 	 } 
 	capitalists = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 1623
 	 } 
 	capitalists = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 4
 	 } 
 	clergymen = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 3248
 	 } 
 	clergymen = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 8
 	 } 
 	craftsmen = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 5820
 	 } 
 	craftsmen = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 14
 	 } 
 	farmers = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 247306
 	 } 
 	farmers = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 619
 	 } 

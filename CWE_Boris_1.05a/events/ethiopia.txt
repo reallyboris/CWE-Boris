@@ -224,7 +224,7 @@ country_event = {
 		badboy = 5
 		
 		#Internal unrest
-		remove_accepted_culture = oromo
+		remove_accepted_culture = african_minor
 		remove_accepted_culture = tigray
 		
 		#ERI situation
@@ -883,29 +883,29 @@ country_event = {
 		ruling_party_ideology = conservative
 		
 		#Internal unrest
-		remove_accepted_culture = oromo
+		remove_accepted_culture = african_minor
 		remove_accepted_culture = tigray
 		
 		#Increase Ethiopian support for conservative
 		any_pop = {
-			limit = { strata = rich NOT = { OR = { culture = tigray culture = oromo } } }
+			limit = { strata = rich NOT = { OR = { culture = tigray culture = african_minor } } }
 			consciousness = 2.5
 			ideology  = { factor = 0.15 value = conservative }
 		}
 		any_pop = {
-			limit = { strata = middle NOT = { OR = { culture = tigray culture = oromo } } }
+			limit = { strata = middle NOT = { OR = { culture = tigray culture = african_minor } } }
 			consciousness = 5
 			ideology  = { factor = 0.10 value = conservative }
 		}
 		any_pop = {
-			limit = { strata = poor NOT = { OR = { culture = tigray culture = oromo } } }
+			limit = { strata = poor NOT = { OR = { culture = tigray culture = african_minor } } }
 			consciousness = 10
 			ideology  = { factor = 0.05 value = conservative }
 		}
 		
 		#Tigray and Oromo are pissed
 		any_pop = {
-			limit = { culture = tigray culture = oromo }
+			limit = { culture = tigray culture = african_minor }
 			consciousness = 10
 			militancy = 10
 			ideology  = { factor = 0.25 value = nationalist }

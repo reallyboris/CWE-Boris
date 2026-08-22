@@ -5,7 +5,7 @@ culture = wallonian
 culture = breton
 culture = occitans
 culture = italian
-culture = corsican
+culture = padanian
 culture = maltese
 culture = sardinian
 culture = basque
@@ -50,7 +50,7 @@ culture = sami
 culture = swedish
 culture = albanian
 culture = romanian
-culture = romansh
+#culture = romansh
 culture = portuguese
 
 religion = secularism

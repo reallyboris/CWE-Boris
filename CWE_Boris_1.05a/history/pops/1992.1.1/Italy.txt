@@ -5707,12 +5707,12 @@
 		size = 77175
 	 } 
 	farmers = {
-		culture = corsican
+		culture = padanian
 		religion =  catholic 
 		size = 18522
 	 } 
 	farmers = {
-		culture = corsican
+		culture = padanian
 		religion = secularism
 		size = 27783
 	 } 

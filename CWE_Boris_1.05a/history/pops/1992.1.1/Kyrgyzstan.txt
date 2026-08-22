@@ -56,7 +56,7 @@
 		size = 53055
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 11790
 	 } 

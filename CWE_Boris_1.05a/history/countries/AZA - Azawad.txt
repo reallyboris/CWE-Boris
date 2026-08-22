@@ -1,5 +1,5 @@
 capital = 1803
-primary_culture = tuareg
+primary_culture = arab_saharan
 religion = secularism
 government = democracy
 plurality = 1.0

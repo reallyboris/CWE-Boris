@@ -130,7 +130,7 @@ political_decisions = {
 		effect = {
 			primary_culture = black_anglo
 			add_accepted_culture = british
-			add_accepted_culture = kalenjin
+			add_accepted_culture = african_minor
 			set_country_flag = xef_zan_union
 			any_pop = {
 				limit = {
@@ -149,7 +149,7 @@ political_decisions = {
 						culture = swahili
 						culture = kikuyu
 						culture = ganda
-						culture = kalenjin
+						culture = african_minor
 					}
 				}
 				militancy = -8.0

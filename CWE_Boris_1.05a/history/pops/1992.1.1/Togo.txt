@@ -124,102 +124,102 @@
 #Atakpane - Atakpane (958000/239500 POPS)
 1917 = {
 	officers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 103
 	 } 
 	officers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 15
 	 } 
 	soldiers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 415
 	 } 
 	soldiers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 62
 	 } 
 	aristocrats = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 8334
 	 } 
 	aristocrats = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 1245
 	 } 
 	bureaucrats = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 207
 	 } 
 	bureaucrats = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	capitalists = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 1041
 	 } 
 	capitalists = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 155
 	 } 
 	clergymen = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 2083
 	 } 
 	clergymen = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 311
 	 } 
 	clerks = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 2982
 	 } 
 	clerks = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 445
 	 } 
 	artisans = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 2832
 	 } 
 	artisans = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 423
 	 } 
 	craftsmen = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 9095
 	 } 
 	craftsmen = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 1359
 	 } 
 	farmers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 150012
 	 } 
 	farmers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 22415
 	 } 

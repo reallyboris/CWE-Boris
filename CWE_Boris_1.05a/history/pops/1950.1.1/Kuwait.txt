@@ -3,27 +3,37 @@
 	aristocrats = {
 		culture = kuwaiti
 		religion =  sunni 
-		size = 1450
+		size = 3550
 	 } 
 	artisans = {
 		culture = kuwaiti
 		religion =  sunni 
-		size = 1278
+		size = 12500
 	 } 
-	farmers = {
-		culture = arab_gulf
+	bureaucrats = {
+		culture = kuwaiti
 		religion =  sunni 
-		size = 19530
+		size = 100
+	 }
+	clergymen = {
+		culture = kuwaiti
+		religion =  sunni 
+		size = 100
 	 } 
 	farmers = {
-		culture = arab_gulf
+		culture = kuwaiti
+		religion =  sunni 
+		size = 8000
+	 } 
+	farmers = {
+		culture = kuwaiti
 		religion =  shiite 
-		size = 6835
+		size = 10000
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 1000
 	 } 

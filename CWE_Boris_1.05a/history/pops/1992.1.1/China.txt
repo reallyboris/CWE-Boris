@@ -2673,7 +2673,7 @@
 		size = 39122
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 119275
 	 } 
@@ -2884,7 +2884,7 @@
 		size = 645535
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 535585
 	 } 
@@ -3926,12 +3926,12 @@
 		size = 46194
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 10140
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 46194
 	 } 
@@ -4305,12 +4305,12 @@
 		size = 1249049
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 52631
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 239768
 	 } 
@@ -4428,12 +4428,12 @@
 		size = 884101
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 55745
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 253954
 	 } 
@@ -4561,12 +4561,12 @@
 		size = 427209
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 63202
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 287922
 	 } 
@@ -6857,12 +6857,12 @@
 		size = 585812
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 7737
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 35249
 	 } 
@@ -9675,7 +9675,7 @@
 		size = 40274
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 13585
 	 } 
@@ -9793,7 +9793,7 @@
 		size = 104281
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 195650
 	 } 
@@ -13654,7 +13654,7 @@
 		size = 125460
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 69700
 	 } 
@@ -14041,7 +14041,7 @@
 		size = 51800
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 103600
 	 } 
@@ -14455,12 +14455,12 @@
 		size = 196275
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  taoism 
 		size = 53855
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 245344
 	 } 
@@ -16962,7 +16962,7 @@
 		size = 9930
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 12110
 	 } 
@@ -19373,37 +19373,37 @@
 		size = 58
 	 } 
 	soldiers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 594
 	 } 
 	officers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 71
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 47886
 	 } 
 	clerks = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 492
 	 } 
 	capitalists = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 246
 	 } 
 	bureaucrats = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 49
 	 } 
@@ -19517,37 +19517,37 @@
 		size = 97
 	 } 
 	soldiers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 1011
 	 } 
 	officers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 121
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 81457
 	 } 
 	clerks = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 12
 	 } 
 	clergymen = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 837
 	 } 
 	capitalists = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 418
 	 } 
 	bureaucrats = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 84
 	 } 
@@ -19987,72 +19987,72 @@
 #Fort Simpson - Heze (2503000/625750 POPS)
 3370 = {
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 1506
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 180
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 121411
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 17
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 1247
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 623
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 124
 	 } 
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 377
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 45
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 30353
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 4
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 312
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 156
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 31
 	 } 
@@ -20310,7 +20310,7 @@
 		size = 597
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 341
 	 } 
@@ -20364,37 +20364,37 @@
 		size = 35
 	 } 
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 47
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 6
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 3787
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 39
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 19
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 4
 	 } 

@@ -1,5 +1,5 @@
 capital = 1208
-primary_culture = pamir
+primary_culture = persian
 religion = secularism
 government = democracy
 plurality = 3.0

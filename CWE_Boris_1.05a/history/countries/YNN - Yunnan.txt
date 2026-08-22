@@ -1,12 +1,10 @@
 capital = 1601
 primary_culture = yi
 culture = chinese
-culture = miao
 culture = bai
 culture = dong
 culture = zhuang
 culture = shan
-culture = hui
 culture = hani
 religion = secularism
 government = presidential_dictatorship

@@ -8,8 +8,6 @@ culture = manchu
 culture = mongol
 culture = yi
 culture = hani
-culture = hui
-culture = miao
 culture = bai
 culture = dong
 culture = tujia
@@ -64,6 +62,8 @@ gold_standard = 1
 radio_network = 1
 containment = 1
 decolonization = 1
+fossil_fuel_power = 1
+intensive_farming = 1
 modern_shipbuilding = 1
 corvettes = 1
 # Starting Consciousness

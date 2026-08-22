@@ -2481,27 +2481,22 @@ country_event = {
 title = "Dissolution of the United Kingdom"
 	desc = "With the loss of Scotland, Wales and Ireland, the United Kingdom has ceased to exist."
 	picture = "fuk"
-
-
-
 trigger = { 
+		NOT = { exists = ENL }
 
-NOT = { exists = ENL }
+		tag = ENG
 
-tag = ENG
+		exists = SCO
+		exists = IRE
+		exists = WAE
 
-exists = SCO
-exists = IRE
-exists = WAE
-
-NOT = { is_our_vassal = SCO }
-NOT = { is_our_vassal = IRE }
-NOT = { is_our_vassal = WAE }
-
-}
+		NOT = { is_our_vassal = SCO }
+		NOT = { is_our_vassal = IRE }
+		NOT = { is_our_vassal = WAE }
+	}
 
 mean_time_to_happen = { 
-months = 1
+		months = 1
 	}
 
 option = {

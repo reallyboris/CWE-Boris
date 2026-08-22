@@ -9717,15 +9717,6 @@
             y = 1614.750000
         }
 
-        naval_base = {
-            x = 1615.500000
-            y = 1594.400024
-        }
-
-    }
-
-    building_rotation = {
-        naval_base = 3.228860
     }
 
 }
@@ -123470,7 +123461,7 @@
     text_scale = 0.6
 }
 
-# Lake Päijänne
+# Lake Pï¿½ijï¿½nne
 3323 = {
     text_position = {
         x = 3223.800000

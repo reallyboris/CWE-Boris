@@ -204,17 +204,17 @@
 		size = 2657
 	 } 
 	farmers = {
-		culture = sunni_arab
+		culture = sudanese
 		religion =  sunni 
 		size = 14520
 	 } 
 	farmers = {
-		culture = black_muslim
+		culture = sudanese
 		religion =  sunni 
 		size = 12100
 	 } 
 	farmers = {
-		culture = tigre
+		culture = sudanese
 		religion =  sunni 
 		size = 39930
 	 } 
@@ -242,52 +242,52 @@
 		size = 2742
 	 } 
 	soldiers = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 2903
 	 } 
 	aristocrats = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 9423
 	 } 
 	bureaucrats = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 1077
 	 } 
 	capitalists = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 1615
 	 } 
 	clergymen = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 2692
 	 } 
 	clerks = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 1862
 	 } 
 	artisans = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 1769
 	 } 
 	craftsmen = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 5680
 	 } 
 	farmers = {
-		culture = tigre
+		culture = somali
 		religion =  sunni 
 		size = 166839
 	 } 
 	farmers = {
-		culture = black_muslim
+		culture = sudanese
 		religion =  sunni 
 		size = 40387
 	 } 

@@ -337,10 +337,10 @@ country_event = {
 
 }
 
-#Dutch–Indonesian Round Table Conference, NET
+#Dutchï¿½Indonesian Round Table Conference, NET
 country_event = {
   id = 8206016
-  title = "Dutch–Indonesian Round Table Conference"
+  title = "Dutchï¿½Indonesian Round Table Conference"
   desc = EVTDESC8206016
   picture = "NET_IDO_round_table"
   fire_only_once = yes
@@ -383,10 +383,10 @@ country_event = {
 	}
 }
 
-#Dutch–Indonesian Round Table Conference, IDO
+#Dutchï¿½Indonesian Round Table Conference, IDO
 country_event = {
   id = 8206017
-  title = "Dutch–Indonesian Round Table Conference"
+  title = "Dutchï¿½Indonesian Round Table Conference"
   desc = EVTDESC8206016
   picture = "NET_IDO_round_table"
 
@@ -559,6 +559,7 @@ country_event = {
 	option = {
 		name = "Indonesia is Dutch!"
 		badboy = 5
+		prestige_factor = -0.2
 		
 		any_pop = { limit = { culture = indonesian } consciousness = 2 militancy = 3 }
 		ai_chance = { factor = 0.7 }

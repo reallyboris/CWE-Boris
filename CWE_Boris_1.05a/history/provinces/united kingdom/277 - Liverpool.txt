@@ -28,7 +28,16 @@ state_building = {
 	building = steel_factory
 	upgrade = yes
 }
-
+state_building = {
+	level = 3
+	building = grain_canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}
 #Consumer Goods
 state_building = {
 	level = 3

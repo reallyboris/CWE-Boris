@@ -1,5 +1,5 @@
 capital = 2566
-primary_culture = mizoram
+primary_culture = naga
 religion = secularism
 government = democracy
 plurality = 9.0

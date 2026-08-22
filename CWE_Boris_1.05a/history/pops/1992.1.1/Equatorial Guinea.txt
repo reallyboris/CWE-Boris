@@ -101,12 +101,12 @@
 		size = 3487
 	 } 
 	farmers = {
-		culture = biko
+		culture = fang
 		religion =  catholic 
 		size = 10441
 	 } 
 	farmers = {
-		culture = biko
+		culture = fang
 		religion = secularism
 		size = 1160
 	 } 

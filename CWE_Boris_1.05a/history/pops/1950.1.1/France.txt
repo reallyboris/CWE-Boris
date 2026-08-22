@@ -307,12 +307,12 @@
 		size = 2500
 	 }
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = catholic
 		size = 3800
 	 }
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion = secularism
 		size = 1300
 	 } 
@@ -400,12 +400,12 @@
 		size = 424
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion =  buddhist 
 		size = 27542
 	 } 
 	farmers = {
-		culture = tay
+		culture = vietnamese
 		religion = secularism
 		size = 2644
 	 } 
@@ -2245,42 +2245,42 @@
 #Ilizi - Ilizi (140003500 POPS)
 1719 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 10
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 42
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 140
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 3
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 17
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 35
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 90
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2750
 	 } 
@@ -2327,7 +2327,7 @@
 #In Guezzam - Tamanrasset (260006500 POPS)
 1721 = {
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 5106
 	 } 
@@ -2354,7 +2354,7 @@
 #Tin Zawatene - Andar (260006500 POPS)
 1722 = {
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 5106
 	 } 
@@ -2381,7 +2381,7 @@
 #Tamanrasset - Tamanrasset (260006500 POPS)
 1724 = {
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 5106
 	 } 
@@ -2407,42 +2407,42 @@
 #Murzuk - Murzuk (110002750 POPS)
 1741 = {
 	officers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 8
 	 } 
 	soldiers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 33
 	 } 
 	aristocrats = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 110
 	 } 
 	bureaucrats = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 2
 	 } 
 	capitalists = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 13
 	 } 
 	clergymen = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 27
 	 } 
 	artisans = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 75
 	 } 
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 2125
 	 } 
@@ -3424,7 +3424,7 @@
 		size = 44154
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 21679
 	 } 
@@ -3455,7 +3455,7 @@
 		size = 1394
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 10640
 	 } 
@@ -3496,7 +3496,7 @@
 		size = 4027
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 26665
 	 } 
@@ -3547,42 +3547,42 @@
 #Tessalit - Tessalit (170004250 POPS)
 1807 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 12
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 51
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 170
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 21
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 42
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 52
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 3781
 	 } 
@@ -3595,17 +3595,17 @@
 #Niamey - Niamey (19500048750 POPS)
 1808 = {
 	aristocrats = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1950
 	 } 
 	farmers = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 37672
 	 } 
 	farmers = {
-		culture = african_minor
+		culture = fula
 		religion =  sunni 
 		size = 7312
 	 } 
@@ -3613,22 +3613,22 @@
 #Say - Say (519000129750 POPS)
 1809 = {
 	soldiers = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1557
 	 } 
 	aristocrats = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 5190
 	 } 
 	clergymen = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1297
 	 } 
 	farmers = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 119724
 	 } 
@@ -3695,22 +3695,22 @@
 #Arlit - Arlit (635000158750 POPS)
 1813 = {
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1905
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 6350
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1587
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 62345
 	 } 
@@ -3733,42 +3733,42 @@
 #Madama - Madama (70001750 POPS)
 1814 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 5
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 21
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 8
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 17
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 11
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1617
 	 } 
@@ -3811,12 +3811,12 @@
 		size = 18562
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 13432
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 67
 	 } 
@@ -3834,12 +3834,12 @@
 		size = 3469
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 22487
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 113
 	 } 
@@ -3847,42 +3847,42 @@
 #Bilma - Bilma (70001750 POPS)
 1817 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 5
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 21
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 8
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 17
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 11
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1617
 	 } 
@@ -3988,82 +3988,82 @@
 #Moundou - Moundou, Doba, Pala (516000129000 POPS)
 1819 = {
 	officers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 380
 	 } 
 	officers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1520
 	 } 
 	soldiers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 27
 	 } 
 	aristocrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 5069
 	 } 
 	aristocrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 90
 	 } 
 	bureaucrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 126
 	 } 
 	bureaucrats = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 633
 	 } 
 	capitalists = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 11
 	 } 
 	clergymen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1267
 	 } 
 	clergymen = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 22
 	 } 
 	artisans = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 975
 	 } 
 	artisans = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 17
 	 } 
 	farmers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 63536
 	 } 
 	farmers = {
-		culture = mayo_kebbi
+		culture = kanem_bornou
 		religion = secularism
 		size = 1131
 	 } 
@@ -4189,7 +4189,7 @@
 		size = 30443
 	 } 
 	farmers = {
-		culture = hadjarai
+		culture = black_muslim
 		religion =  sunni 
 		size = 56430
 	 } 
@@ -4316,7 +4316,7 @@
 #Zouar - Bardai, Borkou (300007500 POPS)
 1825 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 6912
 	 } 
@@ -4324,19 +4324,19 @@
 #Faya - Fada (4300010750 POPS)
 1826 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 4532
 	 } 
 	farmers = {
-		culture = zaghawa
+		culture = black_muslim
 		religion =  sunni 
 		size = 5375
 	 } 
 }
 3282 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 1728
 	 } 
@@ -4650,82 +4650,82 @@
 #Sassandra - Sassandra (441000110250 POPS)
 1893 = {
 	officers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 320
 	 } 
 	officers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 9
 	 } 
 	soldiers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 1283
 	 } 
 	soldiers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 39
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 4277
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 132
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 106
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 3
 	 } 
 	capitalists = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 534
 	 } 
 	capitalists = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 16
 	 } 
 	clergymen = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 1068
 	 } 
 	clergymen = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 33
 	 } 
 	artisans = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 2028
 	 } 
 	artisans = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 62
 	 } 
 	farmers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 66309
 	 } 
 	farmers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 2050
 	 } 
@@ -5012,12 +5012,12 @@
 		size = 1145
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 6682
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 206
 	 } 
@@ -5025,82 +5025,82 @@
 #Kong - Kong (39300098250 POPS)
 1898 = {
 	officers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 285
 	 } 
 	officers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 8
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1143
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 35
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 3812
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 117
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 95
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 476
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 14
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 952
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 29
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1808
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 55
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 77199
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 2387
 	 } 
@@ -5113,77 +5113,77 @@
 #Bondouku - Bondouku (10700026750 POPS)
 1899 = {
 	officers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 77
 	 } 
 	officers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 311
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 9
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1037
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 32
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 25
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 129
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 258
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 8
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 491
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 15
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 21751
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 672
 	 } 
@@ -5695,82 +5695,82 @@
 #Atakpane - Atakpane (30100075250 POPS)
 1917 = {
 	officers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 217
 	 } 
 	officers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	soldiers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 873
 	 } 
 	soldiers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 29
 	 } 
 	aristocrats = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 2912
 	 } 
 	aristocrats = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 97
 	 } 
 	bureaucrats = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 72
 	 } 
 	bureaucrats = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 363
 	 } 
 	capitalists = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	clergymen = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 727
 	 } 
 	clergymen = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 24
 	 } 
 	artisans = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 977
 	 } 
 	artisans = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 32
 	 } 
 	farmers = {
-		culture = kabye
+		culture = african_minor
 		religion =  catholic 
 		size = 55738
 	 } 
 	farmers = {
-		culture = kabye
+		culture = african_minor
 		religion = secularism
 		size = 1872
 	 } 
@@ -5906,12 +5906,12 @@
 		size = 174
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 90496
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 1378
 	 } 
@@ -5929,82 +5929,82 @@
 #Abomey - Collines, Zou, Kuoffo (38800097000 POPS)
 1920 = {
 	officers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 286
 	 } 
 	officers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 1146
 	 } 
 	soldiers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 3821
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 58
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 95
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 477
 	 } 
 	capitalists = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 955
 	 } 
 	clergymen = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 1514
 	 } 
 	artisans = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 23
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 62404
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 950
 	 } 
@@ -6614,67 +6614,67 @@
 		size = 10
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 593
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	bureaucrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 118
 	 } 
 	capitalists = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 593
 	 } 
 	capitalists = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1187
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 2
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1639
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 4
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 93203
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 233
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 11035
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 27
 	 } 
@@ -6682,77 +6682,77 @@
 #Nola - Nana-Mamb�r�, Mamb�r�-Kad��, Sangha-Mba�r� (22500056250 POPS)
 1966 = {
 	officers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 167
 	 } 
 	soldiers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 673
 	 } 
 	soldiers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 2244
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 5
 	 } 
 	bureaucrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 55
 	 } 
 	capitalists = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 280
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 560
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 775
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 23297
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 58
 	 } 
 	farmers = {
-		culture = mbaka
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 12344
 	 } 
 	farmers = {
-		culture = mbaka
+		culture = kanem_bornou
 		religion = secularism
 		size = 30
 	 } 
@@ -6770,62 +6770,62 @@
 #Bouar - Ouham-Pend� (13900034750 POPS)
 1967 = {
 	officers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 103
 	 } 
 	soldiers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 415
 	 } 
 	soldiers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1386
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 3
 	 } 
 	bureaucrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 33
 	 } 
 	capitalists = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 172
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 346
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 478
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 9193
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 23
 	 } 
@@ -6838,57 +6838,57 @@
 #Bossangoa - Ouham (11900029750 POPS)
 1968 = {
 	officers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 88
 	 } 
 	soldiers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 356
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 1187
 	 } 
 	aristocrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 2
 	 } 
 	bureaucrats = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 28
 	 } 
 	capitalists = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 147
 	 } 
 	clergymen = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 296
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 408
 	 } 
 	artisans = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 1
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion =  catholic 
 		size = 11730
 	 } 
 	farmers = {
-		culture = baya_mandjia
+		culture = kanem_bornou
 		religion = secularism
 		size = 29
 	 } 
@@ -6906,52 +6906,52 @@
 #Zemio - Haute-Kotto, Mbomou, Haut-Mbomou (9900024750 POPS)
 1969 = {
 	officers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 73
 	 } 
 	soldiers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 296
 	 } 
 	aristocrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 987
 	 } 
 	aristocrats = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	bureaucrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 23
 	 } 
 	capitalists = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 122
 	 } 
 	clergymen = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 246
 	 } 
 	artisans = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 341
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 21679
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 54
 	 } 
@@ -6959,67 +6959,67 @@
 #Bangassou - Ouaka, Basse-Kottto (16900042250 POPS)
 1970 = {
 	officers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 125
 	 } 
 	soldiers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 505
 	 } 
 	soldiers = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	aristocrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 1685
 	 } 
 	aristocrats = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 4
 	 } 
 	bureaucrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 41
 	 } 
 	capitalists = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 210
 	 } 
 	clergymen = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 420
 	 } 
 	clergymen = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	artisans = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 581
 	 } 
 	artisans = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 37010
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 92
 	 } 
@@ -7027,47 +7027,47 @@
 #Ndele - Vakaga, Bamingui-Bangoran (300007500 POPS)
 1971 = {
 	officers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 21
 	 } 
 	soldiers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 89
 	 } 
 	aristocrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 299
 	 } 
 	bureaucrats = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 6
 	 } 
 	capitalists = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 36
 	 } 
 	clergymen = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 74
 	 } 
 	artisans = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 102
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion =  catholic 
 		size = 863
 	 } 
 	farmers = {
-		culture = banda
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
@@ -7613,57 +7613,57 @@
 		size = 6
 	 } 
 	aristocrats = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 268
 	 } 
 	aristocrats = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 4
 	 } 
 	bureaucrats = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 17
 	 } 
 	capitalists = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 89
 	 } 
 	capitalists = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	clergymen = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 179
 	 } 
 	clergymen = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	artisans = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 403
 	 } 
 	artisans = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 6
 	 } 
 	farmers = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 14578
 	 } 
 	farmers = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 222
 	 } 
@@ -7671,72 +7671,72 @@
 #Impfondo - Impfondo (6900017250 POPS)
 1981 = {
 	officers = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 50
 	 } 
 	soldiers = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 203
 	 } 
 	soldiers = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 3
 	 } 
 	aristocrats = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 679
 	 } 
 	aristocrats = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 10
 	 } 
 	bureaucrats = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 16
 	 } 
 	capitalists = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 84
 	 } 
 	capitalists = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 1
 	 } 
 	clergymen = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 169
 	 } 
 	clergymen = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 2
 	 } 
 	artisans = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 382
 	 } 
 	artisans = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 5
 	 } 
 	farmers = {
-		culture = teke
+		culture = mongo
 		religion =  catholic 
 		size = 13779
 	 } 
 	farmers = {
-		culture = teke
+		culture = mongo
 		religion = secularism
 		size = 209
 	 } 
@@ -9419,42 +9419,42 @@
 #Araouane - Araouane (100002500 POPS)
 2609 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 7
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 30
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 100
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 12
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 25
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 30
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2225
 	 } 
@@ -17309,12 +17309,12 @@
 		size = 2097
 	 } 
 	farmers = {
-		culture = corsican
+		culture = padanian
 		religion =  catholic 
 		size = 24303
 	 } 
 	farmers = {
-		culture = corsican
+		culture = padanian
 		religion = secularism
 		size = 5516
 	 } 

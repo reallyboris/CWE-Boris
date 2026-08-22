@@ -1,5 +1,5 @@
 capital = 1261
-primary_culture = oriya
+primary_culture = bengali
 religion = secularism
 government = absolute_monarchy
 plurality = 9.0

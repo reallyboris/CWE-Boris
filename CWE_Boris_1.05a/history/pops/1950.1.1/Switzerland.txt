@@ -965,12 +965,12 @@
 		size = 1831
 	 } 
 	farmers = {
-		culture = romansh
+		culture = italian
 		religion =  catholic 
 		size = 4802
 	 } 
 	farmers = {
-		culture = romansh
+		culture = italian
 		religion = secularism
 		size = 798
 	 } 

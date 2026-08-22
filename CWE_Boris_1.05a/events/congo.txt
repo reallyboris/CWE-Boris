@@ -120,7 +120,7 @@ country_event = {
 
 	option = {
 		name = "Set them free"
-		prestige_factor = -0.05
+		prestige_factor = -0.35
 		
 		random_owned = {
 			limit = { owner = { is_possible_vassal = CNG } }
@@ -166,6 +166,7 @@ country_event = {
 		name = "No way!"
 		
 		badboy = 5
+		money = -500000
 		
 		#Increase Nationalist support
 		CNG = {

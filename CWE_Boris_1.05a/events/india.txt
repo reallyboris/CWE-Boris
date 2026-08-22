@@ -22,6 +22,7 @@ country_event = {
 	option = {
 		name = "We have lost a great statesman"
 		add_country_modifier = { name = revolution_chaos duration = 183 }
+		add_country_modifier = { name = asia_edu duration = 3650 }
 		
 		#INC support surges
 		any_pop = { 

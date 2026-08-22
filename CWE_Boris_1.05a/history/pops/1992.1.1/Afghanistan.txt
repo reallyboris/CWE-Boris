@@ -99,7 +99,7 @@
 		size = 353412
 	 } 
 	farmers = {
-		culture = pamir
+		culture = persian
 		religion =  sunni 
 		size = 10825
 	 } 
@@ -233,42 +233,42 @@
 #Bamyan - Urozgan, Ghor, Daykundi (799000/199750 POPS)
 1213 = {
 	officers = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 1115
 	 } 
 	soldiers = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 4462
 	 } 
 	aristocrats = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 7990
 	 } 
 	clergymen = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 1997
 	 } 
 	clerks = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 1723
 	 } 
 	artisans = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 1636
 	 } 
 	craftsmen = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 5255
 	 } 
 	farmers = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 96485
 	 } 

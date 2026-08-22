@@ -21,6 +21,9 @@ country_event = {
 	option = {
 		name = "Time to tighten our belts!"
 		
+		money = 2000000
+		money = 2000000
+		money = 2000000
 		#Pacifism increases
 		any_pop = {
 			limit = { location = { is_core = THIS } }
@@ -38,6 +41,11 @@ country_event = {
 		name = "Devalue the Pound Sterling!"
 		prestige_factor = -0.05
 		
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
 		money = 2000000
 		
 		#Right wing fury
@@ -90,6 +98,12 @@ country_event = {
 		name = "I am the economy!"
 		prestige_factor = 0.025
 
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+
 		#Add social reforms
 		social_reform = eight_work_hours
 		social_reform = security_service
@@ -118,6 +132,13 @@ country_event = {
 	
 	option = {
 		name = "Shy away from the idea"
+
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
 
 		#Left wing fury
 		any_pop = { 
@@ -180,6 +201,12 @@ country_event = {
 		capitalists = { money = 200 }
 		aristocrats = { money = 200 }
 		
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+		money = 2000000
+
 		#Pacifism increases
 		any_pop = {
 			limit = { location = { is_core = THIS } }

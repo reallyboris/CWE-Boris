@@ -21,9 +21,17 @@ country_event = {
 	option = {
 		name = "Scale global population to 3/16"
 		set_global_flag = performance_mode_set
-		prestige_factor = -0.15
-		any_pop = { limit = { NOT = { OR = { type = soldiers type = officers } } } reduce_pop = 0.75 }
-		any_country = { limit = { exists = yes } prestige_factor = -0.15 any_pop = { limit = { NOT = { OR = { type = soldiers type = officers } } } reduce_pop = 0.75 } }
+		prestige_factor = -0.25
+		any_pop = { 
+			limit = { 
+			#NOT = { OR = { type = soldiers type = officers } }
+			}
+			reduce_pop = 0.75 }
+		any_country = { limit = { exists = yes } prestige_factor = -0.25 
+			any_pop = { limit = { 
+				#NOT = { OR = { type = soldiers type = officers } } 
+				}
+			reduce_pop = 0.75 } }
 	}
 
 	option = {
@@ -37,9 +45,25 @@ country_event = {
 	option = {
 		name = "Scale global population to 1/16"
 		set_global_flag = performance_mode_set
-		prestige_factor = -0.45
+		prestige_factor = -0.5
 		any_pop = { limit = { NOT = { OR = { type = soldiers type = officers } } } reduce_pop = 0.25 }
 		any_country = { limit = { exists = yes } prestige_factor = -0.45 any_pop = { limit = { NOT = { OR = { type = soldiers type = officers } } } reduce_pop = 0.25 } }
+	}
+
+	option = {
+		name = "Scale global population to 3.6/16"
+		set_global_flag = performance_mode_set
+		prestige_factor = -0.1
+		any_pop = { 
+			limit = { 
+			#NOT = { OR = { type = soldiers type = officers } }
+			}
+			reduce_pop = 0.9 }
+		any_country = { limit = { exists = yes } prestige_factor = -0.15 
+			any_pop = { limit = { 
+				#NOT = { OR = { type = soldiers type = officers } } 
+				}
+			reduce_pop = 0.9 } }
 	}
 
 }

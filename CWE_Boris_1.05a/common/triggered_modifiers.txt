@@ -111,7 +111,7 @@ china_tax_boost = {
 	}
 	prestige = 0.001
 	tax_efficiency = 0.10
-	research_points_modifier = 0.25
+	research_points_modifier = 0.2
 	#global_population_growth = -0.01
 }
 
@@ -126,7 +126,7 @@ india_tax_boost = {
 
 china_reduce_military_socre = {
 	trigger = {
-		OR = { tag = CHI tag = KMT }
+		OR = { tag = CHI tag = KMT tag = HND }
 		war = no
 		
 		#China must be large
@@ -383,6 +383,7 @@ space_age = {
 	culture_tech_research_bonus = 0.1
 	diplomatic_points_modifier = 0.2
 	influence_modifier = 0.1
+	RGO_throughput = -0.05
 }
 
 information_age = {
@@ -400,8 +401,8 @@ information_age = {
 	diplomatic_points_modifier = 0.1
 	influence_modifier = 0.2
 	factory_owner_cost = -0.05
-	factory_input = -0.025
-	RGO_throughput = -0.5
+	factory_input = -0.01
+	RGO_throughput = -0.15
 }
 
 automation_age = {
@@ -416,6 +417,7 @@ automation_age = {
 	goods_demand = 0.15
 	industry_tech_research_bonus = 0.2
 	factory_input = -0.01
+	RGO_throughput = -0.25
 }
 
 future_age = {
@@ -925,7 +927,6 @@ overpopulated_nation5 = {
 		NOT = { number_of_states = 6 }
 		total_pops = 25000000
 	}
-	global_immigrant_attract = -0.10
 	global_population_growth = -0.001
 }
 
@@ -937,7 +938,6 @@ overpopulated_nation6 = {
 		NOT = { number_of_states = 7 }
 		total_pops = 30000000
 	}
-	global_immigrant_attract = -0.10
 	global_population_growth = -0.001
 }
 
@@ -949,7 +949,6 @@ overpopulated_nation7 = {
 		NOT = { number_of_states = 8 }
 		total_pops = 35000000
 	}
-	global_immigrant_attract = -0.10
 	global_population_growth = -0.001
 }
 
@@ -961,7 +960,6 @@ overpopulated_nation8 = {
 		NOT = { number_of_states = 9 }
 		total_pops = 40000000
 	}
-	global_immigrant_attract = -0.10
 	global_population_growth = -0.001
 }
 
@@ -1063,12 +1061,12 @@ overpopulated_nation16 = {
 
 ##### Literate Nation #####
 
-#iliterate_nation3 = {
-	#trigger = {
-		#NOT = { literacy = 0.03 }
-	#}
-	#global_population_growth = 0.01
-#}
+iliterate_nation3 = {
+	trigger = {
+		NOT = { literacy = 0.03 }
+	}
+	global_population_growth = 0.01
+}
 
 #iliterate_nation2 = {
 	#trigger = {
@@ -1092,7 +1090,7 @@ literate_nation1 = {
 	rgo_throughput = 0.05
 	research_points = 0.10
 	goods_demand = 0.05
-	factory_input = -0.01
+	factory_input = -0.005
 }
 
 literate_nation2 = {
@@ -1103,7 +1101,8 @@ literate_nation2 = {
 	rgo_throughput = 0.05
 	research_points = 0.10
 	goods_demand = 0.05
-	factory_input = -0.01
+	factory_input = -0.005
+	global_population_growth = -0.001
 }
 
 literate_nation3 = {
@@ -1114,8 +1113,8 @@ literate_nation3 = {
 	rgo_throughput = 0.05
 	research_points = 0.20
 	goods_demand = 0.05
-	factory_input = -0.02
-	global_population_growth = -0.001
+	factory_input = -0.01
+	global_population_growth = -0.002
 }
 
 literate_nation4 = {
@@ -1126,8 +1125,8 @@ literate_nation4 = {
 	rgo_throughput = 0.05
 	research_points = 0.20
 	goods_demand = 0.05
-	factory_input = -0.025
-	global_population_growth = -0.002
+	factory_input = -0.02
+	global_population_growth = -0.003
 }
 
 literate_nation5 = {
@@ -1139,7 +1138,7 @@ literate_nation5 = {
 	research_points = 0.10
 	goods_demand = 0.05
 	factory_input = -0.02
-	global_population_growth = -0.002
+	global_population_growth = -0.003
 }
 
 literate_nation6 = {
@@ -1151,7 +1150,7 @@ literate_nation6 = {
 	research_points = 0.10
 	goods_demand = 0.05
 	factory_input = -0.015
-	global_population_growth = -0.002
+	global_population_growth = -0.003
 }
 
 literate_nation7 = {
@@ -1175,7 +1174,7 @@ literate_nation8 = {
 	research_points = 0.10
 	goods_demand = 0.05
 	factory_input = -0.01
-	global_population_growth = -0.001
+	global_population_growth = -0.002
 }
 
 literate_nation9 = {
@@ -1199,7 +1198,7 @@ literate_nation10 = {
 	research_points = 0.10
 	goods_demand = 0.05
 	factory_input = -0.01
-	global_population_growth = -0.001
+	global_population_growth = -0.002
 }
 
 ########
@@ -1529,7 +1528,7 @@ populationsize_500M = {
 			total_pops = 150000000
 		}
 	}
-	research_points = 2
+	research_points = 1.2
 }
 populationsize_600M = {
 	trigger = {
@@ -1538,7 +1537,7 @@ populationsize_600M = {
 			total_pops = 175000000
 		}
 	}
-	research_points = 3
+	research_points = 1.3
 }
 populationsize_700M = {
 	trigger = {
@@ -1547,13 +1546,13 @@ populationsize_700M = {
 			total_pops = 200000000
 		}
 	}
-	research_points = 4
+	research_points = 1.4
 }
 populationsize_800M = {
 	trigger = {
 		total_pops = 200000000
 	}
-	research_points = 5
+	research_points = 1.5
 }
 
 ### Reduce supply consumption for large armies to deal with the 2K goods purchase cap ###

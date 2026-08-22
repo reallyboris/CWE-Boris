@@ -240,6 +240,8 @@ owner = { primary_culture = arab_sahrawi }
 		picture = "change_arab"
 		potential = {
 
+			#year = 1951
+			
 			NOT = { tag = ISI }
 
 			NOT = { tag = UAR }

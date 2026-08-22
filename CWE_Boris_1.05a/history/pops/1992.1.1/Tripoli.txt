@@ -346,12 +346,12 @@
 #Murzuk - Murzuk (47000/11750 POPS)
 1741 = {
 	soldiers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 1052
 	 } 
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 8240
 	 } 
@@ -377,7 +377,7 @@
 #Ghat - Ghat (107000/26750 POPS)
 1743 = {
 	soldiers = {
-		culture = tuareg
+		culture = libyan
 		religion =  sunni 
 		size = 2396
 	 } 
@@ -413,7 +413,7 @@
 #Matan as Sarah - Matan as Sarah (28000/7000 POPS)
 2585 = {
 	farmers = {
-		culture = toubou
+		culture = black_muslim
 		religion =  sunni 
 		size = 4908
 	 } 

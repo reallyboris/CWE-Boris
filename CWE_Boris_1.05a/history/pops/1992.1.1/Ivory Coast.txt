@@ -134,102 +134,102 @@
 #Sassandra - Sassandra (1929000/482250 POPS)
 1893 = {
 	officers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 193
 	 } 
 	officers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 26
 	 } 
 	soldiers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 775
 	 } 
 	soldiers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 105
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 16975
 	 } 
 	aristocrats = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 2314
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 424
 	 } 
 	bureaucrats = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 57
 	 } 
 	capitalists = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 2121
 	 } 
 	capitalists = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 289
 	 } 
 	clergymen = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 4243
 	 } 
 	clergymen = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 578
 	 } 
 	clerks = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 8585
 	 } 
 	clerks = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 1170
 	 } 
 	artisans = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 8155
 	 } 
 	artisans = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 1112
 	 } 
 	craftsmen = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 26186
 	 } 
 	craftsmen = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 3570
 	 } 
 	farmers = {
-		culture = kru
+		culture = akan
 		religion =  protestant 
 		size = 233648
 	 } 
 	farmers = {
-		culture = kru
+		culture = akan
 		religion = secularism
 		size = 31861
 	 } 
@@ -591,12 +591,12 @@
 		size = 18083
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 41404
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 5646
 	 } 
@@ -604,102 +604,102 @@
 #Kong - Kong (1718000/429500 POPS)
 1898 = {
 	officers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 172
 	 } 
 	officers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 23
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 690
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 94
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 15118
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 2061
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 377
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 51
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1889
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 257
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 3779
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 515
 	 } 
 	clerks = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 7646
 	 } 
 	clerks = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 1042
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 7263
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 990
 	 } 
 	craftsmen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 23320
 	 } 
 	craftsmen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 3180
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 279905
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 38168
 	 } 
@@ -712,102 +712,102 @@
 #Bondouku - Bondouku (471000/117750 POPS)
 1899 = {
 	officers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 46
 	 } 
 	officers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 189
 	 } 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 25
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 4144
 	 } 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 565
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 102
 	 } 
 	bureaucrats = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 14
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 517
 	 } 
 	capitalists = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 70
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1035
 	 } 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 141
 	 } 
 	clerks = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 2096
 	 } 
 	clerks = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 285
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 1991
 	 } 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 271
 	 } 
 	craftsmen = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 6393
 	 } 
 	craftsmen = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 871
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion =  protestant 
 		size = 87102
 	 } 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = secularism
 		size = 11877
 	 } 

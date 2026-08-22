@@ -66,11 +66,11 @@ luxury_needs = {
 	beverage_tobacco = 3	
 	jewellery = 0.25
 	health = 0.5
-	communication = 0.75
+	communication = 1
 	education_rnd = 0.2
 	culture = 1
 	recreation = 0.25
-	financial_services = 0.25
+	financial_services = 0.5
 	clothes_footwear = 0.35
 	computers = 0.1
 }

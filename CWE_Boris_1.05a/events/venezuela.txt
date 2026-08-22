@@ -851,6 +851,7 @@ country_event = {
 	option = {
 		name = "Nicolas Maduro wins"
 		government = presidential_dictatorship
+		add_country_modifier = { name = stagflation duration = 3650 }
 		country_event = 800050
 		ruling_party_ideology = socialist
 		ai_chance = { factor = 0.9 }	

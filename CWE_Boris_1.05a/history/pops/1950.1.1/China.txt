@@ -247,7 +247,7 @@
 		size = 46075
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 125929
 	 } 
@@ -335,7 +335,7 @@
 		size = 86816
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 28127
 	 } 
@@ -818,7 +818,7 @@
 		size = 1083
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni
 		size = 4132
 	 } 
@@ -2638,12 +2638,12 @@
 		size = 5766
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 20000
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 5766
 	 } 
@@ -4201,37 +4201,37 @@
 		size = 58
 	 } 
 	soldiers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 594
 	 } 
 	officers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 71
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 47886
 	 } 
 	clerks = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 7
 	 } 
 	clergymen = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 492
 	 } 
 	capitalists = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 246
 	 } 
 	bureaucrats = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 49
 	 } 
@@ -4345,37 +4345,37 @@
 		size = 97
 	 } 
 	soldiers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 1011
 	 } 
 	officers = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 121
 	 } 
 	farmers = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 81457
 	 } 
 	clerks = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 12
 	 } 
 	clergymen = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 837
 	 } 
 	capitalists = {
-		culture = miao
+		culture = zhuang
 		religion = animist
 		size = 418
 	 } 
 	bureaucrats = {
-		culture = miao
+		culture = zhuang
 		religion =  animist 
 		size = 84
 	 } 
@@ -4815,72 +4815,72 @@
 #Fort Simpson - Heze (2503000/625750 POPS)
 3370 = {
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 1506
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 180
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 121411
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 17
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 1247
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 623
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 124
 	 } 
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 377
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 45
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 30353
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 4
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 312
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = secularism
 		size = 156
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  secularism 
 		size = 31
 	 } 
@@ -5138,7 +5138,7 @@
 		size = 597
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 341
 	 } 
@@ -5192,37 +5192,37 @@
 		size = 35
 	 } 
 	soldiers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 47
 	 } 
 	officers = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 6
 	 } 
 	farmers = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 3787
 	 } 
 	clerks = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 39
 	 } 
 	capitalists = {
-		culture = hui
+		culture = chinese
 		religion = sunni
 		size = 19
 	 } 
 	bureaucrats = {
-		culture = hui
+		culture = chinese
 		religion =  sunni 
 		size = 4
 	 } 

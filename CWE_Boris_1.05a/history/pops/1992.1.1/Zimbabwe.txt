@@ -214,12 +214,12 @@
 		size = 21914
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 25695
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 2541
 	 } 
@@ -330,102 +330,102 @@
 #Bulawayo - Bulawayo (1039000/259750 POPS)
 2071 = {
 	officers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 211
 	 } 
 	officers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 20
 	 } 
 	soldiers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 845
 	 } 
 	soldiers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 83
 	 } 
 	aristocrats = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 9454
 	 } 
 	aristocrats = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 935
 	 } 
 	bureaucrats = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 472
 	 } 
 	bureaucrats = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 46
 	 } 
 	capitalists = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 1181
 	 } 
 	capitalists = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 116
 	 } 
 	clergymen = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 2363
 	 } 
 	clergymen = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 233
 	 } 
 	clerks = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 3426
 	 } 
 	clerks = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 338
 	 } 
 	artisans = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 3254
 	 } 
 	artisans = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 321
 	 } 
 	craftsmen = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 10449
 	 } 
 	craftsmen = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 1033
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 157440
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 15570
 	 } 
@@ -543,12 +543,12 @@
 		size = 472
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 109896
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 10868
 	 } 

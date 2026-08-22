@@ -17,7 +17,7 @@ culture = hindi
 
 culture = marathi
 culture = gujarati
-culture = oriya
+#culture = oriya
 
 religion = secularism
 government = colonial_government

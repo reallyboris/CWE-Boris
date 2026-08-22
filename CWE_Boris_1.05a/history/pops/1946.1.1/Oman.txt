@@ -340,9 +340,9 @@
 		size = 44
 	 } 
 	farmers = {
-		culture = arab_gulf
+		culture = omani
 		religion =  ibad 
-		size = 1387
+		size = 387
 	 } 
 	farmers = {
 		culture = arab_gulf
@@ -353,7 +353,7 @@
 	#For Pan-Arab and National Arab
 	farmers = {
 		culture = omani
-		religion =  sunni 
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {

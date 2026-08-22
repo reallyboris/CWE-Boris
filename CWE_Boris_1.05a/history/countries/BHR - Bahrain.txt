@@ -1,5 +1,6 @@
 capital = 1162
-primary_culture = arab_gulf
+primary_culture = bahrani
+culture = arab_gulf
 culture = arab
 religion = secularism
 government = absolute_monarchy
@@ -44,6 +45,7 @@ pollution = no_controls
 wage_and_work_hours = unregulated_hours
 social_service_reform = no_social_service
 # Technologies
+fossil_fuel_power = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0

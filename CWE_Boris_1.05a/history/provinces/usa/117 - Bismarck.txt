@@ -13,6 +13,11 @@ state_building = {
 	building = petroleum_fuel_factory
 	upgrade = yes
 }
+state_building = {
+	level = 2
+	building = grain_canned_food_factory
+	upgrade = yes
+}
 1992.1.1 = {
 owner = USA
 controller = USA

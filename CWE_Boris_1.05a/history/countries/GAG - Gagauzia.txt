@@ -1,6 +1,6 @@
 capital = 676
-primary_culture = gagauz
-culture = romanian
+primary_culture = romanian
+culture = gagauz
 religion = secularism
 government = democracy
 plurality = 5.0

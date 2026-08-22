@@ -111,12 +111,12 @@
 		size = 242
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 243107
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 15517
 	 } 
@@ -134,102 +134,102 @@
 #Abomey - Collines, Zou, Kuoffo (1093000/273250 POPS)
 1920 = {
 	officers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 78
 	 } 
 	officers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 315
 	 } 
 	soldiers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 20
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 10274
 	 } 
 	aristocrats = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 655
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 256
 	 } 
 	bureaucrats = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 16
 	 } 
 	capitalists = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 1284
 	 } 
 	capitalists = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 81
 	 } 
 	clergymen = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 2568
 	 } 
 	clergymen = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 163
 	 } 
 	clerks = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 4347
 	 } 
 	clerks = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 277
 	 } 
 	artisans = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 4130
 	 } 
 	artisans = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 263
 	 } 
 	craftsmen = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 13261
 	 } 
 	craftsmen = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 846
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion =  protestant 
 		size = 153555
 	 } 
 	farmers = {
-		culture = fon
+		culture = yoruba
 		religion = secularism
 		size = 9801
 	 } 

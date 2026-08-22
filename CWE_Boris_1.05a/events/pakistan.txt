@@ -33,6 +33,7 @@ country_event = {
 				value = conservative
 			}
 		}
+		add_country_modifier = { name = asia_edu duration = 3650 }
 		
 		ai_chance = { factor = 0.9 }
 	}
@@ -51,6 +52,8 @@ country_event = {
 				value = populist
 			}
 		}
+		
+		add_country_modifier = { name = asia_edu duration = 3650 }
 		
 		ai_chance = { factor = 0.9 }
 	}

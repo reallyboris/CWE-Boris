@@ -1,27 +1,27 @@
 #Niamey - Niamey (469000/117250 POPS)
 1808 = {
 	aristocrats = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 4690
 	 } 
 	clergymen = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1172
 	 } 
 	craftsmen = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 2397
 	 } 
 	farmers = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 88893
 	 } 
 	farmers = {
-		culture = black_muslim
+		culture = fula
 		religion =  sunni 
 		size = 17587
 	 } 
@@ -29,37 +29,37 @@
 #Say - Say (1245000/311250 POPS)
 1809 = {
 	aristocrats = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 12450
 	 } 
 	capitalists = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1556
 	 } 
 	clergymen = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 3112
 	 } 
 	clerks = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 2087
 	 } 
 	artisans = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 1982
 	 } 
 	craftsmen = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 6365
 	 } 
 	farmers = {
-		culture = zarma
+		culture = fula
 		religion =  sunni 
 		size = 282653
 	 } 
@@ -156,37 +156,37 @@
 #Arlit - Arlit (1523000/380750 POPS)
 1813 = {
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 15230
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1903
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 3807
 	 } 
 	clerks = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2553
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2425
 	 } 
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 7786
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 143969
 	 } 
@@ -204,52 +204,52 @@
 #Madama - Madama (18000/4500 POPS)
 1814 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 180
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 9
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 22
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 45
 	 } 
 	clerks = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 30
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 28
 	 } 
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 92
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4089
 	 } 
@@ -297,12 +297,12 @@
 		size = 44522
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 31732
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 647
 	 } 
@@ -325,12 +325,12 @@
 		size = 7329
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 53116
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1084
 	 } 
@@ -338,52 +338,52 @@
 #Bilma - Bilma (18000/4500 POPS)
 1817 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 1
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 180
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 9
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 22
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 45
 	 } 
 	clerks = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 30
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 28
 	 } 
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 92
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4089
 	 } 

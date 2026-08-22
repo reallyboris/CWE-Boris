@@ -74,7 +74,7 @@
 		size = 227816
 	 } 
 	farmers = {
-		culture = pamir
+		culture = persian
 		religion =  sunni 
 		size = 6500
 	 } 
@@ -198,12 +198,12 @@
 		size = 2518
 	 } 
 	farmers = {
-		culture = hazara
+		culture = persian
 		religion =  shiite 
 		size = 77200
 	 } 
 	farmers = {
-		culture = hazara
+		culture = persian
 		religion =  sunni
 		size = 25800
 	 } 

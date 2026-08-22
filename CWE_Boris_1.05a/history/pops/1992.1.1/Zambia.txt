@@ -121,12 +121,12 @@
 		size = 3915
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 24795
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 1305
 	 } 
@@ -450,12 +450,12 @@
 		size = 7567
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion =  protestant 
 		size = 52821
 	 } 
 	farmers = {
-		culture = nguni
+		culture = zulu
 		religion = secularism
 		size = 2780
 	 } 
@@ -463,102 +463,102 @@
 #Kazembe - Kazembe (577000/144250 POPS)
 2016 = {
 	officers = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 383
 	 } 
 	officers = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	soldiers = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 1538
 	 } 
 	soldiers = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 80
 	 } 
 	aristocrats = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 5481
 	 } 
 	aristocrats = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 288
 	 } 
 	bureaucrats = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 273
 	 } 
 	bureaucrats = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 14
 	 } 
 	capitalists = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 684
 	 } 
 	capitalists = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 36
 	 } 
 	clergymen = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 1369
 	 } 
 	clergymen = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 72
 	 } 
 	clerks = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 1997
 	 } 
 	clerks = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 105
 	 } 
 	artisans = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 1897
 	 } 
 	artisans = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 99
 	 } 
 	craftsmen = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 6093
 	 } 
 	craftsmen = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 320
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 117317
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 6174
 	 } 
@@ -666,12 +666,12 @@
 		size = 5772
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 105635
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 5559
 	 } 
@@ -892,12 +892,12 @@
 		size = 4510
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion =  catholic 
 		size = 154006
 	 } 
 	farmers = {
-		culture = bemba
+		culture = african_minor
 		religion = secularism
 		size = 8105
 	 } 

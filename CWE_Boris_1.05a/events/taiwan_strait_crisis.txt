@@ -57,7 +57,9 @@ country_event = {
     name = EVT_8500402_A
 	relation = { who = CHI value = -200 } 
 	relation = { who = KMT value = 200 } 
+  relation = { who = KMT value = 200 } 
 	diplomatic_influence = { who = KMT value = 200 }
+  diplomatic_influence = { who = KMT value = 100 }
 any_pop = { dominant_issue = { value = jingoism factor = 0.1 } }
 	KMT = { country_event = 8500403 }
 	ai_chance = { factor = 0.9 }

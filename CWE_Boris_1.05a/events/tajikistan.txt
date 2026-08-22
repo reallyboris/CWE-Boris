@@ -87,7 +87,7 @@ country_event = {
 	option = {
 		name = EVT_8008011_A
 		change_tag = TAJ
-		add_accepted_culture = pamir
+		add_accepted_culture = persian
 		capital = 1201 # Dushanbe
 	}
   

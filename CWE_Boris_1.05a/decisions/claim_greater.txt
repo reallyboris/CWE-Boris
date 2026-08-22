@@ -5568,7 +5568,7 @@ NOT = { government = democracy government = hms_government }
 						primary_culture = chechen 
 						primary_culture = uighur 
 						primary_culture = uzbek 
-						#primary_culture = gagauz # hide coz border gore
+						#primary_culture = gagauz # hide coz border gore and culture removed
 						primary_culture = ingush 
 						primary_culture = kazak 
 						primary_culture = kirgiz 

@@ -7,12 +7,12 @@ naval_base = 2
 terrain = urban_singapore
 colonial = 0
 state_building = {
-	level = 3
+	level = 1
 	building = fish_canned_food_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 5
 	building = petroleum_fuel_factory
 	upgrade = yes
 }

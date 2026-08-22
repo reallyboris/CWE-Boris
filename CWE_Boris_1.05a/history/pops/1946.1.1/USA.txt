@@ -16088,27 +16088,32 @@
 	capitalists = {
 		culture = jewish
 		religion =  jewish 
-		size = 13000
+		size = 50000
+	 } 
+	capitalists = {
+		culture = white_anglo
+		religion = protestant
+		size = 20000
 	 } 
 	capitalists = {
 		culture = white_anglo
 		religion = secularism
-		size = 10000
+		size = 5000
 	 } 
 	officers = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 10000
+		size = 19000
 	 } 
 	officers = {
 		culture = white_anglo
 		religion = secularism
-		size = 10000
+		size = 1000
 	 } 
 	soldiers = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 40000
+		size = 39000
 	 } 
 	soldiers = {
 		culture = white_anglo
@@ -16140,40 +16145,35 @@
 		religion =  protestant 
 		size = 50000
 	 } 
-	clergymen = {
-		culture = white_anglo
-		religion = secularism
-		size = 100000
-	 } 
 	artisans = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 100000
+		size = 125000
 	 } 
 	artisans = {
 		culture = white_anglo
 		religion = secularism
-		size = 50000
+		size = 25000
 	 } 
 	craftsmen = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 112599
+		size = 239000
 	 } 
 	craftsmen = {
 		culture = white_anglo
 		religion = secularism
-		size = 11180
+		size = 10000
 	 } 
 	clerks = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 250000
+		size = 275000
 	 } 
 	labourers = {
 		culture = white_anglo
 		religion = protestant
-		size = 150008
+		size = 420008
 	 } 
 	labourers = {
 		culture = white_anglo
@@ -16183,7 +16183,7 @@
 	labourers = {
 		culture = jewish
 		religion =  jewish 
-		size = 98883
+		size = 198883
 	 }  
 	labourers = {
 		culture = afro_american

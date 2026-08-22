@@ -78,7 +78,7 @@ country_event = {
 	}
 	
 	#Review every year so there is no event spam
-	mean_time_to_happen = { months = 1 }
+	mean_time_to_happen = { months = 6 }
 	
 	option = {
 		name = "We welcome these new $COUNTRY_ADJ$ Citizens"

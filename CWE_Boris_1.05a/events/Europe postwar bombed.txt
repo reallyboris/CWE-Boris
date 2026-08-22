@@ -14,6 +14,10 @@ country_event = {
 
 	immediate = {
 		random_owned = {
+			limit = { province_id = 1755 }
+			add_province_modifier = { name = war_bombed duration = 700 }
+		}
+		random_owned = {
 			limit = { province_id = 1865 }
 			add_province_modifier = { name = war_bombed duration = 700 }
 		}
@@ -39,7 +43,33 @@ country_event = {
 	}
 }
 
+country_event = {
+	id = 669968
+	title = "EVTNAME669968"
+	desc = "EVTDESC669968"
+	picture = colonial_factory
 
+
+	trigger = {
+		NOT = { year = 1951 }
+		tag = JAP
+		any_owned_province = { AND = { core = JAP NOT = { has_province_modifier = war_bombed } } }
+	}
+
+	immediate = {
+		any_owned = {
+			limit = {
+				core = JAP
+				NOT = { has_province_modifier = war_bombed }
+			}
+			add_province_modifier = { name = war_bombed duration = 700 } 
+		}
+	}
+
+	option = {
+		name = "EVTOPTA91302" 
+	}
+}
 
 
 #		random_owned = {

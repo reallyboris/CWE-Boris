@@ -150,102 +150,102 @@
 #Lindi - Lindi (488000/122000 POPS)
 2039 = {
 	officers = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 98
 	 } 
 	officers = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 398
 	 } 
 	soldiers = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	aristocrats = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 4636
 	 } 
 	aristocrats = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 244
 	 } 
 	bureaucrats = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 115
 	 } 
 	bureaucrats = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	capitalists = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 579
 	 } 
 	capitalists = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 30
 	 } 
 	clergymen = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 1159
 	 } 
 	clergymen = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 61
 	 } 
 	clerks = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 1162
 	 } 
 	clerks = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 61
 	 } 
 	artisans = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 1104
 	 } 
 	artisans = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 58
 	 } 
 	craftsmen = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 3548
 	 } 
 	craftsmen = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 186
 	 } 
 	farmers = {
-		culture = makonde
+		culture = african_minor
 		religion =  protestant 
 		size = 103096
 	 } 
 	farmers = {
-		culture = makonde
+		culture = african_minor
 		religion = secularism
 		size = 5426
 	 } 
@@ -466,12 +466,12 @@
 		size = 2329
 	 } 
 	farmers = {
-		culture = makonde
+		culture = yao
 		religion =  protestant 
 		size = 120103
 	 } 
 	farmers = {
-		culture = makonde
+		culture = yao
 		religion = secularism
 		size = 6321
 	 } 
@@ -785,12 +785,12 @@
 		size = 64504
 	 } 
 	farmers = {
-		culture = luo
+		culture = chewa
 		religion =  protestant 
 		size = 191121
 	 } 
 	farmers = {
-		culture = luo
+		culture = chewa
 		religion = secularism
 		size = 10059
 	 } 

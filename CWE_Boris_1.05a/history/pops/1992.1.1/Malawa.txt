@@ -101,12 +101,12 @@
 		size = 5620
 	 } 
 	farmers = {
-		culture = lomwe
-		religion =  protestant 
+		culture = african_minor
+		religion =  catholic 
 		size = 414381
 	 } 
 	farmers = {
-		culture = lomwe
+		culture = african_minor
 		religion = secularism
 		size = 4185
 	 } 

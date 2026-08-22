@@ -6,6 +6,11 @@ requested_grant = {
 	icon = 10
 }
 
+asia_edu = {
+	education_efficiency_modifier = 0.07
+	icon = 19
+}
+
 banker_income_timer = {
 	icon = 10
 }
@@ -85,17 +90,37 @@ crat_10 = {
 }
 
 medium_farm = {
-    local_RGO_throughput = 6
+    local_RGO_throughput = 5
 	icon = 9
 }
 
 us_immigration_start_fix ={
-#immigrant_attract = 3
+global_immigrant_attract = 2
 global_assimilation_rate = 0.5
+icon = 13
+}
+
+us_immigration_city ={
+immigrant_attract = 2
+icon = 23
 }
 
 us_tax_start_fix ={
-max_tax = 0.25
+max_tax = 0.19
+RGO_throughput = 0.3
+RGO_output = 0.3
+min_social_spending = 0.5
+RGO_throughput = 0.1
+RGO_output = 0.1
+icon = 13
+}
+
+us_exception ={
+min_tax = -0.1
+factory_throughput = 0.25
+RGO_throughput = 0.1
+RGO_output = 0.15
+icon = 23
 }
 
 pop_farm_debuff_timer = {
@@ -103,44 +128,68 @@ pop_farm_debuff_timer = {
 }
 
 pop_farm_debuff_1 = {
-local_RGO_output = -0.1
+local_RGO_output = -0.2
 local_RGO_throughput = -0.1
     icon = 18
 }
 
 pop_farm_debuff_2 = {
-local_RGO_output = -0.225
+local_RGO_output = -0.325
 local_RGO_throughput = -0.225
     icon = 18
 }
 
 pop_farm_debuff_3 = {
-local_RGO_output = -0.4
+local_RGO_output = -0.5
 local_RGO_throughput = -0.4
     icon = 18
 }
 
 pop_farm_debuff_4 = {
-local_RGO_output = -0.525
+local_RGO_output = -0.625
 local_RGO_throughput = -0.525
     icon = 18
 }
 
 pop_farm_debuff_5 = {
-local_RGO_output = -0.65
+local_RGO_output = -0.75
 local_RGO_throughput = -0.65
     icon = 18
 }
 
 pop_farm_debuff_6 = {
-local_RGO_output = -0.675
+local_RGO_output = -0.875
 local_RGO_throughput = -0.675
     icon = 18
 }
 
 pop_farm_debuff_7 = {
-local_RGO_output = -0.725
+local_RGO_output = -0.95
 local_RGO_throughput = -0.725
+    icon = 18
+}
+
+pop_farm_debuff_8 = {
+local_RGO_output = -1.05
+local_RGO_throughput = -0.825
+    icon = 18
+}
+
+pop_farm_debuff_9 = {
+local_RGO_output = -1.2
+local_RGO_throughput = -0.95
+    icon = 18
+}
+
+pop_farm_debuff_10 = {
+local_RGO_output = -1.3
+local_RGO_throughput = -1.05
+    icon = 18
+}
+
+pop_farm_debuff_11 = {
+local_RGO_output = -1.5
+local_RGO_throughput = -1.2
     icon = 18
 }
 
@@ -150,7 +199,7 @@ oil_field_custom_small = {
 }
 
 oil_field_custom = { 
-    local_RGO_throughput = 45
+    local_RGO_throughput = 75
 	icon = 9
 }
 
@@ -537,7 +586,7 @@ icon = 10
 }
 
 stagflation = {
-tax_efficiency = -0.05
+tax_efficiency = -0.01
 factory_owner_cost = 0.05
 factory_output = -0.1
 factory_input = 0.1
@@ -1274,15 +1323,16 @@ icon = 5
 }
 
 chinese_military = {
-tax_efficiency = 0.10
+tax_efficiency = 0.5
 leadership_modifier = 0.25
-land_unit_start_experience = 5
+land_unit_start_experience = 2.5
 land_organisation = 0.25
 mobilization_economy_impact = -0.25
-mobilisation_size = 0.25
-org_regain = 0.25
+mobilisation_size = 0.8
+org_regain = 0.75
 suppression_points_modifier = 0.5
-war_exhaustion = -1
+min_military_spending = -0.75
+war_exhaustion = -3
 icon = 5
 }
 
@@ -2096,13 +2146,14 @@ icon = 18
 }
 
 war_bombed = { 
-immigrant_push = 5
-local_artisan_output = -0.25
-pop_militancy_modifier = 0.05
-local_factory_throughput = -0.25
+immigrant_push = 1
+local_artisan_output = -0.2
+pop_militancy_modifier = 0.02
+local_factory_throughput = -0.1
 social_reform_desire = 0.5
-local_factory_input = 0.20
-immigrant_attract = -1.75
+local_factory_input = 0.10
+immigrant_attract = -2
+population_growth = -0.001
 icon = 18  
 }
 
@@ -4715,20 +4766,17 @@ natomedium_gp = {
 natolow_gp = {
 	min_military_spending = -0.20
 	factory_owner_cost = -0.05
-	factory_throughput = 0.01
+	factory_throughput = 0.05
 	research_points_modifier = 0.05
 	icon = 21
 }
 
 natolow = {
-	rich_income_modifier = -0.05
-	middle_income_modifier = -0.05
-	poor_income_modifier = -0.05
 #	org_regain = 0.05
 #	land_organisation = 0.05
 #	land_unit_start_experience = 5
 	leadership_modifier = 0.05
-	min_military_spending = 0.30
+	min_military_spending = 0.20
 	icon = 21
 }
 
@@ -4743,7 +4791,7 @@ natomedium = {
 natohigh = {
 	min_military_spending = -0.10
 	factory_owner_cost = -0.05
-	factory_throughput = 0.01
+	factory_throughput = 0.05
 	research_points_modifier = 0.05
 	icon = 21
 }
@@ -4757,7 +4805,7 @@ icon = 18
 }
 
 oil_crisis = {
-local_RGO_throughput = -90
+local_RGO_throughput = -99
 icon = 18
 }
 
@@ -4772,7 +4820,7 @@ icon = 3
 }
 
 oil_low = {
-local_RGO_output = -0.25
+local_RGO_output = -0.5
 icon = 4
 }
 
@@ -5580,19 +5628,16 @@ commhigh_gp = {
 	rich_income_modifier = -0.10
 	middle_income_modifier = -0.10
 	poor_income_modifier = -0.10
-#	org_regain = 0.05
-#	land_organisation = 0.05
-#	land_unit_start_experience = 2.5
 	leadership_modifier = 0.1
-	min_military_spending = 0.60
+	min_military_spending = 0.5
 	supply_consumption = 0.10
 	icon = 19
 }
 
 commmedium_gp = {
-	min_military_spending = 0.40
+	min_military_spending = 0.35
 	factory_owner_cost = -0.010
-	factory_throughput = 0.10
+	factory_throughput = 0.010
 	research_points_modifier = 0.05
 	icon = 19
 }
@@ -5600,8 +5645,8 @@ commmedium_gp = {
 commlow_gp = {
 	min_military_spending = 0.20
 	social_reform_desire = 0.20
-	factory_owner_cost = -0.020
-	factory_throughput = 0.20
+	factory_owner_cost = -0.025
+	factory_throughput = 0.025
 	research_points_modifier = 0.10
 	factory_input = -0.01
 	tax_efficiency = -0.05
@@ -5610,23 +5655,17 @@ commlow_gp = {
 }
 
 commhigh = {
-	rich_income_modifier = -0.10
-	middle_income_modifier = -0.10
-	poor_income_modifier = -0.10
-#	org_regain = 0.05
-#	land_organisation = 0.05
-#	land_unit_start_experience = 2.5
 	leadership_modifier = 0.02
-	min_military_spending = 0.60
+	min_military_spending = 0.50
 	supply_consumption = 0.05
 	icon = 19
 }
 
 commmedium = {
-	min_military_spending = 0.40
+	min_military_spending = 0.35
 	factory_owner_cost = -0.01
-	factory_throughput = 0.10
-	RGO_throughput = 0.10
+	factory_throughput = 0.01
+	RGO_throughput = 0.01
 	import_cost = -0.1
 	tax_efficiency = 0.025
 	research_points_modifier = 0.025
@@ -5636,8 +5675,8 @@ commmedium = {
 commlow = {
 	min_military_spending = 0.20
 	factory_owner_cost = -0.02
-	factory_throughput = 0.20
-	RGO_throughput = 0.20
+	factory_throughput = 0.025
+	RGO_throughput = 0.025
 	import_cost = -0.2
 	tax_efficiency = 0.05
 	research_points_modifier = 0.05
@@ -5649,12 +5688,6 @@ commlow = {
 ### Democratic Bloc Leader Options ###
 
 demohigh_gp = {
-	rich_income_modifier = -0.05
-	middle_income_modifier = -0.05
-	poor_income_modifier = -0.05
-#	org_regain = 0.05
-#	land_organisation = 0.05
-#	land_unit_start_experience = 2.5
 	leadership_modifier = 0.1
 	min_military_spending = 0.30
 	icon = 21
@@ -5662,15 +5695,15 @@ demohigh_gp = {
 
 demomedium_gp = {
 	min_military_spending = 0.10
-	factory_owner_cost = -0.05
-	factory_throughput = 0.10
+	factory_owner_cost = -0.025
+	factory_throughput = 0.025
 	research_points_modifier = 0.05
 	icon = 21
 }
 
 demolow_gp = {
 	factory_owner_cost = -0.010
-	factory_throughput = 0.20
+	factory_throughput = 0.10
 	research_points_modifier = 0.10
 	icon = 21
 }
@@ -5690,14 +5723,14 @@ demohigh = {
 demomedium = {
 	min_military_spending = 0.10
 	factory_owner_cost = -0.05
-	factory_throughput = 0.10
+	factory_throughput = 0.025
 	research_points_modifier = 0.025
 	icon = 21
 }
 
 demolow = {
 	factory_owner_cost = -0.010
-	factory_throughput = 0.20
+	factory_throughput = 0.05
 	research_points_modifier = 0.05
 	icon = 21
 }
@@ -6430,10 +6463,10 @@ g8 = {
 leekuanyew = {
 tax_efficiency = 0.25
 research_points_modifier = 0.50
-education_efficiency_modifier = 0.10
+education_efficiency_modifier = 0.15
 culture_tech_research_bonus = 0.5
 industry_tech_research_bonus = 0.5
-RGO_output = 0.25
+RGO_output = 0.35
 prestige = 0.01
 icon = 3
 }
@@ -6588,9 +6621,9 @@ democratic_bloc_leader = {
 	tariff_efficiency_modifier = 0.10
 	
 	#Economic effects
-	RGO_output = 0.20
+	RGO_output = 0.25
 	factory_output = 0.20
-	factory_owner_cost = -0.020
+	factory_throughput = 0.2
 
 	#Research points
 	research_points = 1.50
@@ -6788,8 +6821,8 @@ rocket_test = {
 	local_factory_output = 0.25
 	local_RGO_throughput = 0.25
 	immigrant_attract = 0.25
-	immigrant_push = -0.75
-	population_growth = 0.002
+	immigrant_push = -0.25
+	population_growth = 0.0002
 	icon = 5
 }
 
@@ -7132,12 +7165,12 @@ natural_disaster = {
 	icon = 4
 }
 famine = {
-	population_growth = -0.002
+	population_growth = -0.02
 	icon = 20
 }
 
 global_famine = {
-	global_population_growth = -0.002
+	global_population_growth = -0.02
 	icon = 18
 }
 
@@ -7306,7 +7339,8 @@ local_stock_exchange = {
 economic_boom = {
 	factory_throughput = 0.125
 	factory_output = 0.125
-	RGO_output = 0.25
+	RGO_throughput = 0.2
+	RGO_output = 0.2
 	tax_efficiency = 0.05
 	rich_income_modifier = 0.20
 	middle_income_modifier = 0.10

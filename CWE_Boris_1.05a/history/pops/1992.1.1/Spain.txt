@@ -3281,102 +3281,102 @@
 #Balearic Islands - Balearic Islands (1106000/276500 POPS)
 502 = {
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 229
 	 } 
 	officers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 280
 	 } 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 919
 	 } 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 1123
 	 } 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 3110
 	 } 
 	aristocrats = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 3801
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 746
 	 } 
 	bureaucrats = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 912
 	 } 
 	capitalists = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 746
 	 } 
 	capitalists = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 912
 	 } 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 2488
 	 } 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 3041
 	 } 
 	clerks = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 3598
 	 } 
 	clerks = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 4398
 	 } 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 3418
 	 } 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 4178
 	 } 
 	craftsmen = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 10976
 	 } 
 	craftsmen = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 13416
 	 } 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion =  catholic 
 		size = 54641
 	 } 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = secularism
 		size = 66783
 	 } 

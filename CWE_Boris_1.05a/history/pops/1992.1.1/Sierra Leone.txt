@@ -31,44 +31,44 @@
 		size = 195
 	 } 
 	aristocrats = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 1293
 	 } 
 	capitalists = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 2605
 	 } 
 	clergymen = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 5210
 	 } 
 	clerks = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 7692
 	 } 
 	artisans = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 7308
 	 } 
 	craftsmen = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
 		size = 23463
 	 } 
 	farmers = {
-		culture = temne
+		culture = black_muslim
 		religion =  sunni 
-		size = 321818
+		size = 121818
 	 } 
 	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 128947
+		culture = black_anglo
+		religion =  protestant 
+		size = 328947
 	 } 
 	farmers = {
 		culture = african_minor
@@ -179,7 +179,7 @@
 		size = 911
 	 } 
 	farmers = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 183715
 	 } 
@@ -187,37 +187,37 @@
 #Bo - Bo (876000/219000 POPS)
 1886 = {
 	aristocrats = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 8760
 	 } 
 	capitalists = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 1095
 	 } 
 	clergymen = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 2190
 	 } 
 	clerks = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 3233
 	 } 
 	artisans = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 3071
 	 } 
 	craftsmen = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 9862
 	 } 
 	farmers = {
-		culture = mende
+		culture = black_muslim
 		religion =  sunni 
 		size = 115567
 	 } 

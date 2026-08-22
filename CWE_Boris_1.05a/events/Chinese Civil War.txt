@@ -288,7 +288,7 @@ country_event = {
 		war_with = CHI
 
 		OR = {
-			AND = { national_provinces_occupied = 0.35 USA = { NOT = { war_with = CHI } } } 
+			AND = { national_provinces_occupied = 0.3 USA = { NOT = { war_with = CHI } } } 
 			AND = { national_provinces_occupied = 0.75 USA = { war_with = CHI } }
 		}
 		
@@ -310,7 +310,7 @@ country_event = {
 		#Transfer provinces
 		any_pop = { 
 			limit = { 
-				OR = { type = aristocrats type = capitalists } 
+				OR = { type = aristocrats type = capitalists type = artisans } 
 			} 
 			move_pop = 1485 # Taibei
 		}
@@ -319,7 +319,7 @@ country_event = {
 				limit = { 
 					OR = { type = aristocrats type = capitalists } 
 				} 
-				move_pop = 1485 # Taibei
+				move_pop = 1496 # Hong Kong
 			}
 		}
 		any_owned = { 
@@ -347,7 +347,7 @@ country_event = {
 						province_id = 1540 
 					} 
 				} 
-				OR = { type = bureaucrats type = officers type = soldiers type = aristocrats type = capitalists type = clerks type = craftsmen } 
+				OR = { type = artisans type = bureaucrats type = officers type = soldiers type = aristocrats type = capitalists type = clerks type = craftsmen } 
 			} 
 			move_pop = 1485 # Taibei
 		}
@@ -373,13 +373,17 @@ country_event = {
 		#War to retake Hainan
 		CHI = { country_event = 90904 }
 		set_global_flag = CHI_won_civil_war 
-		
+
+		add_country_modifier = { name = asia_edu duration = 3650 }
+		money = 1999999
+
 		ai_chance = { factor = 0.95 }
 	}
 	
 	option = {
 		name = "We shall die trying to kill the communists!"
 		
+		add_country_modifier = { name = asia_edu duration = 3650 }
 		#Inherit Formosa to get a full reunification if PRC wins
 		inherit = TAI
 		ai_chance = { factor = 0.05 }

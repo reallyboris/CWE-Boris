@@ -1761,12 +1761,12 @@
 		size = 59277
 	 } 
 	farmers = {
-		culture = gorontalo
+		culture = moluccan
 		religion =  protestant 
 		size = 288634
 	 } 
 	farmers = {
-		culture = gorontalo
+		culture = moluccan
 		religion = secularism
 		size = 2915
 	 } 
@@ -1966,22 +1966,22 @@
 		size = 35927
 	 } 
 	craftsmen = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 5431
 	 } 
 	craftsmen = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 54
 	 } 
 	farmers = {
-		culture = bali
+		culture = moluccan
 		religion =  hindu 
 		size = 595399
 	 } 
 	farmers = {
-		culture = bali
+		culture = moluccan
 		religion = secularism
 		size = 6014
 	 } 

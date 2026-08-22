@@ -31,92 +31,92 @@
 		size = 378
 	 } 
 	aristocrats = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 203
 	 } 
 	aristocrats = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 53
 	 } 
 	bureaucrats = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 81
 	 } 
 	bureaucrats = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 21
 	 } 
 	capitalists = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 203
 	 } 
 	capitalists = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 53
 	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 406
 	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 108
 	 } 
 	clerks = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 720
 	 } 
 	clerks = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 191
 	 } 
 	artisans = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 684
 	 } 
 	artisans = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 182
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 2199
 	 } 
 	craftsmen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 584
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 28862
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 7672
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 2034
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion = secularism
 		size = 540
 	 } 
@@ -264,22 +264,22 @@
 		size = 10938
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 8229
 	 } 
 	farmers = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 2187
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 8229
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion = secularism
 		size = 2187
 	 } 

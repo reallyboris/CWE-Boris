@@ -16,7 +16,7 @@
 		size = 2279
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = jordanian
 		religion =  sunni 
 		size = 45028
 	 } 
@@ -38,7 +38,7 @@
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = jordanian
+		culture = arab_levantine
 		religion =  sunni 
 		size = 1000
 	 } 

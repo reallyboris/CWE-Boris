@@ -50,11 +50,11 @@ luxury_needs = {
 	automobiles = 8
 	jewellery = 5
 	health = 2
-	communication = 10
+	communication = 15
 	education_rnd = 7.5
 	culture = 5
 	recreation = 10
-	financial_services = 22.5
+	financial_services = 25
 	clothes_footwear = 4
 	aeroplanes = 2
 	ships = 2	
@@ -107,7 +107,7 @@ country_migration_target = {
 	#Immigrants avoid small nations
 	modifier = {
 		factor = 0.1
-		NOT = { total_pops = 2000000 }
+		NOT = { total_pops = 1000000 }
 	}
 	
 	#Immigrants only go for more populated nations if they are developed

@@ -204,12 +204,12 @@
 		size = 102753
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 53910
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 5990
 	 } 
@@ -317,12 +317,12 @@
 		size = 1420
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 13015
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1446
 	 } 
@@ -440,12 +440,12 @@
 		size = 33033
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 674446
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 74938
 	 } 
@@ -852,12 +852,12 @@
 		size = 22923
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 101205
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 11245
 	 } 
@@ -988,102 +988,102 @@
 #Aselia - Oromia (6647000/1661750 POPS)
 1861 = {
 	officers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 1297
 	 } 
 	officers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 144
 	 } 
 	soldiers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 5191
 	 } 
 	soldiers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 576
 	 } 
 	aristocrats = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 59823
 	 } 
 	aristocrats = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 6647
 	 } 
 	bureaucrats = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 1494
 	 } 
 	bureaucrats = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 166
 	 } 
 	capitalists = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 7477
 	 } 
 	capitalists = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 830
 	 } 
 	clergymen = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 14955
 	 } 
 	clergymen = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1661
 	 } 
 	clerks = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 9558
 	 } 
 	clerks = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1062
 	 } 
 	artisans = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 9080
 	 } 
 	artisans = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1008
 	 } 
 	craftsmen = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 29153
 	 } 
 	craftsmen = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 3239
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 1207986
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 134220
 	 } 
@@ -1101,102 +1101,102 @@
 #Bonga - Gambela (203000/50750 POPS)
 1862 = {
 	officers = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 39
 	 } 
 	officers = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 158
 	 } 
 	soldiers = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 17
 	 } 
 	aristocrats = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 1827
 	 } 
 	aristocrats = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 203
 	 } 
 	bureaucrats = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 45
 	 } 
 	bureaucrats = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	capitalists = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 227
 	 } 
 	capitalists = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 25
 	 } 
 	clergymen = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 456
 	 } 
 	clergymen = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 50
 	 } 
 	clerks = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 291
 	 } 
 	clerks = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 32
 	 } 
 	artisans = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 277
 	 } 
 	artisans = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 30
 	 } 
 	craftsmen = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 890
 	 } 
 	craftsmen = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 98
 	 } 
 	farmers = {
-		culture = nuer
+		culture = african_minor
 		religion =  protestant 
 		size = 18624
 	 } 
 	farmers = {
-		culture = nuer
+		culture = african_minor
 		religion = secularism
 		size = 2069
 	 } 
@@ -1214,102 +1214,102 @@
 #Asosa - Oromia (6647000/1661750 POPS)
 1863 = {
 	officers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 1297
 	 } 
 	officers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 144
 	 } 
 	soldiers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 5191
 	 } 
 	soldiers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 576
 	 } 
 	aristocrats = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 59823
 	 } 
 	aristocrats = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 6647
 	 } 
 	bureaucrats = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 1494
 	 } 
 	bureaucrats = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 166
 	 } 
 	capitalists = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 7477
 	 } 
 	capitalists = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 830
 	 } 
 	clergymen = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 14955
 	 } 
 	clergymen = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1661
 	 } 
 	clerks = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 9558
 	 } 
 	clerks = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1062
 	 } 
 	artisans = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 9080
 	 } 
 	artisans = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 1008
 	 } 
 	craftsmen = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 29153
 	 } 
 	craftsmen = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 3239
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion =  protestant 
 		size = 754190
 	 } 
 	farmers = {
-		culture = oromo
+		culture = african_minor
 		religion = secularism
 		size = 754190
 	 } 

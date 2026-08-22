@@ -1,6 +1,5 @@
 capital = 1430
-primary_culture = bali
-culture = moluccan
+primary_culture = moluccan
 culture = ambon_timor
 religion = secularism
 government = democracy

@@ -555,7 +555,10 @@ political_reforms = {
 			
 		}
 		responsible_publishing = { 
-			
+			poor_luxury_needs = 0.05
+			middle_luxury_needs = 0.05
+			rich_luxury_needs = 0.05
+
 			global_immigrant_attract = 0.05
 			
 			administrative_multiplier = 1
@@ -568,6 +571,10 @@ political_reforms = {
 		}	
 		unregulated_publishing = { # free_press
 			literacy_con_impact = 0.25
+
+			poor_luxury_needs = 0.10
+			middle_luxury_needs = 0.10
+			rich_luxury_needs = 0.10
 			
 			suppression_points_modifier = -0.20
 			cb_generation_speed_modifier = -0.20

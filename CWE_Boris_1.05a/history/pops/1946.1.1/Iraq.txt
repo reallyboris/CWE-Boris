@@ -169,14 +169,14 @@
 		size = 747
 	 } 
 	farmers = {
-		culture = arab_mesopotamian
+		culture = iraqi
 		religion =  shiite 
 		size = 150000
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = iraqi
+		culture = arab_mesopotamian
 		religion =  sunni 
 		size = 1000
 	 } 

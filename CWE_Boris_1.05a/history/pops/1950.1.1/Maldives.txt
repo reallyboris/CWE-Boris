@@ -1,7 +1,7 @@
 #Maldives - Maldives (79000/19750 POPS)
 1325 = {
 	farmers = {
-		culture = dhivehi
+		culture = malayalam
 		religion = sunni 
 		size = 17493
 	 } 

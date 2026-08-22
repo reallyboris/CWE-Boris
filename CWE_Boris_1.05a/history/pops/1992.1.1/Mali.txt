@@ -367,7 +367,7 @@
 		size = 93046
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 53600
 	 } 
@@ -428,7 +428,7 @@
 		size = 3059
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 23693
 	 } 
@@ -499,7 +499,7 @@
 		size = 5889
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 62400
 	 } 
@@ -560,7 +560,7 @@
 #Tessalit - Tessalit (38000/9500 POPS)
 1807 = {
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 8321
 	 } 
@@ -568,52 +568,52 @@
 #Araouane - Araouane (22000/5500 POPS)
 2609 = {
 	officers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 2
 	 } 
 	soldiers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 8
 	 } 
 	aristocrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 220
 	 } 
 	bureaucrats = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 11
 	 } 
 	capitalists = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 27
 	 } 
 	clergymen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 55
 	 } 
 	clerks = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 72
 	 } 
 	artisans = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 68
 	 } 
 	craftsmen = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 220
 	 } 
 	farmers = {
-		culture = tuareg
+		culture = arab_saharan
 		religion =  sunni 
 		size = 4817
 	 } 

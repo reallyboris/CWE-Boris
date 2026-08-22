@@ -7724,7 +7724,7 @@ country_event = {
 
 		JAP = {
 			political_reform = free_opinion
-			political_reform = minorities_affirmative_action
+			political_reform = minorities_equal_rights
 			political_reform = professional_service
 			political_reform = parties_allowed
 			political_reform = lgbt_outlawed
@@ -7746,7 +7746,6 @@ country_event = {
 
 		JAP = {
 			political_reform = open_opinion
-			political_reform = minorities_equal_rights
 			political_reform = elitist_service
 			political_reform = parties_promote_democratic
 			political_reform = lgbt_outlawed
@@ -8483,6 +8482,8 @@ set_country_flag = cultural_revolution_flag
 
 any_pop = { literacy = -0.1 }
 
+any_pop = { limit = { OR = { type = slaves } } pop_type = farmers }
+
 any_pop = { limit = { OR = { type = clergymen political_movement = yes } } pop_type = slaves }
 
 any_pop = { limit = { OR = { type = capitalists type = artisans } } pop_type = craftsmen }
@@ -8566,6 +8567,7 @@ country_event = {
 			remove_province_modifier = iliterate_nation2_modifier
 			remove_province_modifier = iliterate_nation3_modifier
 		}
+		social_reforms = no_health_care
 
 		ai_chance = { factor = 0.9 }
 	}
@@ -10895,7 +10897,7 @@ name = "Propose the Bizone to the British (80% chance of success)"
 prestige = 50
 any_owned = { limit = { is_core = GER NOT = { is_core = AUS } NOT = { is_core = ROA } } secede_province = OG4 }
 create_vassal = OG4
-OG4 = { civilized = yes government = mandate_government country_event = 800054 ruling_party_ideology = big_tent }
+OG4 = { civilized = yes government = mandate_government country_event = 800054 ruling_party_ideology = big_tent social_reforms = acceptable_health_care }
 diplomatic_influence = { who = OG4 value = 200 }
 OG4 = { primary_culture = german }
 ENG = { country_event = 1512283 }

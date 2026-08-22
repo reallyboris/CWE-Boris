@@ -516,102 +516,102 @@
 #Benin - Edo (2319000/579750 POPS)
 1928 = {
 	officers = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 273
 	 } 
 	officers = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 64
 	 } 
 	soldiers = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 1095
 	 } 
 	soldiers = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 256
 	 } 
 	artisans = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 18783
 	 } 
 	artisans = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 4406
 	 } 
 	bureaucrats = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 468
 	 } 
 	bureaucrats = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 110
 	 } 
 	capitalists = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 2347
 	 } 
 	capitalists = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 550
 	 } 
 	clergymen = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 4695
 	 } 
 	clergymen = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 1101
 	 } 
 	clerks = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 8769
 	 } 
 	clerks = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 2056
 	 } 
 	artisans = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 8330
 	 } 
 	artisans = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 1954
 	 } 
 	craftsmen = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 26746
 	 } 
 	craftsmen = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 6273
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 398086
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 93378
 	 } 
@@ -719,12 +719,12 @@
 		size = 22218
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 25727
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 6034
 	 } 
@@ -855,112 +855,112 @@
 #Warri - Delta, Bayelsa (5775000/1443750 POPS)
 1931 = {
 	officers = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 682
 	 } 
 	officers = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 159
 	 } 
 	soldiers = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 2728
 	 } 
 	soldiers = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 639
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 46777
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 10972
 	 } 
 	bureaucrats = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 1168
 	 } 
 	bureaucrats = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 274
 	 } 
 	capitalists = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 5846
 	 } 
 	capitalists = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 1371
 	 } 
 	clergymen = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 11693
 	 } 
 	clergymen = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 2743
 	 } 
 	clerks = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 21838
 	 } 
 	clerks = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 5122
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 20746
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 4866
 	 } 
 	craftsmen = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 28850
 	 } 
 	craftsmen = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 6767
 	 } 
 	craftsmen = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 37756
 	 } 
 	craftsmen = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 8856
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion =  protestant 
 		size = 55798
 	 } 
 	farmers = {
-		culture = igbo
+		culture = ibo
 		religion = secularism
 		size = 13088
 	 } 
@@ -978,112 +978,112 @@
 #Bonny - Rivers (4436000/1109000 POPS)
 1932 = {
 	officers = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 523
 	 } 
 	officers = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 122
 	 } 
 	soldiers = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 2095
 	 } 
 	soldiers = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 491
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 35931
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 8428
 	 } 
 	bureaucrats = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 898
 	 } 
 	bureaucrats = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 210
 	 } 
 	capitalists = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 4491
 	 } 
 	capitalists = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 1053
 	 } 
 	clergymen = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 8982
 	 } 
 	clergymen = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 2107
 	 } 
 	clerks = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 16775
 	 } 
 	clerks = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 3934
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 15935
 	 } 
 	artisans = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 3738
 	 } 
 	craftsmen = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 51163
 	 } 
 	craftsmen = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 12001
 	 } 
 	farmers = {
-		culture = ijaw
+		culture = ibo
 		religion =  protestant 
 		size = 123706
 	 } 
 	farmers = {
-		culture = ijaw
+		culture = ibo
 		religion = secularism
 		size = 29017
 	 } 
 	farmers = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 637785
 	 } 
 	farmers = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 149604
 	 } 
@@ -1194,102 +1194,102 @@
 #Calabar - Akwa Ibom, Cross River (3623000/905750 POPS)
 1934 = {
 	officers = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 427
 	 } 
 	officers = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 100
 	 } 
 	soldiers = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 1711
 	 } 
 	soldiers = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 401
 	 } 
 	artisans = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 29346
 	 } 
 	artisans = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 6883
 	 } 
 	bureaucrats = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 733
 	 } 
 	bureaucrats = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 171
 	 } 
 	capitalists = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 3667
 	 } 
 	capitalists = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 860
 	 } 
 	clergymen = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 7336
 	 } 
 	clergymen = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 1720
 	 } 
 	clerks = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 13700
 	 } 
 	clerks = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 3213
 	 } 
 	artisans = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 13015
 	 } 
 	artisans = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 3052
 	 } 
 	craftsmen = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 41786
 	 } 
 	craftsmen = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 9801
 	 } 
 	farmers = {
-		culture = ibibio
+		culture = ibo
 		religion =  protestant 
 		size = 621933
 	 } 
 	farmers = {
-		culture = ibibio
+		culture = ibo
 		religion = secularism
 		size = 145885
 	 } 
@@ -1400,42 +1400,42 @@
 #Makurdi - Benue (2808000/702000 POPS)
 1936 = {
 	soldiers = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 1637
 	 } 
 	artisans = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 28080
 	 } 
 	capitalists = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 3510
 	 } 
 	clergymen = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 7020
 	 } 
 	clerks = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 13109
 	 } 
 	artisans = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 12453
 	 } 
 	craftsmen = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 39983
 	 } 
 	farmers = {
-		culture = tiv
+		culture = black_muslim
 		religion =  sunni 
 		size = 496817
 	 } 
@@ -1453,42 +1453,42 @@
 #Tukari - Taraba (1782000/445500 POPS)
 1937 = {
 	soldiers = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 1039
 	 } 
 	artisans = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 17820
 	 } 
 	capitalists = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 2227
 	 } 
 	clergymen = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 4455
 	 } 
 	clerks = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 8319
 	 } 
 	artisans = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 7903
 	 } 
 	craftsmen = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 25374
 	 } 
 	farmers = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 377659
 	 } 
@@ -1781,42 +1781,42 @@
 #Jos - Nassarawa, Plateau (3460000/865000 POPS)
 1943 = {
 	soldiers = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 2018
 	 } 
 	artisans = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 34600
 	 } 
 	capitalists = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 4325
 	 } 
 	clergymen = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 8650
 	 } 
 	clerks = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 16153
 	 } 
 	artisans = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 15345
 	 } 
 	craftsmen = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 49267
 	 } 
 	farmers = {
-		culture = nupe
+		culture = black_muslim
 		religion =  sunni 
 		size = 41273
 	 } 
@@ -2195,102 +2195,102 @@
 #Kuka - Borno (1521000/380250 POPS)
 1951 = {
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 179
 	 } 
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 41
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 718
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 168
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 12320
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 2889
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 307
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 72
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 1539
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 361
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 3079
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 722
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 5751
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1349
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 5463
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1281
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 17542
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 4114
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 261101
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 61245
 	 } 
@@ -2298,102 +2298,102 @@
 #Nguru - Yobe (1828000/457000 POPS)
 1952 = {
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 215
 	 } 
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 50
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 863
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 202
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 14806
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 3473
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 370
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 86
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 1850
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 434
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 3701
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 868
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 6912
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1621
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 6566
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1540
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 21083
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 4945
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 110205
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 25850
 	 } 
@@ -2406,102 +2406,102 @@
 #Dikoa - Borno (1521000/380250 POPS)
 1953 = {
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 179
 	 } 
 	officers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 41
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 718
 	 } 
 	soldiers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 168
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 12320
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 2889
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 307
 	 } 
 	bureaucrats = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 72
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 1539
 	 } 
 	capitalists = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 361
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 3079
 	 } 
 	clergymen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 722
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 5751
 	 } 
 	clerks = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1349
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 5463
 	 } 
 	artisans = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 1281
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 17542
 	 } 
 	craftsmen = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 4114
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion =  catholic 
 		size = 261101
 	 } 
 	farmers = {
-		culture = kanuri
+		culture = ewe
 		religion = secularism
 		size = 61245
 	 } 

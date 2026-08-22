@@ -256,6 +256,7 @@ country_event = {
 		social_reform = unlimited_education
 		
 		add_country_modifier = { name = literacy_campaign duration = 3650 }
+		add_country_modifier = { name = asia_edu duration = 3650 }
 		
 		any_pop = {
 			limit = { literacy = 0.10 }
@@ -371,7 +372,7 @@ country_event = {
 		remove_country_modifier = revolution_chaos
 		set_country_flag = deng_xiaoping_selected
 		clr_country_flag = economic_malaise
-		any_pop = { limit = { type = slaves } pop_type = artisans }
+		any_pop = { limit = { type = slaves } pop_type = clergymen }
 	
 		ai_chance = { factor = 0.9 }
 	}

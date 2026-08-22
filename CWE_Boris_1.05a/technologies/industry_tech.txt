@@ -1752,6 +1752,8 @@ mobile_network = {
 	area = tech_infrastructure
 	year = 2000
 	cost = 14400
+
+	max_railroad = 1
 	
 	#Increase supply limit
 	supply_limit = 0.25
@@ -1789,6 +1791,8 @@ dynamic_infrastructure = {
 	year = 2020
 	cost = 14400
 
+	max_railroad = 1
+
 	#Increase supply limit
 	supply_limit = 0.25
 
@@ -1825,6 +1829,8 @@ universal_wireless_access = {
 	year = 2040
 	cost = 18000
 
+	max_railroad = 1
+
 	#Increase supply limit
 	supply_limit = 0.25
 
@@ -1860,6 +1866,8 @@ future_data_centers = {
 	area = tech_infrastructure
 	year = 2070
 	cost = 21600
+
+	max_railroad = 1
 	
 	#Increase supply limit
 	supply_limit = 0.25

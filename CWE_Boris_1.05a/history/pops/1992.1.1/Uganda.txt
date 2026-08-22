@@ -453,57 +453,57 @@
 #Jinja - Jinja (4471000/1117750 POPS)
 2023 = {
 	soldiers = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 3012
 	 } 
 	aristocrats = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 44710
 	 } 
 	bureaucrats = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 1117
 	 } 
 	capitalists = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 5588
 	 } 
 	clergymen = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 11177
 	 } 
 	clerks = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 6562
 	 } 
 	artisans = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 6233
 	 } 
 	craftsmen = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 20014
 	 } 
 	farmers = {
-		culture = soga
+		culture = african_minor
 		religion =  sunni 
 		size = 269691
 	 } 
 	farmers = {
-		culture = iteso
+		culture = african_minor
 		religion =  protestant 
 		size = 265465
 	 } 
 	farmers = {
-		culture = iteso
+		culture = african_minor
 		religion = secularism
 		size = 13971
 	 } 

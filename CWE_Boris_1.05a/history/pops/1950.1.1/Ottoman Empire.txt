@@ -280,7 +280,7 @@
 		size = 572
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni
 		size = 260
 	 }
@@ -596,7 +596,7 @@
 		size = 405
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni 
 		size = 1359
 	 }
@@ -694,7 +694,7 @@
 		size = 118
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni 
 		size = 224
 	 }
@@ -2073,7 +2073,7 @@
 		size = 544
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni 
 		size = 1190
 	 }  
@@ -2126,7 +2126,7 @@
 		size = 116267
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni 
 		size = 7380
 	 }  
@@ -2219,7 +2219,7 @@
 		size = 144
 	 }
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion = sunni
 		size = 136
 	 } 
@@ -2423,7 +2423,7 @@
 		size = 5186
 	 } 
 	farmers = {
-		culture = lazi
+		culture = georgian
 		religion =  sunni 
 		size = 5536
 	 } 

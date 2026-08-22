@@ -1990,12 +1990,12 @@
 #Halaib - Halaib (35000/8750 POPS)
 1834 = {
 	farmers = {
-		culture = beja
+		culture = african_minor
 		religion =  sunni 
 		size = 6650
 	 } 
 	farmers = {
-		culture = arab
+		culture = sudanese
 		religion =  sunni 
 		size = 350
 	 } 

@@ -132,7 +132,7 @@
 		size = 1192
 	 } 
 	farmers = {
-		culture = pamir
+		culture = persian
 		religion =  sunni 
 		size = 33970
 	 } 

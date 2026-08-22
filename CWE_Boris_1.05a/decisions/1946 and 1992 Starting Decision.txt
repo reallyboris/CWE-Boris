@@ -948,6 +948,7 @@ random_owned = {
 limit = { owner = { NOT = { year = 1990 } } }
 owner = {
 KMT = {
+	money = 250000
 add_country_modifier = { name = united_nations_ga_member duration = -1 }
 add_country_modifier = { name = unsc_permanent_member duration = -1 }
 country_event = 1512261
