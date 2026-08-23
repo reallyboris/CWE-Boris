@@ -8567,7 +8567,7 @@ country_event = {
 			remove_province_modifier = iliterate_nation2_modifier
 			remove_province_modifier = iliterate_nation3_modifier
 		}
-		social_reforms = no_health_care
+		social_reforms = no_child_care
 
 		ai_chance = { factor = 0.9 }
 	}
