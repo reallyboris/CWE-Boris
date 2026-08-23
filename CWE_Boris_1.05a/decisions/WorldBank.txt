@@ -45,7 +45,7 @@ political_decisions = {
 		effect = {
 			2133 = { remove_core = LCT }
 			2133 = { add_core = ENG }
-			2133 = { secede_province = ENG }
+			country_event = 9991122
 		}
 		ai_will_do = { 
 			factor = 1 

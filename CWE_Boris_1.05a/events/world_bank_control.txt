@@ -138,3 +138,47 @@ country_event = {
 		}
 	}
 }
+
+#Clean up independent LCT tag
+country_event = {
+	id = 9991122
+	title = "The Future of South Trieste"
+	desc = EVTDESC1610147
+	picture = "nwo2_free_city_of_trieste"
+
+	is_triggered_only = yes
+
+	trigger = {
+		tag = LCT
+		
+		has_country_flag = banker_core_timer
+		is_vassal = no
+		war = no
+		
+		#Have someone to join
+		OR = {
+			ENG = { exists = yes }
+			FBU = { exists = yes }
+			ENL = { exists = yes }
+			ARG = { exists = yes }
+		}
+	}
+
+	mean_time_to_happen = { 
+		months = 1
+	}
+
+	option = {
+		name = "Get annexed"
+		
+		#Inherit in order of priority
+		random_owned = { limit = { owner = { ENG = { exists = yes } } } owner = { ENG = { prestige = 50 inherit = LCT } } }
+		random_owned = { limit = { owner = { ENG = { exists = no } FBU = { exists = yes } } } owner = { FBU = { prestige = 50 inherit = LCT } } }
+		random_owned = { limit = { owner = { ENG = { exists = no } FBU = { exists = no } ENL = { exists = yes } } } owner = { ENL = { prestige = 50 inherit = LCT } } }
+		random_owned = { limit = { owner = { ENG = { exists = no } FBU = { exists = no } ENL = { exists = no } ARG = { exists = yes } } } owner = { ARG = { prestige = 50 inherit = LCT } } }
+		
+		LCT = { all_core = { remove_core = LCT } }
+
+		ai_chance = { factor = 1 }
+	}
+}
