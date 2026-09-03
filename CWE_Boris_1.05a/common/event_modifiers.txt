@@ -15,6 +15,11 @@ banker_income_timer = {
 	icon = 10
 }
 
+government_sanitarium_big = {
+	population_growth = 0.025
+	icon = 19
+}
+
 un_sanctions_veto = {
 	global_pop_militancy_modifier = 0.05
 	core_pop_consciousness_modifier = 0.05
