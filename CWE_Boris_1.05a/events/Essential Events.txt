@@ -881,7 +881,7 @@ country_event = {
 		#West Africa
 		any_owned = { limit = { OR = { is_core = SEN is_core = MLI is_core = GUI is_core = BUF is_core = NIG is_core = BEN is_core = IVC is_core = MAU } } add_core = AOF }
 
-		AOF = { civilized = yes }
+		AOF = { civilized = no }
 		
 		release_vassal = AOF
 
@@ -900,7 +900,7 @@ country_event = {
 		#Equatorial Africa
 		any_owned = { limit = { OR = { is_core = CHA is_core = CAR  is_core = ROC is_core = GAB } } add_core = AEF }
 
-		AEF = { civilized = yes }
+		AEF = { civilized = no }
 
 		release_vassal = AEF
 
