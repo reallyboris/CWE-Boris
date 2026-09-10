@@ -8543,6 +8543,8 @@ country_event = {
 		name = "We need to prevent overpopulation"
 
 		add_country_modifier = { name = one_child_policy_mod duration = 14600 }
+		social_reform = no_child_care
+
 		set_global_flag = chinese_child
 
 		#Increase literacy and militancy
@@ -8567,8 +8569,7 @@ country_event = {
 			remove_province_modifier = iliterate_nation2_modifier
 			remove_province_modifier = iliterate_nation3_modifier
 		}
-		social_reforms = no_child_care
-
+		
 		ai_chance = { factor = 0.9 }
 	}
 
