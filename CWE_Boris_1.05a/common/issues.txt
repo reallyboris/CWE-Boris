@@ -598,7 +598,7 @@ political_reforms = {
 		next_step_only = yes
 		administrative = yes
 		no_trade_unions = {
-			factory_maintenance = -0.50
+			factory_maintenance = -0.25
 			global_pop_consciousness_modifier = -0.02
 			ruling_party_support = 0.20
 			
@@ -611,7 +611,7 @@ political_reforms = {
 		state_controlled_unions = { # state_controlled
 			social_reform_desire = 0.1
 			global_immigrant_attract = 0.1
-			factory_maintenance = -0.25
+			factory_maintenance = -0.125
 			global_pop_consciousness_modifier = -0.01
 			ruling_party_support = 0.10
 			
@@ -1267,6 +1267,7 @@ social_reforms = {
 		administrative = yes
 		next_step_only = yes
 		no_controls = {
+			factory_maintenance = 0.4
 			factory_throughput = 0.25
 			
 			allow = { 
@@ -1274,7 +1275,7 @@ social_reforms = {
 			}
 		}
 		trinket_envir = {
-			factory_maintenance = 0.05
+			factory_maintenance = 0.3
 			administrative_multiplier = 1
 			RGO_output = -0.10
 			goods_demand = -0.05
@@ -1284,7 +1285,7 @@ social_reforms = {
 			}
 		}
 		low_envir = {
-			factory_maintenance = 0.1
+			factory_maintenance = 0.2
 			factory_throughput = -0.10			
 			administrative_multiplier = 2
 			RGO_output = -0.20
@@ -1295,7 +1296,7 @@ social_reforms = {
 			}
 		}
 		acceptable_envir = {
-			factory_maintenance = 0.3
+			factory_maintenance = 0.1
 			factory_throughput = -0.15			
 			administrative_multiplier = 3
 			RGO_output = -0.30
@@ -1306,7 +1307,7 @@ social_reforms = {
 			}
 		}
 		good_envir = {
-			factory_maintenance = 0.4
+			factory_maintenance = 0.05
 			factory_throughput = -0.25		
 			administrative_multiplier = 4
 			RGO_output = -0.40
