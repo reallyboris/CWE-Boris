@@ -157,6 +157,7 @@ country_event = {
 	option = {
 		name = EVT_8008103_A
 		any_pop = { limit = { has_pop_culture = kirgiz } militancy = -1.5  consciousness = 0.5 }
+		any_pop = { limit = { has_pop_culture = uighur } militancy = -1.5  consciousness = 0.5 }
 		any_pop = { limit = { has_pop_culture = uzbek } militancy = 3  consciousness = 2 }
 		clr_country_flag = second_kyrgz_revolution
 		1203 = { add_province_modifier = { name = ethnic_cleansing duration = 6 } }
@@ -167,6 +168,7 @@ country_event = {
 	option = {
 		name = EVT_8008103_B
 		any_pop = { limit = { has_pop_culture = kirgiz } militancy = 1.5  consciousness = 0.5 }
+		any_pop = { limit = { has_pop_culture = uighur } militancy = -1.5  consciousness = 0.5 }
 		any_pop = { limit = { has_pop_culture = uzbek } militancy = -2  consciousness = -1 }
 		ai_chance = {
 			factor = 0.1

@@ -481,6 +481,7 @@ country_event = { # More equality?
 		add_accepted_culture = kirgiz
 		add_accepted_culture = tatar
 		add_accepted_culture = ossetian
+		add_accepted_culture = georgian
 		add_accepted_culture = chechen
 		add_accepted_culture = circassians
 		add_accepted_culture = abkhaz

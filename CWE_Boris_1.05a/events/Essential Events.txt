@@ -104,10 +104,9 @@ country_event = {
 	
 	trigger = {
 		year = 1950
-	OR = { tag = ENG tag = FRA }
+		OR = { tag = ENG tag = FRA }
 		ai = yes
 		NOT = { has_country_flag = moneyforallfraeng }
-
 	}
 	
 	option = {
@@ -221,6 +220,46 @@ country_event = {
 		any_pop = { limit = { culture = anglo_canadian } money = 3000 }
 		any_pop = { limit = { culture = french_canadian } money = 1000 }
 		any_pop = { limit = { culture = afrikaaner } money = 1100 }
+
+		any_pop = { limit = { culture = zapotec } culture = native_american_minor }
+		any_pop = { limit = { culture = quechua } culture = native_american_minor }
+		any_pop = { limit = { culture = mayan } culture = native_american_minor }
+		any_pop = { limit = { culture = aimara } culture = native_american_minor }
+		any_pop = { limit = { culture = serer } culture = black_muslim } #sunni
+		any_pop = { limit = { culture = wolof } culture = black_muslim }
+		any_pop = { limit = { culture = afar } culture = black_muslim }
+		any_pop = { limit = { culture = mossi } culture = black_muslim }
+		any_pop = { limit = { culture = hausa } culture = black_muslim }
+		any_pop = { limit = { culture = fula } culture = black_muslim }
+		any_pop = { limit = { culture = jola } culture = black_muslim }
+		any_pop = { limit = { culture = mande } culture = black_muslim }
+		any_pop = { limit = { culture = nupe } culture = black_muslim }
+		any_pop = { limit = { culture = soga } culture = black_muslim }
+		any_pop = { limit = { culture = soussou } culture = black_muslim }
+		any_pop = { limit = { culture = songhai } culture = black_muslim }
+		any_pop = { limit = { culture = swahili } culture = black_muslim }
+		any_pop = { limit = { culture = voltaic } culture = black_muslim }
+		any_pop = { limit = { culture = arab_sahrawi } culture = black_muslim }
+		any_pop = { limit = { culture = karakalpak } culture = kazak }
+		any_pop = { limit = { culture = teke } culture = african_minor } #catholic
+		any_pop = { limit = { culture = ewe } culture = african_minor }
+		any_pop = { limit = { culture = balanta } culture = african_minor }
+		any_pop = { limit = { culture = luba } culture = african_minor }
+		any_pop = { limit = { culture = fang } culture = african_minor }
+		any_pop = { limit = { culture = goan } culture = portuguese }
+		any_pop = { limit = { culture = breton } culture = french }
+		any_pop = { limit = { culture = sara } culture = african_minor } #protestant
+		any_pop = { limit = { culture = kikuyu } culture = african_minor }
+		any_pop = { limit = { culture = ganda } culture = african_minor }
+		any_pop = { limit = { culture = tigray } culture = amhara } #orthodox
+		any_pop = { limit = { culture = malayalam } culture = tamil } #hindu
+		any_pop = { limit = { culture = kannada } culture = tamil }
+		any_pop = { limit = { culture = telegu } culture = tamil }
+		any_pop = { limit = { culture = assamese } culture = tamil }
+		any_pop = { limit = { culture = yi } culture = chinese } #taoism
+		any_pop = { limit = { culture = zhuang } culture = chinese }
+		any_pop = { limit = { culture = hani } culture = chinese }
+
 		set_country_flag = playermoneyboost
 		country_event = 1201
 	}
@@ -894,6 +933,7 @@ country_event = {
 			add_accepted_culture = fula
 			add_accepted_culture = wolof
 			add_accepted_culture = hausa
+			add_accepted_culture = black_muslim
 			add_accepted_culture = akan
 		}
 		

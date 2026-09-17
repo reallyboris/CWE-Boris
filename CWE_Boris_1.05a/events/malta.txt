@@ -34,7 +34,7 @@ country_event = {
 		name = "Follow through with the plan to integrate Malta"
 		
 		any_pop = { 
-			limit = { culture = maltese } 
+			limit = { culture = italian } 
 			militancy = 5 
 			consciousness = 6 
 			ideology = { factor = 0.15 value = nationalist }
@@ -53,7 +53,7 @@ country_event = {
 			ideology = { factor = 0.05 value = nationalist }
 		}
 		
-		add_accepted_culture = maltese
+		add_accepted_culture = italian
 		854 = { add_core = ENG }
 		
 		#To turn Malta into a state
