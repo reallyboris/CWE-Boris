@@ -384,6 +384,7 @@ space_age = {
 	diplomatic_points_modifier = 0.2
 	influence_modifier = 0.1
 	RGO_throughput = -0.05
+	factory_owner_cost = 0.05
 }
 
 information_age = {
@@ -400,8 +401,7 @@ information_age = {
 	culture_tech_research_bonus = 0.2
 	diplomatic_points_modifier = 0.1
 	influence_modifier = 0.2
-	factory_owner_cost = -0.05
-	factory_input = -0.01
+	factory_owner_cost = 0.1
 	RGO_throughput = -0.15
 }
 
@@ -416,6 +416,7 @@ automation_age = {
 	prestige = 0.05
 	goods_demand = 0.15
 	industry_tech_research_bonus = 0.2
+	factory_owner_cost = 0.05
 	factory_input = -0.01
 	RGO_throughput = -0.25
 }
@@ -431,7 +432,7 @@ future_age = {
 	prestige = 0.05
 	goods_demand = 0.20
 	culture_tech_research_bonus = 0.5
-	factory_input = -0.025
+	factory_input = -0.01
 }
 
 elchigh = {
