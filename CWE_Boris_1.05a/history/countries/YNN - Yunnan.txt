@@ -1,6 +1,7 @@
 capital = 1601
 primary_culture = yi
 culture = chinese
+culture = chinese_cantonese
 culture = bai
 culture = dong
 culture = zhuang

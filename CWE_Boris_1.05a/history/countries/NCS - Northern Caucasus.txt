@@ -5,6 +5,7 @@ culture = mongol
 culture = dargwa
 culture = balkar
 culture = ossetian
+culture = georgian
 culture = circassians
 culture = kabarday
 culture = karachay

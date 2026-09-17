@@ -1,5 +1,6 @@
 capital = 1033
 primary_culture = chuvash
+culture = tatar
 culture = russian
 religion = secularism
 government = proletarian_dictatorship

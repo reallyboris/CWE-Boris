@@ -1,5 +1,6 @@
 capital = 1091
 primary_culture = ossetian
+culture = georgian
 religion = secularism
 government = democracy
 plurality = 13.0

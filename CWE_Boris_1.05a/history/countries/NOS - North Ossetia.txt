@@ -1,5 +1,6 @@
 capital = 1054
 primary_culture = ossetian
+culture = georgian
 culture = russian
 religion = secularism
 government = proletarian_dictatorship

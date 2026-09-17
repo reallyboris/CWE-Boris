@@ -2,6 +2,7 @@ capital = 1056
 primary_culture = karachay
 culture = russian
 culture = circassians
+culture = chechen
 religion = secularism
 government = proletarian_dictatorship
 plurality = 15.0

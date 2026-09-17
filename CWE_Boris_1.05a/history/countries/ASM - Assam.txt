@@ -1,5 +1,5 @@
 capital = 1260
-primary_culture = assamese
+primary_culture = tamil
 religion = secularism
 government = democracy
 plurality = 9.0

@@ -1,5 +1,6 @@
 capital = 1189
 primary_culture = kirgiz
+culture = uighur
 religion = secularism
 government = proletarian_dictatorship
 plurality = 9.0
