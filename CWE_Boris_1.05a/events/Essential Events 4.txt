@@ -2672,6 +2672,8 @@ country_event = {
 		name = "Bail the banks out, we can't afford a meltdown"
 		add_tax_relative_income = -50
 
+		any_owned = { limit = { trade_goods = credit } add_province_modifier = { name = bank_crisis duration = 500 } }
+
 		#Prestige loss
 		random_owned = { 
 			limit = { owner = { is_greater_power = yes } }
@@ -2705,6 +2707,8 @@ country_event = {
 		
 		capitalists = { money = -1000 }
 		aristocrats = { money = -500 }
+
+		any_owned = { limit = { trade_goods = credit } add_province_modifier = { name = bank_depression duration = 1000 } }
 		
 		#Prestige loss
 		random_owned = { 

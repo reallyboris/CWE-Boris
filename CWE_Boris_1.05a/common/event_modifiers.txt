@@ -2,6 +2,18 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+bank_crisis = {
+local_RGO_throughput = -0.50
+local_RGO_output = -0.50
+icon = 24
+}
+
+bank_depression = {
+local_RGO_throughput = -0.70
+local_RGO_output = -0.70
+icon = 24
+}
+
 requested_grant = {
 	icon = 10
 }
@@ -13,11 +25,6 @@ asia_edu = {
 
 banker_income_timer = {
 	icon = 10
-}
-
-government_sanitarium_big = {
-	population_growth = 0.025
-	icon = 19
 }
 
 un_sanctions_veto = {
