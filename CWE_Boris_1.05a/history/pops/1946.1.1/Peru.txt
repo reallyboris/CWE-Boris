@@ -1917,102 +1917,102 @@
 #Puno - Puno (407000/101750 POPS)
 2303 = {
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 543
 	 } 
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 21
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2175
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 84
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3917
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 152
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 97
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 3
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 488
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 19
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 978
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 38
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2778
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 108
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2640
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 102
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 8475
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 330
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 17077
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 665
 	 } 
@@ -2153,97 +2153,97 @@
 #Tacna - Tacna (89000/22250 POPS)
 2578 = {
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 118
 	 } 
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 475
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 18
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 856
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 33
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 21
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 106
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 4
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 213
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 8
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 607
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 23
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 576
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 22
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1852
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 72
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 5878
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 229
 	 } 

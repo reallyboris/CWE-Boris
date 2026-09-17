@@ -1,43 +1,43 @@
 #Thimpu - Thimpu (164000/41000 POPS)
 1329 = {
 	aristocrats = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 1639
 	 } 
 	bureaucrats = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 40
 	 } 
 	capitalists = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 204
 	 } 
 	clergymen = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 409
 	 }  
 	artisans = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 522
 	 } 
 	farmers = {
-		culture = ngalop
+		culture = tibetan
 		religion =  buddhist 
 		size = 27557
 	 }  
 	farmers = {
-		culture = ngalop
-		religion =  animist 
+		culture = tibetan
+		religion =  buddhist 
 		size = 1438
 	 } 	 
 	farmers = {
-		culture = nepali
-		religion =  hindu 
+		culture = tibetan
+		religion =  buddhist 
 		size = 7952
 	 } 
 }

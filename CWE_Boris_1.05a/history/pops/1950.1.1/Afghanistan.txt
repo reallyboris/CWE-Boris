@@ -241,7 +241,7 @@
 		size = 79734
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 40455
 	 } 
@@ -264,7 +264,7 @@
 		size = 78058
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 10587
 	 } 

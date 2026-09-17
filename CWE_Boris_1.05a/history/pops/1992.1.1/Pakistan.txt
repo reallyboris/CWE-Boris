@@ -214,12 +214,12 @@
 		size = 21594
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 11702
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 487
 	 } 
@@ -227,102 +227,102 @@
 #Dalbandin - Dalbandin (326000/81500 POPS)
 1220 = {
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 292
 	 } 
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1172
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 48
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 3129
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 130
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 156
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 6
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 390
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 16
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 782
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 32
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 288
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 12
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 274
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 11
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 882
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 36
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 31750
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 1322
 	 } 
@@ -340,102 +340,102 @@
 #Kalat - Kalat (1958000/489500 POPS)
 1221 = {
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1760
 	 } 
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 73
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 7042
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 293
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 18796
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 783
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 939
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 39
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2349
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 97
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 4699
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 195
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1738
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 72
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1652
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 68
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 5304
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 221
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 425637
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 17734
 	 } 
@@ -443,102 +443,102 @@
 #Bela - Bela (979000/244750 POPS)
 1222 = {
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 880
 	 } 
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 36
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 3521
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 146
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 9398
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 391
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 469
 	 } 
 	bureaucrats = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 19
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1174
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 48
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2349
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 97
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 869
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 36
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 825
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 34
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2652
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 110
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 212819
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 8867
 	 } 
@@ -1465,12 +1465,12 @@
 		size = 1240075
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 238475
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 9936
 	 } 

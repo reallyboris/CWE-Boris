@@ -36,7 +36,7 @@
 		size = 470113
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 30825
 	 } 

@@ -126,7 +126,7 @@
 		size = 20080
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 6275
 	 } 
@@ -264,7 +264,7 @@
 		size = 22680
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 7087
 	 } 
@@ -718,7 +718,7 @@
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 100
 	}
@@ -727,7 +727,7 @@
 #Gwadar - Ziryanka (100000/25000 POPS)
 3340 = {
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion = ibad
 		size = 1000
 	}
@@ -738,42 +738,42 @@
 	}
 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion = ibad
 		size = 500
 	}
 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion = secularism
 		size = 2000
 	 } 
 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion = ibad
 		size = 500
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion = ibad
 		size = 1000
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = ibad
 		size = 5000
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = sunni
 		size = 10000
 	}	
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion = shiite
 		size = 5000
 	}

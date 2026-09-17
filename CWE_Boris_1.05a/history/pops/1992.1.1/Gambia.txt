@@ -31,42 +31,42 @@
 		size = 372
 	 } 
 	capitalists = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 1187
 	 } 
 	clergymen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 2375
 	 } 
 	clerks = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 5128
 	 } 
 	artisans = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 4872
 	 } 
 	craftsmen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 15642
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 69873
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 42750
 	 } 
 	farmers = {
-		culture = wolof
+		culture = black_muslim
 		religion =  sunni 
 		size = 38000
 	 } 

@@ -3284,22 +3284,22 @@
 		size = 10489
 	 } 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 3323
 	 } 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = secularism
 		size = 7062
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 54084
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = secularism
 		size = 114929
 	 } 
@@ -3407,12 +3407,12 @@
 		size = 37544
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 17966
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = secularism
 		size = 38178
 	 } 
@@ -3520,12 +3520,12 @@
 		size = 70317
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion =  catholic 
 		size = 10382
 	 } 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = secularism
 		size = 22062
 	 } 

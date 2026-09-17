@@ -219,12 +219,12 @@
 		size = 9644
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 112785
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 8489
 	 } 
@@ -232,107 +232,107 @@
 #Bongor - Kourma, Bongor,Lai (1180000/295000 POPS)
 1820 = {
 	officers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 327
 	 } 
 	officers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 24
 	 } 
 	soldiers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 1309
 	 } 
 	soldiers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 98
 	 } 
 	aristocrats = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 10974
 	 } 
 	aristocrats = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 826
 	 } 
 	bureaucrats = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 274
 	 } 
 	bureaucrats = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	capitalists = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 1371
 	 } 
 	capitalists = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 103
 	 } 
 	clergymen = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 2743
 	 } 
 	clergymen = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 206
 	 } 
 	clerks = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 2244
 	 } 
 	clerks = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 168
 	 } 
 	artisans = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 2132
 	 } 
 	artisans = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 160
 	 } 
 	craftsmen = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 6846
 	 } 
 	craftsmen = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 515
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 235152
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 17699
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 11800
 	 } 

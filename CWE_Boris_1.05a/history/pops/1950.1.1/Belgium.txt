@@ -197,82 +197,82 @@
 #Kananga - Kasai-Occidental (1081000/270250 POPS)
 1984 = {
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 799
 	 } 
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 10
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 3202
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 40
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 10674
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 135
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 266
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 1334
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 16
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 2668
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 33
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 3234
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 40
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 180642
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 2286
 	 } 
@@ -466,32 +466,32 @@
 #Bunkeya - Katanga (727000/181750 POPS)
 1987 = {
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 538
 	 } 
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 2153
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 27
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 6281
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 79
 	 } 
@@ -1062,82 +1062,82 @@
 #Bawkwanga - Kasai-Sud (1000000/250000 POPS)
 3360 = {
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 977
 	 } 
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 3913
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 49
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 13044
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 165
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 325
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 1630
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 3260
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 41
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 3951
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 50
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 131396
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 2422
 	 } 
@@ -1155,82 +1155,82 @@
 #Nsheng - Kasai-Oriental (321000/80250 POPS)
 1994 = {
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 977
 	 } 
 	officers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 1913
 	 } 
 	soldiers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 49
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 7044
 	 } 
 	aristocrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 165
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 325
 	 } 
 	bureaucrats = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 4
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 630
 	 } 
 	capitalists = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 20
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 1260
 	 } 
 	clergymen = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 41
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 1951
 	 } 
 	artisans = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 50
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion =  catholic 
 		size = 38396
 	 } 
 	farmers = {
-		culture = luba
+		culture = african_minor
 		religion = secularism
 		size = 422
 	 } 

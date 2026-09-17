@@ -217,12 +217,12 @@
 		size = 952
 	 } 
 	farmers = {
-		culture = chinese
-		religion =  taoism 
+		culture = mongol
+		religion =  buddhist 
 		size = 50000
 	 } 
 	farmers = {
-		culture = chinese
+		culture = mongol
 		religion = secularism
 		size = 9878
 	 } 
@@ -800,7 +800,7 @@
 		size = 3776
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 25600
 	 } 
@@ -2339,12 +2339,12 @@
 		size = 48642
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 13017
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2252
 	 } 
@@ -2711,7 +2711,7 @@
 		size = 241447
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 19710
 	 } 
@@ -3000,7 +3000,7 @@
 		size = 6577
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 149090
 	 } 
@@ -3093,7 +3093,7 @@
 		size = 51205
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 4180
 	 } 
@@ -3186,7 +3186,7 @@
 		size = 29867
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 18380
 	 } 
@@ -3734,23 +3734,23 @@
 		size = 1617
 	 } 
 	farmers = {
-		culture = mongol
-		religion =  buddhist 
+		culture = chechen
+		religion =  sunni 
 		size = 20685
 	 } 
 	farmers = {
-		culture = mongol
-		religion = secularism
+		culture = chechen
+		religion = sunni
 		size = 3579
 	 } 
 	farmers = {
-		culture = avar
-		religion =  protestant 
+		culture = chechen
+		religion =  sunni 
 		size = 3147
 	 } 
 	farmers = {
-		culture = avar
-		religion = secularism
+		culture = chechen
+		religion = sunni
 		size = 544
 	 } 
 }
@@ -3847,7 +3847,7 @@
 		size = 276500
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 29625
 	 } 
@@ -3960,7 +3960,7 @@
 		size = 21450
 	 } 
 	farmers = {
-		culture = chuvash
+		culture = tatar
 		religion =  sunni 
 		size = 16087
 	 } 
@@ -4696,17 +4696,17 @@
 		size = 33733
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion =  orthodox 
 		size = 6747
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion = secularism
 		size = 1167
 	 } 
 	farmers = {
-		culture = dargwa
+		culture = chechen
 		religion =  sunni 
 		size = 11872
 	 } 
@@ -4721,22 +4721,22 @@
 		size = 4086
 	 } 
 	farmers = {
-		culture = roma
+		culture = armenian
 		religion =  orthodox 
 		size = 6747
 	 } 
 	farmers = {
-		culture = roma
+		culture = armenian
 		religion = secularism
 		size = 1167
 	 } 
 	farmers = {
-		culture = greek
+		culture = armenian
 		religion =  orthodox 
 		size = 3373
 	 } 
 	farmers = {
-		culture = greek
+		culture = armenian
 		religion = secularism
 		size = 583
 	 } 
@@ -4829,7 +4829,7 @@
 		size = 4778
 	 } 
 	farmers = {
-		culture = circassians
+		culture = chechen
 		religion =  sunni 
 		size = 15565
 	 } 
@@ -4937,32 +4937,32 @@
 		size = 2532
 	 } 
 	farmers = {
-		culture = kabarday
+		culture = chechen
 		religion =  sunni 
 		size = 59760
 	 } 
 	farmers = {
-		culture = balkar
+		culture = chechen
 		religion =  sunni 
 		size = 11205
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 1061
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 183
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = georgian
 		religion =  orthodox 
 		size = 2122
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = georgian
 		religion = secularism
 		size = 367
 	 } 
@@ -5020,17 +5020,17 @@
 		size = 26
 	 } 
 	craftsmen = {
-		culture = ingush
+		culture = chechen
 		religion =  sunni 
 		size = 1084
 	 } 
 	craftsmen = {
-		culture = ingush
+		culture = chechen
 		religion =  sunni 
 		size = 3424
 	 } 
 	farmers = {
-		culture = ingush
+		culture = chechen
 		religion =  sunni 
 		size = 28279
 	 } 
@@ -5123,17 +5123,17 @@
 		size = 2534
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 71614
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 12390
 	 } 
 	farmers = {
-		culture = ingush
+		culture = chechen
 		religion =  sunni 
 		size = 7925
 	 } 
@@ -5246,7 +5246,7 @@
 		size = 178860
 	 } 
 	farmers = {
-		culture = ingush
+		culture = chechen
 		religion =  sunni 
 		size = 5420
 	 } 
@@ -5354,33 +5354,33 @@
 		size = 2193
 	 } 
 	farmers = {
-		culture = karachay
+		culture = chechen
 		religion =  sunni 
 		size = 21840
 	 } 
 	farmers = {
-		culture = circassians
+		culture = chechen
 		religion =  sunni 
 		size = 6825
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion =  orthodox 
 		size = 581
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion = secularism
 		size = 100
 	 } 
 	farmers = {
-		culture = avar
-		religion =  protestant 
+		culture = chechen
+		religion =  sunni 
 		size = 5236
 	 } 
 	farmers = {
-		culture = avar
-		religion = secularism
+		culture = chechen
+		religion = sunni
 		size = 905
 	 } 
 }
@@ -5427,47 +5427,47 @@
 		size = 261
 	 } 
 	clergymen = {
-		culture = avar
+		culture = chechen
 		religion =  sunni 
 		size = 7238
 	 } 
 	clerks = {
-		culture = avar
+		culture = chechen
 		religion =  sunni 
 		size = 11426
 	 } 
 	craftsmen = {
-		culture = avar
+		culture = chechen
 		religion =  sunni 
 		size = 10855
 	 } 
 	craftsmen = {
-		culture = avar
+		culture = chechen
 		religion =  sunni 
 		size = 34280
 	 } 
 	farmers = {
-		culture = avar
+		culture = chechen
 		religion =  sunni 
 		size = 62341
 	 } 
 	farmers = {
-		culture = dargwa
+		culture = chechen
 		religion =  sunni 
 		size = 72080
 	 } 
 	farmers = {
-		culture = mongol
-		religion =  buddhist 
+		culture = chechen
+		religion =  sunni 
 		size = 49926
 	 } 
 	farmers = {
-		culture = mongol
-		religion = secularism
+		culture = chechen
+		religion = sunni
 		size = 8638
 	 } 
 	farmers = {
-		culture = persian
+		culture = azerbaijani
 		religion =  shiite 
 		size = 49555
 	 } 
@@ -5477,13 +5477,13 @@
 		size = 18020
 	 } 
 	farmers = {
-		culture = avar
-		religion =  protestant 
+		culture = chechen
+		religion =  sunni 
 		size = 57607
 	 } 
 	farmers = {
-		culture = avar
-		religion = secularism
+		culture = chechen
+		religion = sunni
 		size = 9967
 	 } 
 }
@@ -6859,12 +6859,12 @@
 		size = 21931
 	 } 
 	farmers = {
-		culture = mongol
-		religion =  buddhist 
+		culture = russian
+		religion =  secularism 
 		size = 15413
 	 } 
 	farmers = {
-		culture = mongol
+		culture = russian
 		religion = secularism
 		size = 2666
 	 } 
@@ -6962,17 +6962,17 @@
 		size = 6044
 	 } 
 	farmers = {
-		culture = tatar
-		religion =  sunni 
+		culture = mongol
+		religion =  buddhist 
 		size = 1707
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion =  orthodox 
 		size = 2911
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion = secularism
 		size = 503
 	 } 
@@ -7983,52 +7983,52 @@
 		size = 10
 	 } 
 	bureaucrats = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 585
 	 } 
 	bureaucrats = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 22
 	 } 
 	clergymen = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 365
 	 } 
 	clergymen = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 14
 	 } 
 	craftsmen = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 336
 	 } 
 	craftsmen = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 13
 	 } 
 	craftsmen = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 1064
 	 } 
 	craftsmen = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 41
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion =  orthodox 
 		size = 9900
 	 } 
 	farmers = {
-		culture = ossetian
+		culture = georgian
 		religion = secularism
 		size = 385
 	 } 
@@ -9480,22 +9480,22 @@
 		size = 3295
 	 } 
 	farmers = {
-		culture = chinese
+		culture = uighur
 		religion =  sunni 
 		size = 4675
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion =  orthodox 
 		size = 4254
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion = secularism
 		size = 420
 	 } 
 	farmers = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 165962
 	 } 
@@ -9503,17 +9503,17 @@
 #Naryn - Naryn (223000/55750 POPS)
 1190 = {
 	bureaucrats = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 2564
 	 } 
 	clergymen = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 1115
 	 } 
 	farmers = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 46088
 	 } 
@@ -9526,27 +9526,27 @@
 #Khiva - Xorazm (349000/87250 POPS)
 1191 = {
 	soldiers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1047
 	 } 
 	bureaucrats = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 4013
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1745
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1104
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 79080
 	 } 
@@ -9554,27 +9554,27 @@
 #Nukus - Karakalpakstan (371000/92750 POPS)
 1192 = {
 	soldiers = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1113
 	 } 
 	bureaucrats = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 4266
 	 } 
 	clergymen = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1855
 	 } 
 	craftsmen = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1173
 	 } 
 	farmers = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 30270
 	 } 
@@ -9584,7 +9584,7 @@
 		size = 27825
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 25970
 	 } 
@@ -9713,7 +9713,7 @@
 		size = 31250
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 218750
 	 } 
@@ -9721,27 +9721,27 @@
 #Dashhowuz - Dashhowuz (290000/72500 POPS)
 1196 = {
 	bureaucrats = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 3335
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1450
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1234
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 3044
 	 } 
 	farmers = {
-		culture = turkmen
+		culture = tajik
 		religion =  sunni 
 		size = 62350
 	 } 
@@ -9749,27 +9749,27 @@
 #Shymkent - Shymkent (1054000/263500 POPS)
 1197 = {
 	soldiers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 3162
 	 } 
 	bureaucrats = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 12121
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 5270
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 4937
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 21150
 	 } 
@@ -9792,22 +9792,22 @@
 		size = 3469
 	 } 
 	bureaucrats = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 2913
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 2775
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1755
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 125757
 	 } 
@@ -9885,7 +9885,7 @@
 		size = 14235
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 142350
 	 } 
@@ -9908,12 +9908,12 @@
 		size = 4978
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 3315
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 237463
 	 } 
@@ -9946,12 +9946,12 @@
 		size = 91036
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 19960
 	 } 
 	farmers = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 2495
 	 } 
@@ -9989,7 +9989,7 @@
 		size = 2804
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 397575
 	 } 
@@ -9997,32 +9997,32 @@
 #Osh - Osh (579000/144750 POPS)
 1203 = {
 	soldiers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1737
 	 } 
 	bureaucrats = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 6658
 	 } 
 	clergymen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 2895
 	 } 
 	craftsmen = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 1786
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 45837
 	 } 
 	farmers = {
-		culture = kirgiz
+		culture = uighur
 		religion =  sunni 
 		size = 85402
 	 } 
@@ -10090,7 +10090,7 @@
 		size = 586
 	 } 
 	farmers = {
-		culture = turkmen
+		culture = tajik
 		religion =  sunni 
 		size = 31840
 	 } 
@@ -10098,12 +10098,12 @@
 #Kizil Arvat - Kizil Arvat (117000/29250 POPS)
 1205 = {
 	bureaucrats = {
-		culture = turkmen
+		culture = tajik
 		religion =  sunni 
 		size = 1345
 	 } 
 	farmers = {
-		culture = turkmen
+		culture = tajik
 		religion =  sunni 
 		size = 26385
 	 } 
@@ -10171,12 +10171,12 @@
 		size = 147
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 16390
 	 } 
 	farmers = {
-		culture = turkmen
+		culture = tajik
 		religion =  sunni 
 		size = 114730
 	 } 
@@ -10234,7 +10234,7 @@
 		size = 184435
 	 } 
 	farmers = {
-		culture = uzbek
+		culture = tajik
 		religion =  sunni 
 		size = 39360
 	 } 
@@ -10413,18 +10413,18 @@
 		size = 269098
 	 } 
 	farmers = {
-		culture = manchu
+		culture = taoism
 		religion =  taoism 
 		size = 100000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = taoism
 		religion = secularism
 		size = 8429
 	 } 
 	farmers = {
 		culture = korean
-		religion =  buddhist 
+		religion =  taoism 
 		size = 20000
 	 } 
 	farmers = {
@@ -10496,18 +10496,18 @@
 		size = 262843
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion =  taoism 
 		size = 80000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion = secularism
 		size = 4102
 	 } 
 	farmers = {
 		culture = mongol
-		religion = buddhist 
+		religion = taoism 
 		size = 27000
 	 } 
 	farmers = {
@@ -10579,12 +10579,12 @@
 		size = 56873
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion =  taoism 
 		size = 5000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion = secularism
 		size = 2716
 	 } 
@@ -10725,7 +10725,7 @@
 		size = 80271
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion =  taoism 
 		size = 13366
 	 } 
@@ -10798,7 +10798,7 @@
 		size = 3687
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion = secularism
 		size = 3091
 	 } 
@@ -10866,7 +10866,7 @@
 		size = 53054
 	 } 
 	farmers = {
-		culture = manchu
+		culture = korean
 		religion =  taoism 
 		size = 24491
 	 } 
@@ -10959,12 +10959,12 @@
 		size = 3965
 	 } 
 	farmers = {
-		culture = manchu
+		culture = korean
 		religion =  taoism 
 		size = 54000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = korean
 		religion = secularism
 		size = 5969
 	 } 
@@ -11042,22 +11042,22 @@
 		size = 222478
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion =  taoism 
 		size = 30000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion = secularism
 		size = 6832
 	 } 
 	farmers = {
-		culture = mongol
-		religion =  buddhist 
+		culture = chinese
+		religion =  taoism 
 		size = 40000
 	 } 
 	farmers = {
-		culture = mongol
+		culture = chinese
 		religion = secularism
 		size = 3304
 	 } 
@@ -11971,22 +11971,22 @@
 		size = 1024
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = russian
 		religion =  orthodox 
 		size = 1302
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = russian
 		religion = secularism
 		size = 72
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion =  orthodox 
 		size = 1042
 	 } 
 	farmers = {
-		culture = ukrainian
+		culture = russian
 		religion = secularism
 		size = 57
 	 } 
@@ -12364,12 +12364,12 @@
 		size = 187879
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion =  taoism 
 		size = 70000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = chinese
 		religion = secularism
 		size = 4441
 	 } 
@@ -12379,7 +12379,7 @@
 		size = 21457
 	 } 
 	farmers = {
-		culture = mongol
+		culture = chinese
 		religion = secularism
 		size = 5533
 	 } 
@@ -12482,12 +12482,12 @@
 		size = 315
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 268
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 46
 	 } 
@@ -13221,12 +13221,12 @@
 		size = 5130
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 4373
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 756
 	 } 
@@ -13731,12 +13731,12 @@
 		size = 15090
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 12864
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2225
 	 } 
@@ -14176,12 +14176,12 @@
 		size = 5769
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 21176
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 3663
 	 } 
@@ -18310,12 +18310,12 @@
 		size = 378762
 	 } 
 	farmers = {
-		culture = manchu
+		culture = taoism
 		religion =  taoism 
 		size = 100000
 	 } 
 	farmers = {
-		culture = manchu
+		culture = taoism
 		religion = secularism
 		size = 17526
 	 } 
@@ -18403,12 +18403,12 @@
 		size = 106745
 	 } 
 	farmers = {
-		culture = manchu
+		culture = taoism
 		religion =  taoism 
 		size = 10000
 	 } 
 	farmers = {
-		culture = chinese
+		culture = taoism
 		religion = secularism
 		size = 6776
 	 } 
@@ -18418,7 +18418,7 @@
 		size = 18000
 	 } 
 	farmers = {
-		culture = chinese
+		culture = taoism
 		religion = secularism
 		size = 2429
 	 } 
@@ -20524,12 +20524,12 @@
 		size = 1527
 	 } 
 	farmers = {
-		culture = romanian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 42069
 	 } 
 	farmers = {
-		culture = romanian
+		culture = ukrainian
 		religion = secularism
 		size = 2331
 	 } 
@@ -20544,12 +20544,12 @@
 		size = 2112
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 3943
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = ukrainian
 		religion = secularism
 		size = 218
 	 } 
@@ -20557,82 +20557,82 @@
 #Izmail - Izmail (534000/133500 POPS)
 678 = {
 	officers = {
-		culture = russian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 354
 	 } 
 	officers = {
-		culture = russian
+		culture = ukrainian
 		religion = secularism
 		size = 46
 	 } 
 	soldiers = {
-		culture = russian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 1417
 	 } 
 	soldiers = {
-		culture = russian
+		culture = ukrainian
 		religion = secularism
 		size = 184
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 5552
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = ukrainian
 		religion = secularism
 		size = 721
 	 } 
 	clergymen = {
-		culture = russian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 2362
 	 } 
 	clergymen = {
-		culture = russian
+		culture = ukrainian
 		religion = secularism
 		size = 307
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = ukrainian
 		religion =  orthodox 
 		size = 2127
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = ukrainian
 		religion = secularism
 		size = 276
 	 } 
 	craftsmen = {
-		culture = bulgarian
+		culture = romanian
 		religion =  orthodox 
 		size = 715
 	 } 
 	craftsmen = {
-		culture = bulgarian
+		culture = romanian
 		religion = secularism
 		size = 92
 	 } 
 	craftsmen = {
-		culture = bulgarian
+		culture = romanian
 		religion =  orthodox 
 		size = 8976
 	 } 
 	craftsmen = {
-		culture = bulgarian
+		culture = romanian
 		religion = secularism
 		size = 1166
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = romanian
 		religion =  orthodox 
 		size = 15119
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = romanian
 		religion = secularism
 		size = 1964
 	 } 
@@ -25355,32 +25355,32 @@
 		size = 33
 	 } 
 	craftsmen = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 34
 	 } 
 	craftsmen = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 5
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 1606
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 278
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 596
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 103
 	 } 
@@ -25541,12 +25541,12 @@
 		size = 3191
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 11713
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2026
 	 } 

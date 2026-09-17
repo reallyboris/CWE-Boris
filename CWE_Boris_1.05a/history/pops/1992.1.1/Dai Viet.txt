@@ -337,22 +337,22 @@
 		size = 2260
 	 } 
 	craftsmen = {
-		culture = zhuang
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 9222
 	 } 
 	craftsmen = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 7246
 	 } 
 	farmers = {
-		culture = zhuang
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 299855
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 235600
 	 } 

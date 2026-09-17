@@ -1,32 +1,32 @@
 #Kuwait - Kuwait (145000/36250 POPS)
 935 = {
 	aristocrats = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 3550
 	 } 
 	artisans = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 12500
 	 } 
 	bureaucrats = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 100
 	 }
 	clergymen = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 100
 	 } 
 	farmers = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  sunni 
 		size = 8000
 	 } 
 	farmers = {
-		culture = kuwaiti
+		culture = arab_gulf
 		religion =  shiite 
 		size = 10000
 	 } 
@@ -38,7 +38,7 @@
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
+		culture = arab_gulf
 		religion =  sunni 
 		size = 1000
 	 } 

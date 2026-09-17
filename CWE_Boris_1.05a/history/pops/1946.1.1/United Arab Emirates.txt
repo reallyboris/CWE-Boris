@@ -2,17 +2,17 @@
 1167 = {
 	aristocrats = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 158
 	 } 
 	aristocrats = {
 		culture = emirati
-		religion = secularism
+		religion = shiite
 		size = 1
 	 } 
 	bureaucrats = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 3
 	 } 
 	capitalists = {
@@ -37,7 +37,7 @@
 	 } 
 	farmers = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 2034
 	 } 
 	farmers = {
@@ -54,11 +54,11 @@
 	#For Pan-Arab and National Arab
 	farmers = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
+		culture = arab_gulf
 		religion =  sunni 
 		size = 1000
 	 } 
@@ -67,17 +67,17 @@
 1168 = {
 	aristocrats = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 544
 	 } 
 	aristocrats = {
 		culture = emirati
-		religion = secularism
+		religion = shiite
 		size = 5
 	 } 
 	bureaucrats = {
 		culture = emirati
-		religion =  sunni 
+		religion =  shiite 
 		size = 12
 	 } 
 	capitalists = {
@@ -121,16 +121,16 @@
 		size = 3465
 	 } 
 
-	#For Pan-Arab and National Arab
-	farmers = {
-		culture = emirati
-		religion =  sunni 
-		size = 1000
-	 } 
-	farmers = {
-		culture = arab
-		religion =  sunni 
-		size = 1000
-	 } 
+#	#For Pan-Arab and National Arab
+#	farmers = {
+#		culture = emirati
+#		religion =  sunni 
+#		size = 1000
+#	 } 
+#	farmers = {
+#		culture = arab_gulf
+#		religion =  sunni 
+#		size = 1000
+#	 } 
 
 }

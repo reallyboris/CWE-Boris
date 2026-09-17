@@ -234,7 +234,7 @@
 		size = 31861
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 139852
 	 } 
@@ -445,7 +445,7 @@
 		size = 28837
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 32450
 	 } 
@@ -453,37 +453,37 @@
 #Man - Man (1855000/463750 POPS)
 1896 = {
 	aristocrats = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 18550
 	 } 
 	capitalists = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 2318
 	 } 
 	clergymen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 4637
 	 } 
 	clerks = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 9382
 	 } 
 	artisans = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 8913
 	 } 
 	craftsmen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 28615
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 389814
 	 } 
@@ -704,7 +704,7 @@
 		size = 38168
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 42950
 	 } 
@@ -815,32 +815,32 @@
 #Odienne - Odienne (594000/148500 POPS)
 1900 = {
 	aristocrats = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 5940
 	 } 
 	clergymen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 1485
 	 } 
 	clerks = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 3004
 	 } 
 	artisans = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 2853
 	 } 
 	craftsmen = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 9162
 	 } 
 	farmers = {
-		culture = mande
+		culture = black_muslim
 		religion =  sunni 
 		size = 124828
 	 } 

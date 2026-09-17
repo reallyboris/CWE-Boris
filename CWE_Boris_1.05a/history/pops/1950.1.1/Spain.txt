@@ -276,12 +276,12 @@
 #Tarfaya - Guelmim-Es Semara (139000/34750 POPS)
 1696 = {
 	aristocrats = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 1390
 	 } 
 	farmers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 28815
 	 } 
@@ -297,32 +297,32 @@
 #Aaiun - Aaiun (1000/250 POPS)
 1773 = {
 	soldiers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 3
 	 } 
 	aristocrats = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 10
 	 } 
 	capitalists = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 1
 	 } 
 	clergymen = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 2
 	 } 
 	artisans = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 7
 	 } 
 	farmers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 190
 	 } 
@@ -343,42 +343,42 @@
 #Dakhla - Dakhla (7000/1750 POPS)
 1774 = {
 	officers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 5
 	 } 
 	soldiers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 21
 	 } 
 	aristocrats = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 1
 	 } 
 	capitalists = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 8
 	 } 
 	clergymen = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 17
 	 } 
 	artisans = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 50
 	 } 
 	farmers = {
-		culture = arab_sahrawi
+		culture = black_muslim
 		religion =  sunni 
 		size = 1332
 	 } 
@@ -399,87 +399,87 @@
 #Fernando Po - Fernando Po (126000/31500 POPS)
 1955 = {
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 91
 	 } 
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 368
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 9
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 1228
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	bureaucrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 30
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 153
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 3
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 307
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 428
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 10
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 21041
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 539
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 5894
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 151
 	 } 
@@ -487,77 +487,77 @@
 #Bata - Bata (84000/21000 POPS)
 1973 = {
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 61
 	 } 
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 245
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 6
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 819
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 21
 	 } 
 	bureaucrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 20
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 102
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 204
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 285
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 7
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 17956
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 460
 	 } 

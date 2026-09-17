@@ -51,17 +51,17 @@
 		size = 3217
 	 } 
 
-	#For Pan-Arab and National Arab
-	farmers = {
-		culture = syrian
-		religion =  sunni 
-		size = 1000
-	 } 
-	farmers = {
-		culture = arab
-		religion =  sunni 
-		size = 1000
-	 } 
+#	#For Pan-Arab and National Arab
+#	farmers = {
+#		culture = syrian
+#		religion =  sunni 
+#		size = 1000
+#	 } 
+#	farmers = {
+#		culture = arab
+#		religion =  sunni 
+#		size = 1000
+#	 } 
 
 }
 #Aleppo - Aleppo (950000/237500 POPS)
@@ -608,17 +608,17 @@
 		size = 23129
 	 } 
 
-	#For Pan-Arab and National Arab
-	farmers = {
-		culture = syrian
-		religion =  sunni 
-		size = 1000
-	 } 
-	farmers = {
-		culture = arab
-		religion =  sunni 
-		size = 1000
-	 } 
+#	#For Pan-Arab and National Arab
+#	farmers = {
+#		culture = syrian
+#		religion =  sunni 
+#		size = 1000
+#	 } 
+#	farmers = {
+#		culture = arab
+#		religion =  sunni 
+#		size = 1000
+#	 } 
 
 }
 #Palmyra - Palmyra (184000/46000 POPS)

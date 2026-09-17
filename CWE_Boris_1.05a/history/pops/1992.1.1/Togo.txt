@@ -31,82 +31,82 @@
 		size = 1030
 	 } 
 	aristocrats = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 8866
 	 } 
 	aristocrats = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 1324
 	 } 
 	bureaucrats = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 394
 	 } 
 	bureaucrats = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 58
 	 } 
 	capitalists = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 1970
 	 } 
 	capitalists = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 294
 	 } 
 	clergymen = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 3941
 	 } 
 	clergymen = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 588
 	 } 
 	clerks = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 5640
 	 } 
 	clerks = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 842
 	 } 
 	artisans = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 5358
 	 } 
 	artisans = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 800
 	 } 
 	craftsmen = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 17204
 	 } 
 	craftsmen = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 2570
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 197032
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 29441
 	 } 

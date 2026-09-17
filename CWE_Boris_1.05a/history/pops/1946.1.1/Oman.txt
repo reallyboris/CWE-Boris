@@ -56,40 +56,40 @@
 		size = 33
 	 } 
 	farmers = {
-		culture = indian
-		religion =  hindu 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 11840
 	 } 
 	farmers = {
-		culture = indian
-		religion = secularism
+		culture = arab_gulf
+		religion = ibad
 		size = 59
 	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 2029
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 10
-	 } 
+#	farmers = {
+#		culture = filipino
+#		religion =  catholic 
+#		size = 2029
+#	 } 
+#	farmers = {
+#		culture = filipino
+#		religion = secularism
+#		size = 10
+#	 } 
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
+		religion =  ibad 
 		size = 5440
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -147,45 +147,45 @@
 		size = 38
 	 } 
 	farmers = {
-		culture = indian
-		religion =  hindu 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 13407
 	 } 
 	farmers = {
-		culture = indian
-		religion = secularism
+		culture = arab_gulf
+		religion = ibad
 		size = 67
 	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 2298
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 11
-	 } 
+#	farmers = {
+#		culture = filipino
+#		religion =  catholic 
+#		size = 2298
+#	 } 
+#	farmers = {
+#		culture = filipino
+#		religion = catholic
+#		size = 11
+#	 } 
 	farmers = {
 		culture = arab_gulf
-		religion =  sunni 
+		religion =  ibad 
 		size = 6160
 	 } 
 	farmers = {
-		culture = baluchi
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1104
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -245,13 +245,13 @@
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -306,13 +306,13 @@
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -340,7 +340,7 @@
 		size = 44
 	 } 
 	farmers = {
-		culture = omani
+		culture = arab_gulf
 		religion =  ibad 
 		size = 387
 	 } 
@@ -352,13 +352,13 @@
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
+		culture = arab_gulf
 		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -413,13 +413,13 @@
 
 	#For Pan-Arab and National Arab
 	farmers = {
-		culture = omani
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 	farmers = {
-		culture = arab
-		religion =  sunni 
+		culture = arab_gulf
+		religion =  ibad 
 		size = 1000
 	 } 
 
@@ -465,13 +465,13 @@
 
 	farmers = {
 		culture = arab_gulf
-		religion = sunni
+		religion = ibad
 		size = 730
 	}
 	
 	farmers = {
 		culture = arab_gulf
-		religion = sunni
+		religion = ibad
 		size = 100
 	}
 }
@@ -510,7 +510,7 @@
 	
 	farmers = {
 		culture = arab_gulf
-		religion = sunni
+		religion = ibad
 		size = 600
 	}
 	

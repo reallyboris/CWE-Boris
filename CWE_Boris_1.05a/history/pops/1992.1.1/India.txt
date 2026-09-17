@@ -272,12 +272,12 @@
 		size = 203775
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1163184
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 115040
 	 } 
@@ -3104,22 +3104,22 @@
 		size = 1967
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  protestant 
 		size = 224815
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 22234
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  protestant 
 		size = 124897
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 12352
 	 } 
@@ -3142,102 +3142,102 @@
 #Imphal - Manipur (3236000/809000 POPS)
 1259 = {
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1075
 	 } 
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 106
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 4303
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 425
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 29447
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 2912
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 736
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 72
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 3680
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 364
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 7361
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 728
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 2483
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 245
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 2358
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 233
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 7574
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 749
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 345881
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 34208
 	 } 
@@ -3360,12 +3360,12 @@
 		size = 19119
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 994279
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 994279
 	 } 
@@ -5689,102 +5689,102 @@
 #Hyderabad - Terangala (6534000/1633500 POPS)
 1283 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2172
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 214
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 8688
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 859
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 59459
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 5880
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1486
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 146
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 7431
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 735
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 14864
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1470
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 5014
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 495
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 4763
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 471
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 15294
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1512
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1188931
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 117586
 	 } 
@@ -5905,102 +5905,102 @@
 #Nizamabad - Terangala (12280000/3070000 POPS)
 1285 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 4082
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 403
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 16330
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1615
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 111748
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 11052
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2793
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 276
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 13968
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1381
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 27937
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2763
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 9424
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 932
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 8953
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 885
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 28745
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2842
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1227731
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1227731
 	 } 
@@ -6121,102 +6121,102 @@
 #Warangal - Terangala (7264000/1816000 POPS)
 1287 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2414
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 238
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 9659
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 955
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 66102
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 6537
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1652
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 163
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 8262
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 817
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 16525
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1634
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 5574
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 551
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 5296
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 523
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 17003
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1681
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 726242
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 726242
 	 } 
@@ -7352,102 +7352,102 @@
 #Belgaum - Belgaum (9664000/2416000 POPS)
 1302 = {
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 3212
 	 } 
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 317
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 12851
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 1271
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 87942
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 8697
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 2198
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 217
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 10992
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 1087
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 21985
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 2174
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 7416
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 733
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 7046
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 696
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 22621
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 2237
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 905789
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 905789
 	 } 
@@ -7560,12 +7560,12 @@
 		size = 14319
 	 } 
 	farmers = {
-		culture = goan
+		culture = portuguese
 		religion =  catholic 
 		size = 63822
 	 } 
 	farmers = {
-		culture = goan
+		culture = portuguese
 		religion = secularism
 		size = 6312
 	 } 
@@ -7693,12 +7693,12 @@
 		size = 467202
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 675244
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 66782
 	 } 
@@ -7706,102 +7706,102 @@
 #Vizagapatnam - Vizagapatnam (9148000/2287000 POPS)
 1305 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 3041
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 300
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 12165
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1203
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 83246
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 8233
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2081
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 205
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 10405
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1029
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 20811
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2058
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 7020
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 694
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 6669
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 659
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 21413
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2117
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1051820
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1051820
 	 } 
@@ -7809,102 +7809,102 @@
 #Masulipatnam - Masulipatnam (9148000/2287000 POPS)
 1306 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 3041
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 300
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 12165
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1203
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 83246
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 8233
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2081
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 205
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 10405
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1029
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 20811
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2058
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 7020
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 694
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 6669
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 659
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 21413
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2117
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 1051820
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1051820
 	 } 
@@ -7912,102 +7912,102 @@
 #Nellore - Nellore (9148000/2287000 POPS)
 1307 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 3041
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 300
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 12165
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1203
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 83246
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 8233
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2081
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 205
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 10405
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1029
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 20811
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2058
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 7020
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 694
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 6669
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 659
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 21413
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2117
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 994645
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 994645
 	 } 
@@ -8025,102 +8025,102 @@
 #Kurnool - Kurnool (9148000/2287000 POPS)
 1308 = {
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 3041
 	 } 
 	officers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 300
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 12165
 	 } 
 	soldiers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1203
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 83246
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 8233
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 2081
 	 } 
 	bureaucrats = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 205
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 10405
 	 } 
 	capitalists = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 1029
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 20811
 	 } 
 	clergymen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2058
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 7020
 	 } 
 	clerks = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 694
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 6669
 	 } 
 	artisans = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 659
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 21413
 	 } 
 	craftsmen = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 2117
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion =  hindu 
 		size = 731640
 	 } 
 	farmers = {
-		culture = telegu
+		culture = tamil
 		religion = secularism
 		size = 731640
 	 } 
@@ -8346,12 +8346,12 @@
 		size = 796463
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 65902
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 6517
 	 } 
@@ -8620,12 +8620,12 @@
 		size = 276237
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 866380
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 866380
 	 } 
@@ -8633,102 +8633,102 @@
 #Mysore - Mysore (6098000/1524500 POPS)
 1314 = {
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 2026
 	 } 
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 200
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 8109
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 801
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 55491
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 5488
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1386
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 137
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 6936
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 685
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 13872
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 1372
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 4680
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 462
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 4445
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 439
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 14274
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 1411
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1276072
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 126204
 	 } 
@@ -8736,102 +8736,102 @@
 #Chitaldroog - Chitaldroog (2543000/635750 POPS)
 1315 = {
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 845
 	 } 
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 83
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 3381
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 334
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 23141
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 2288
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 577
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 57
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 2891
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 286
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 5784
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 572
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1951
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 192
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1853
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 183
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 5952
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 588
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 532152
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 52630
 	 } 
@@ -8839,102 +8839,102 @@
 #Mangalore - Mangalore (2229000/557250 POPS)
 1316 = {
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 740
 	 } 
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 73
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 2963
 	 } 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 293
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 20283
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 2006
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 506
 	 } 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 50
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 2535
 	 } 
 	capitalists = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 250
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 5070
 	 } 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 501
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1710
 	 } 
 	clerks = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 169
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 1625
 	 } 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 160
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 5217
 	 } 
 	craftsmen = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 516
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion =  hindu 
 		size = 415732
 	 } 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = secularism
 		size = 41116
 	 } 
@@ -8997,12 +8997,12 @@
 		size = 635808
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  hindu 
 		size = 1257676
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 124385
 	 } 
@@ -9010,112 +9010,112 @@
 #Cochin - Cochin (11566000/2891500 POPS)
 1318 = {
 	officers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 3844
 	 } 
 	officers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 380
 	 } 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 15380
 	 } 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 1521
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 105250
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 10409
 	 } 
 	bureaucrats = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 2630
 	 } 
 	bureaucrats = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 260
 	 } 
 	capitalists = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 13155
 	 } 
 	capitalists = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 1301
 	 } 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 26312
 	 } 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 2602
 	 } 
 	clerks = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 8876
 	 } 
 	clerks = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 877
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 8432
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 833
 	 } 
 	craftsmen = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 27073
 	 } 
 	craftsmen = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 2677
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 446859
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 44194
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  hindu 
 		size = 939737
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 939737
 	 } 
@@ -9128,102 +9128,102 @@
 #Trivandrum - Trivandrum (4398000/1099500 POPS)
 1319 = {
 	officers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 1461
 	 } 
 	officers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 144
 	 } 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 5848
 	 } 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 578
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 40021
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 3958
 	 } 
 	bureaucrats = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 1000
 	 } 
 	bureaucrats = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 98
 	 } 
 	capitalists = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 5002
 	 } 
 	capitalists = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 494
 	 } 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 10005
 	 } 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 989
 	 } 
 	clerks = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 3375
 	 } 
 	clerks = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 333
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 3205
 	 } 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 317
 	 } 
 	craftsmen = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 10294
 	 } 
 	craftsmen = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 1018
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 350018
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 34617
 	 } 
@@ -9233,12 +9233,12 @@
 		size = 406815
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  hindu 
 		size = 200109
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 19791
 	 } 
@@ -9542,12 +9542,12 @@
 		size = 931
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 64277
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 6357
 	 } 
@@ -11782,12 +11782,12 @@
 		size = 117351
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion =  orthodox 
 		size = 53944
 	 } 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = secularism
 		size = 5335
 	 } 
@@ -11895,12 +11895,12 @@
 		size = 11969
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 708025
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 70024
 	 } 
@@ -12139,102 +12139,102 @@
 #Tirap - Tawang (192000/48000 POPS)
 3278 = {
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 63
 	 } 
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 254
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 25
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1747
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 172
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 43
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 4
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 218
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 21
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 436
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 43
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 146
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 14
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 139
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 13
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 448
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 44
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 6984
 	 } 
 	farmers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 690
 	 } 
@@ -12262,92 +12262,92 @@
 #Nagaland - Nagaland (1467000/366750 POPS)
 3279 = {
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 486
 	 } 
 	officers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 48
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1950
 	 } 
 	soldiers = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 192
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 13349
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 1320
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 333
 	 } 
 	bureaucrats = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 32
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1668
 	 } 
 	capitalists = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 164
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 3336
 	 } 
 	clergymen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 330
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1125
 	 } 
 	clerks = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 111
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 1069
 	 } 
 	artisans = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 105
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion =  hindu 
 		size = 3379
 	 } 
 	craftsmen = {
-		culture = assamese
+		culture = tamil
 		religion = secularism
 		size = 334
 	 } 

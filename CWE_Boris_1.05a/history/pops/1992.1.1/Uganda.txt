@@ -1,102 +1,102 @@
 #Entebbe - Entebbe (4737000/1184250 POPS)
 2019 = {
 	officers = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 757
 	 } 
 	officers = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 39
 	 } 
 	soldiers = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 3031
 	 } 
 	soldiers = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 159
 	 } 
 	aristocrats = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 45001
 	 } 
 	aristocrats = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 2368
 	 } 
 	bureaucrats = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 1124
 	 } 
 	bureaucrats = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 59
 	 } 
 	capitalists = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 5624
 	 } 
 	capitalists = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 296
 	 } 
 	clergymen = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 11249
 	 } 
 	clergymen = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 592
 	 } 
 	clerks = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 6604
 	 } 
 	clerks = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 347
 	 } 
 	artisans = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 6273
 	 } 
 	artisans = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 330
 	 } 
 	craftsmen = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 20143
 	 } 
 	craftsmen = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 1060
 	 } 
 	farmers = {
-		culture = ganda
+		culture = african_minor
 		religion =  protestant 
 		size = 597711
 	 } 
 	farmers = {
-		culture = ganda
+		culture = african_minor
 		religion = secularism
 		size = 31458
 	 } 

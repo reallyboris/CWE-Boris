@@ -2188,7 +2188,7 @@
 		size = 105795
 	 } 
 	farmers = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 94588
 	 } 
@@ -2811,8 +2811,8 @@
 		size = 133486
 	 } 
 	farmers = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 90937
 	 } 
 	farmers = {
@@ -2821,7 +2821,7 @@
 		size = 30000
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 204207
 	 } 
@@ -2914,8 +2914,8 @@
 		size = 244676
 	 } 
 	farmers = {
-		culture = zhuang
-		religion = animist 
+		culture = tujia
+		religion =  animist 
 		size = 33000
 	 } 
 	farmers = {
@@ -3007,8 +3007,8 @@
 		size = 31890
 	 } 
 	farmers = {
-		culture = zhuang
-		religion = animist 
+		culture = tujia
+		religion =  animist 
 		size = 200000
 	 } 
 	farmers = {
@@ -3027,8 +3027,8 @@
 		size = 20000
 	 } 
 	farmers = {
-		culture = zhuang
-		religion = animist 
+		culture = tujia
+		religion =  animist 
 		size = 55024
 	 } 
 	farmers = {
@@ -7628,37 +7628,37 @@
 		size = 15
 	 } 
 	soldiers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 1485
 	 } 
 	officers = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 178
 	 } 
 	farmers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 119682
 	 } 
 	clerks = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 17
 	 } 
 	clergymen = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 1229
 	 } 
 	capitalists = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 614
 	 } 
 	bureaucrats = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 123
 	 } 
@@ -7806,72 +7806,72 @@
 		size = 142
 	 } 
 	soldiers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 526
 	 } 
 	officers = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 63
 	 } 
 	farmers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 42433
 	 } 
 	clerks = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 6
 	 } 
 	clergymen = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 436
 	 } 
 	capitalists = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 218
 	 } 
 	bureaucrats = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 44
 	 } 
 	soldiers = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 1289
 	 } 
 	officers = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 154
 	 } 
 	farmers = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 103883
 	 } 
 	clerks = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 15
 	 } 
 	clergymen = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 1067
 	 } 
 	capitalists = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 533
 	 } 
 	bureaucrats = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 107
 	 } 
@@ -7989,72 +7989,72 @@
 		size = 56
 	 } 
 	soldiers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 469
 	 } 
 	officers = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 56
 	 } 
 	farmers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 37819
 	 } 
 	clerks = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 5
 	 } 
 	clergymen = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 388
 	 } 
 	capitalists = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 194
 	 } 
 	bureaucrats = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 39
 	 } 
 	soldiers = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 1955
 	 } 
 	officers = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 234
 	 } 
 	farmers = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 157586
 	 } 
 	clerks = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 22
 	 } 
 	clergymen = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 1618
 	 } 
 	capitalists = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 809
 	 } 
 	bureaucrats = {
-		culture = hani
+		culture = tujia
 		religion =  animist 
 		size = 162
 	 } 
@@ -9203,7 +9203,7 @@
 		size = 20255
 	 } 
 	farmers = {
-		culture = hani
+		culture = tujia
 		religion = animist
 		size = 7626
 	 } 
@@ -9354,107 +9354,107 @@
 #Unalakeet - Zhaotong (1902992/475748 POPS)
 2631 = {
 	soldiers = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 1320
 	 } 
 	officers = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 158
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 106373
 	 } 
 	clerks = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 15
 	 } 
 	clergymen = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 1092
 	 } 
 	capitalists = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 546
 	 } 
 	bureaucrats = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 109
 	 } 
 	soldiers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 668
 	 } 
 	officers = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 80
 	 } 
 	farmers = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 53879
 	 } 
 	clerks = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 8
 	 } 
 	clergymen = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 553
 	 } 
 	capitalists = {
-		culture = yi
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 276
 	 } 
 	bureaucrats = {
-		culture = yi
+		culture = tujia
 		religion =  animist 
 		size = 55
 	 } 
 	soldiers = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 829
 	 } 
 	officers = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 99
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 66807
 	 } 
 	clerks = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 9
 	 } 
 	clergymen = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 686
 	 } 
 	capitalists = {
-		culture = zhuang
-		religion = animist
+		culture = tujia
+		religion =  animist
 		size = 343
 	 } 
 	bureaucrats = {
-		culture = zhuang
+		culture = tujia
 		religion =  animist 
 		size = 68
 	 } 

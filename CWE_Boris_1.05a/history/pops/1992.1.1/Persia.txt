@@ -3789,7 +3789,7 @@
 		size = 11136
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 89100
 	 } 
@@ -3907,7 +3907,7 @@
 		size = 894
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 5587
 	 } 
@@ -3915,42 +3915,42 @@
 #Chabahar - Chabahar (774000/193500 POPS)
 1146 = {
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1957
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 7830
 	 } 
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 7740
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1935
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 4788
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 4548
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 14604
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 148744
 	 } 

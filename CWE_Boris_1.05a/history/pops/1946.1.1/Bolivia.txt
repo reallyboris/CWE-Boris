@@ -31,82 +31,82 @@
 		size = 16
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 6739
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 226
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 179
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 6
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 901
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 30
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1804
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 60
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4471
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 150
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4248
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 142
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 13639
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 458
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 99734
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 3350
 	 } 
@@ -247,102 +247,102 @@
 #Oruro - Oruro (136000/34000 POPS)
 2312 = {
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 114
 	 } 
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 3
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 456
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 15
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1315
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 44
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 32
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 164
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 5
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 328
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 11
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 814
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 27
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 774
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 26
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2486
 	 } 
 	craftsmen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 83
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 23117
 	 } 
 	farmers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 776
 	 } 
@@ -473,82 +473,82 @@
 #Potosi - Potosi (227000/56750 POPS)
 2314 = {
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 189
 	 } 
 	officers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 6
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 761
 	 } 
 	soldiers = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 25
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2196
 	 } 
 	aristocrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 73
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 54
 	 } 
 	bureaucrats = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 273
 	 } 
 	capitalists = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 9
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 548
 	 } 
 	clergymen = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 18
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1360
 	 } 
 	clerks = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 45
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion =  catholic 
 		size = 106
 	 } 
 	artisans = {
-		culture = aimara
+		culture = native_american_minor
 		religion = secularism
 		size = 3
 	 } 

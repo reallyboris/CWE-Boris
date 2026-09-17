@@ -2761,12 +2761,12 @@
 		size = 326743
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 9295
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 13376
 	 } 
@@ -9906,12 +9906,12 @@
 		size = 823
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 190
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 274
 	 } 
@@ -10866,12 +10866,12 @@
 		size = 7635
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 3130
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 4504
 	 } 
@@ -11486,12 +11486,12 @@
 		size = 22410
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 9188
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 13221
 	 } 
@@ -12056,12 +12056,12 @@
 		size = 41982
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 15129
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 21771
 	 } 
@@ -16713,22 +16713,22 @@
 		size = 228
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 1183
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 1703
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 430
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 619
 	 } 
@@ -16939,12 +16939,12 @@
 		size = 23279
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 8388
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 12071
 	 } 

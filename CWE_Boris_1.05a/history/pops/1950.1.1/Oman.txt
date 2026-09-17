@@ -172,7 +172,7 @@
 		size = 6160
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = arab_gulf
 		religion =  sunni 
 		size = 1104
 	 } 

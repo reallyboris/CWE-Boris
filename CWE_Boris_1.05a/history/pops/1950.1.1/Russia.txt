@@ -2339,12 +2339,12 @@
 		size = 48642
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 13017
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2252
 	 } 
@@ -9554,27 +9554,27 @@
 #Nukus - Karakalpakstan (371000/92750 POPS)
 1192 = {
 	soldiers = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1113
 	 } 
 	bureaucrats = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 4266
 	 } 
 	clergymen = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1855
 	 } 
 	craftsmen = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 1173
 	 } 
 	farmers = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 30270
 	 } 
@@ -12482,12 +12482,12 @@
 		size = 315
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 268
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 46
 	 } 
@@ -13221,12 +13221,12 @@
 		size = 5130
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 4373
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 756
 	 } 
@@ -13731,12 +13731,12 @@
 		size = 15090
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 12864
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2225
 	 } 
@@ -14176,12 +14176,12 @@
 		size = 5769
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 21176
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 3663
 	 } 
@@ -25355,32 +25355,32 @@
 		size = 33
 	 } 
 	craftsmen = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 34
 	 } 
 	craftsmen = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 5
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 1606
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 278
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  protestant 
 		size = 596
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 103
 	 } 
@@ -25541,12 +25541,12 @@
 		size = 3191
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion =  orthodox 
 		size = 11713
 	 } 
 	farmers = {
-		culture = komi
+		culture = russian
 		religion = secularism
 		size = 2026
 	 } 

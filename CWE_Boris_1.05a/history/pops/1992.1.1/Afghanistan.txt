@@ -291,47 +291,47 @@
 #Farrah - Nimruz,Helmand,Daykundi (870000/217500 POPS)
 1214 = {
 	officers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1214
 	 } 
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 4858
 	 } 
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 8700
 	 } 
 	capitalists = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1087
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2175
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1876
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1782
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 5722
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 39794
 	 } 
@@ -344,32 +344,32 @@
 #Kandahar - Kandahar (642000/160500 POPS)
 1215 = {
 	soldiers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 3585
 	 } 
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 6420
 	 } 
 	clergymen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1605
 	 } 
 	clerks = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1384
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1315
 	 } 
 	craftsmen = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1488
 	 } 

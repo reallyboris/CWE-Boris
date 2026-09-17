@@ -295,27 +295,27 @@
 #Assab - Assab (210000/52500 POPS)
 1851 = {
 	officers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1478
 	 } 
 	soldiers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 5912
 	 } 
 	aristocrats = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1837
 	 } 
 	craftsmen = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1107
 	 } 
 	farmers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 29908
 	 } 

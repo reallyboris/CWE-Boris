@@ -1,102 +1,102 @@
 #Nairobi - Nairobi, Central (4551000/1137750 POPS)
 2024 = {
 	officers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 388
 	 } 
 	officers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 1553
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 48
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 44144
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 1365
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 2206
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 68
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 5517
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 170
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 11035
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 341
 	 } 
 	clerks = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 9972
 	 } 
 	clerks = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 308
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 9473
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 293
 	 } 
 	craftsmen = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 30417
 	 } 
 	craftsmen = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 940
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 966834
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 29902
 	 } 
@@ -681,12 +681,12 @@
 		size = 48
 	 } 
 	craftsmen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 10646
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 73856
 	 } 
@@ -704,7 +704,7 @@
 #Lamu - Coast (61000/15250 POPS)
 2030 = {
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 13669
 	 } 
@@ -747,7 +747,7 @@
 		size = 78953
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 233997
 	 } 
@@ -755,102 +755,102 @@
 #Garissa - Eastern (3253000/813250 POPS)
 2032 = {
 	officers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 277
 	 } 
 	officers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 8
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 1110
 	 } 
 	soldiers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 34
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 31554
 	 } 
 	aristocrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 975
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 1577
 	 } 
 	bureaucrats = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 48
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 3944
 	 } 
 	capitalists = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 121
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 7888
 	 } 
 	clergymen = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 243
 	 } 
 	clerks = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 7128
 	 } 
 	clerks = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 220
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 6771
 	 } 
 	artisans = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 209
 	 } 
 	craftsmen = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 21742
 	 } 
 	craftsmen = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 672
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african_minor
 		religion =  protestant 
 		size = 67887
 	 } 
 	farmers = {
-		culture = kikuyu
+		culture = african_minor
 		religion = secularism
 		size = 2099
 	 } 
@@ -878,17 +878,17 @@
 #Voi - Coast (171000/42750 POPS)
 2033 = {
 	aristocrats = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1710
 	 } 
 	craftsmen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1178
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 38309
 	 } 

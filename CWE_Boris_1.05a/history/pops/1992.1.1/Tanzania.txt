@@ -1,42 +1,42 @@
 #Dar Es Salaam - Dar Es Salaam (3089000/772250 POPS)
 2036 = {
 	soldiers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 2656
 	 } 
 	aristocrats = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 30890
 	 } 
 	capitalists = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 3861
 	 } 
 	clergymen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 7722
 	 } 
 	clerks = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 7752
 	 } 
 	artisans = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 7364
 	 } 
 	craftsmen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 23644
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 378025
 	 } 
@@ -69,42 +69,42 @@
 #Tanga - Tanga (2084000/521000 POPS)
 2037 = {
 	soldiers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1791
 	 } 
 	aristocrats = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 20840
 	 } 
 	capitalists = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 2605
 	 } 
 	clergymen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 5210
 	 } 
 	clerks = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 5230
 	 } 
 	artisans = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 4968
 	 } 
 	craftsmen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 15951
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 255037
 	 } 
@@ -117,32 +117,32 @@
 #Kilwa - Kilwa (718000/179500 POPS)
 2038 = {
 	aristocrats = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 7180
 	 } 
 	clergymen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1795
 	 } 
 	clerks = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1802
 	 } 
 	artisans = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1711
 	 } 
 	craftsmen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 5496
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 159669
 	 } 
@@ -1122,32 +1122,32 @@
 #Zanzibar - Zanzibar (1303000/325750 POPS)
 2048 = {
 	soldiers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 3909
 	 } 
 	aristocrats = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 13030
 	 } 
 	capitalists = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 1628
 	 } 
 	clergymen = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 3257
 	 } 
 	artisans = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 3073
 	 } 
 	farmers = {
-		culture = swahili
+		culture = black_muslim
 		religion =  sunni 
 		size = 283263
 	 } 

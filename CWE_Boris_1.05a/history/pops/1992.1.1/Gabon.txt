@@ -101,12 +101,12 @@
 		size = 852
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 60864
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 2536
 	 } 
@@ -340,102 +340,102 @@
 #Makokou - Makokou (103000/25750 POPS)
 1976 = {
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 34
 	 } 
 	officers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 1
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 141
 	 } 
 	soldiers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 988
 	 } 
 	aristocrats = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 41
 	 } 
 	bureaucrats = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 48
 	 } 
 	bureaucrats = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 2
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 122
 	 } 
 	capitalists = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 5
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 246
 	 } 
 	clergymen = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 10
 	 } 
 	clerks = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 797
 	 } 
 	clerks = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 33
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 757
 	 } 
 	artisans = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 31
 	 } 
 	craftsmen = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 2433
 	 } 
 	craftsmen = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 101
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion =  catholic 
 		size = 5304
 	 } 
 	farmers = {
-		culture = fang
+		culture = african_minor
 		religion = secularism
 		size = 221
 	 } 

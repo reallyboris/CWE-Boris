@@ -1,37 +1,37 @@
 #Djibuti - Djibuti (499000/124750 POPS)
 1875 = {
 	soldiers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 2590
 	 } 
 	aristocrats = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 4990
 	 } 
 	clergymen = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1247
 	 } 
 	clerks = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 3537
 	 } 
 	artisans = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 3360
 	 } 
 	craftsmen = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 10789
 	 } 
 	farmers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 15755
 	 } 

@@ -161,7 +161,7 @@
 		size = 4002
 	 }
 	farmers = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 9640
 	 } 
@@ -402,17 +402,17 @@
 		size = 284
 	 } 
 	farmers = {
-		culture = zhuang
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 6832
 	 }
 	farmers = {
-		culture = zhuang
-		religion =  catholic 
+		culture = chinese
+		religion =  taoism 
 		size = 3720
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 2854
 	 }
@@ -560,12 +560,12 @@
 		size = 3104
 	 }
 	farmers = {
-		culture = zhuang
-		religion =  catholic
+		culture = chinese
+		religion =  taoism
 		size = 9340
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 17270
 	 }
@@ -668,12 +668,12 @@
 		size = 6338
 	 }
 	farmers = {
-		culture = zhuang
-		religion =  catholic 
+		culture = chinese
+		religion =  taoism 
 		size = 43534
 	 } 
 	farmers = {
-		culture = zhuang
+		culture = chinese
 		religion = secularism
 		size = 15508
 	 }

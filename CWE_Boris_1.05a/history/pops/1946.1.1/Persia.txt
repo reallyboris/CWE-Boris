@@ -340,8 +340,8 @@
 		size = 1073
 	 } 
 	farmers = {
-		culture = turkmen
-		religion =  sunni 
+		culture = persian
+		religion =  secularism 
 		size = 33617
 	 } 
 }
@@ -2506,7 +2506,7 @@
 		size = 1149
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 17749
 	 } 
@@ -2597,17 +2597,17 @@
 #Chabahar - Chabahar (244000/61000 POPS)
 1146 = {
 	aristocrats = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 2440
 	 } 
 	artisans = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 1505
 	 } 
 	farmers = {
-		culture = baluchi
+		culture = pashtun
 		religion =  sunni 
 		size = 49087
 	 } 
@@ -2695,8 +2695,8 @@
 		size = 4665
 	 } 
 	farmers = {
-		culture = turkmen
-		religion =  sunni 
+		culture = persian
+		religion =  secularism 
 		size = 12152
 	 } 
 }

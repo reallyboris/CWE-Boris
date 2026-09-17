@@ -84,7 +84,7 @@
 		size = 44827
 	 } 
 	farmers = {
-		culture = karakalpak
+		culture = kazak
 		religion =  sunni 
 		size = 127155
 	 } 

@@ -1,27 +1,27 @@
 #Niamey - Niamey (469000/117250 POPS)
 1808 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 4690
 	 } 
 	clergymen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1172
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2397
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 88893
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 17587
 	 } 
@@ -29,37 +29,37 @@
 #Say - Say (1245000/311250 POPS)
 1809 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 12450
 	 } 
 	capitalists = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1556
 	 } 
 	clergymen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 3112
 	 } 
 	clerks = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2087
 	 } 
 	artisans = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1982
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 6365
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 282653
 	 } 
@@ -67,37 +67,37 @@
 #Dosso - Dosso (932000/233000 POPS)
 1810 = {
 	aristocrats = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 9320
 	 } 
 	capitalists = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 1165
 	 } 
 	clergymen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2330
 	 } 
 	clerks = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 1562
 	 } 
 	artisans = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 1484
 	 } 
 	craftsmen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 4764
 	 } 
 	farmers = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 211592
 	 } 
@@ -105,37 +105,37 @@
 #Maradi - Maradi (1557000/389250 POPS)
 1811 = {
 	aristocrats = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 15570
 	 } 
 	capitalists = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 1946
 	 } 
 	clergymen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 3892
 	 } 
 	clerks = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2610
 	 } 
 	artisans = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2479
 	 } 
 	craftsmen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 7960
 	 } 
 	farmers = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 353485
 	 } 
@@ -143,12 +143,12 @@
 #Agades - Agades (186000/46500 POPS)
 1812 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1860
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 42231
 	 } 
@@ -191,12 +191,12 @@
 		size = 143969
 	 } 
 	farmers = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 133262
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 68535
 	 } 
@@ -257,52 +257,52 @@
 #Zinder - Zinder (1619000/404750 POPS)
 1815 = {
 	aristocrats = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 16190
 	 } 
 	capitalists = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2023
 	 } 
 	clergymen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 4047
 	 } 
 	clerks = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2713
 	 } 
 	artisans = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 2578
 	 } 
 	craftsmen = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 8277
 	 } 
 	farmers = {
-		culture = hausa
+		culture = black_muslim
 		religion =  sunni 
 		size = 290659
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 44522
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 31732
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 647
 	 } 
@@ -310,27 +310,27 @@
 #Kufe - Kufe (271000/67750 POPS)
 1816 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2710
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1385
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 7329
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 53116
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 1084
 	 } 

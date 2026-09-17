@@ -3746,82 +3746,82 @@
 #Oaxaca - Oaxaca (482000/120500 POPS)
 2177 = {
 	officers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 304
 	 } 
 	officers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 37
 	 } 
 	soldiers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1219
 	 } 
 	soldiers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 150
 	 } 
 	aristocrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4289
 	 } 
 	aristocrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 530
 	 } 
 	bureaucrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 214
 	 } 
 	bureaucrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 26
 	 } 
 	capitalists = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 535
 	 } 
 	capitalists = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 66
 	 } 
 	clergymen = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1072
 	 } 
 	clergymen = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 132
 	 } 
 	artisans = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2958
 	 } 
 	artisans = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 365
 	 } 
 	farmers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 39810
 	 } 
 	farmers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 4920
 	 } 
@@ -3849,82 +3849,82 @@
 #Collataro - Collataro (482000/120500 POPS)
 2178 = {
 	officers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 304
 	 } 
 	officers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 37
 	 } 
 	soldiers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1219
 	 } 
 	soldiers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 150
 	 } 
 	aristocrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4289
 	 } 
 	aristocrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 530
 	 } 
 	bureaucrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 214
 	 } 
 	bureaucrats = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 26
 	 } 
 	capitalists = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 535
 	 } 
 	capitalists = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 66
 	 } 
 	clergymen = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1072
 	 } 
 	clergymen = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 132
 	 } 
 	artisans = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2958
 	 } 
 	artisans = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 365
 	 } 
 	farmers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion =  catholic 
 		size = 43027
 	 } 
 	farmers = {
-		culture = zapotec
+		culture = native_american_minor
 		religion = secularism
 		size = 5318
 	 } 
@@ -4294,82 +4294,82 @@
 #Merida - Merida (496000/124000 POPS)
 2183 = {
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 313
 	 } 
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 38
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1254
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 155
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 4414
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 545
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 220
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 27
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 551
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 68
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1103
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 136
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 3043
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 376
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 49795
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 6154
 	 } 
@@ -4387,82 +4387,82 @@
 #Campeche - Campeche (208000/52000 POPS)
 2184 = {
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 130
 	 } 
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 16
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 525
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 65
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1851
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 228
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 92
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 11
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 231
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 28
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 462
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 57
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1276
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 157
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 9312
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 1151
 	 } 
@@ -4480,82 +4480,82 @@
 #Bacalar - Bacalar (336000/84000 POPS)
 2185 = {
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 211
 	 } 
 	officers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 26
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 849
 	 } 
 	soldiers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 105
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2990
 	 } 
 	aristocrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 369
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 149
 	 } 
 	bureaucrats = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 18
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 373
 	 } 
 	capitalists = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 46
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 747
 	 } 
 	clergymen = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 92
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 2062
 	 } 
 	artisans = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 254
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion =  catholic 
 		size = 11304
 	 } 
 	farmers = {
-		culture = mayan
+		culture = native_american_minor
 		religion = secularism
 		size = 1397
 	 } 

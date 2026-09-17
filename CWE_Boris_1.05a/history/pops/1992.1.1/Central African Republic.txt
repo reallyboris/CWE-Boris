@@ -224,12 +224,12 @@
 		size = 303
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 38253
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 386
 	 } 
@@ -415,12 +415,12 @@
 		size = 254
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion =  protestant 
 		size = 37580
 	 } 
 	farmers = {
-		culture = sara
+		culture = african_minor
 		religion = secularism
 		size = 379
 	 } 

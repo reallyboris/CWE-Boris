@@ -830,47 +830,47 @@
 #Maroua - North, Far North (3265000/816250 POPS)
 1964 = {
 	officers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1636
 	 } 
 	soldiers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 6544
 	 } 
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 32650
 	 } 
 	capitalists = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 4081
 	 } 
 	clergymen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 8162
 	 } 
 	clerks = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 15897
 	 } 
 	artisans = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 15102
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 48485
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 274752
 	 } 

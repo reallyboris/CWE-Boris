@@ -719,27 +719,27 @@
 		size = 109
 	 } 
 	clergymen = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 2342
 	 } 
 	clerks = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1497
 	 } 
 	artisans = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 1422
 	 } 
 	craftsmen = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 4565
 	 } 
 	farmers = {
-		culture = afar
+		culture = black_muslim
 		religion =  sunni 
 		size = 200920
 	 } 

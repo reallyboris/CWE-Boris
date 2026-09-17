@@ -31,32 +31,32 @@
 		size = 81
 	 } 
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 3990
 	 } 
 	clergymen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1507
 	 } 
 	clerks = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2482
 	 } 
 	artisans = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2358
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 7572
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 18875
 	 } 
@@ -74,42 +74,42 @@
 #Gabu - Gabu (392000/98000 POPS)
 1878 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 3920
 	 } 
 	clerks = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1614
 	 } 
 	artisans = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1533
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2492
 	 } 
 	craftsmen = {
-		culture = balanta
+		culture = african_minor
 		religion =  catholic 
 		size = 2332
 	 } 
 	craftsmen = {
-		culture = balanta
+		culture = african_minor
 		religion = secularism
 		size = 97
 	 } 
 	farmers = {
-		culture = balanta
+		culture = african_minor
 		religion =  catholic 
 		size = 80457
 	 } 
 	farmers = {
-		culture = balanta
+		culture = african_minor
 		religion = secularism
 		size = 3352
 	 } 

@@ -121,12 +121,12 @@
 		size = 15517
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion =  catholic 
 		size = 170174
 	 } 
 	farmers = {
-		culture = ewe
+		culture = african_minor
 		religion = secularism
 		size = 10862
 	 } 
@@ -292,7 +292,7 @@
 		size = 5664
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 82600
 	 } 

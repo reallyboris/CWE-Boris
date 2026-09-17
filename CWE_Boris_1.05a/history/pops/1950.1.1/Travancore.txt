@@ -1,115 +1,115 @@
 #Cochin - Cochin (6528000/1632000 POPS)
 1318 = {
     officers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 2296
     }
 
     officers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 52
     }
 
     soldiers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 9188
     }
 
     soldiers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 210
     }
 
     aristocrats = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 45943
     }
 
     aristocrats = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 1056
     }
 
     bureaucrats = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 1148
     }
 
     bureaucrats = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 25
     }
 
     capitalists = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 5742
     }
 
     capitalists = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 131
     }
 
     clergymen = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 11485
     }
 
     clergymen = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 264
     }
 
     artisans = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 12766
     }
 
     artisans = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 293
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 658015
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 15145
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = catholic
         size = 287150
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = catholic
         size = 6609
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = sunni
         size = 95359
     }
@@ -117,115 +117,115 @@
 #Trivandrum - Trivandrum (2482000/620500 POPS)
 1319 = {
     officers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 873
     }
 
     officers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 19
     }
 
     soldiers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 3493
     }
 
     soldiers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 79
     }
 
     aristocrats = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 17467
     }
 
     aristocrats = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 401
     }
 
     bureaucrats = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 436
     }
 
     bureaucrats = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 9
     }
 
     capitalists = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 2183
     }
 
     capitalists = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 49
     }
 
     clergymen = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 4366
     }
 
     clergymen = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 100
     }
 
     artisans = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 4853
     }
 
     artisans = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 111
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = hindu
         size = 53665
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 1234
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = orthodox
         size = 187783
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = secularism
         size = 4322
     }
 
     farmers = {
-        culture = malayalam
+        culture = tamil
         religion = sunni
         size = 156881
     }

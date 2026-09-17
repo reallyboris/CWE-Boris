@@ -31,37 +31,37 @@
 		size = 731
 	 } 
 	aristocrats = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 13986
 	 } 
 	capitalists = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 3272
 	 } 
 	clergymen = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 6545
 	 } 
 	clerks = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 6540
 	 } 
 	artisans = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 6213
 	 } 
 	craftsmen = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 19948
 	 } 
 	farmers = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 584252
 	 } 
@@ -169,7 +169,7 @@
 		size = 13267
 	 } 
 	farmers = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 117645
 	 } 
@@ -177,42 +177,42 @@
 #Dori - Sahel, Centre-Nord (1263000/315750 POPS)
 1903 = {
 	aristocrats = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 12630
 	 } 
 	capitalists = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 1578
 	 } 
 	clergymen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 3157
 	 } 
 	clerks = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 3155
 	 } 
 	artisans = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 2997
 	 } 
 	craftsmen = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 9623
 	 } 
 	farmers = {
-		culture = fula
+		culture = black_muslim
 		religion =  sunni 
 		size = 174509
 	 } 
 	farmers = {
-		culture = mossi
+		culture = black_muslim
 		religion =  sunni 
 		size = 75780
 	 } 
