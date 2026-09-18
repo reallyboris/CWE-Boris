@@ -1523,3 +1523,17 @@ add_country_modifier = { name = protectionism duration = -1 }
 		}
 }
 
+#Unsphere event for economy fix
+country_event = {
+	id = 1124
+	title = "Unsphere"
+	desc = "Some countries used protectionist measures to protect their economy from the rough global markets."
+	picture = "Merchants"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Raise the tariffs!"
+		FROM = { diplomatic_influence = { who = THIS value = -25 } }
+		}
+}

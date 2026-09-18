@@ -108,4 +108,32 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	unsphere_all = {
+		potential = {
+			culture_has_union_tag = yes
+			picture = "nwo2_ENG_austerity_1945"
+			ai = no
+			is_greater_power = yes
+		}
+
+		alert = no
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					in_sphere = THIS
+				}
+				country_event = 1124 
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
 }
