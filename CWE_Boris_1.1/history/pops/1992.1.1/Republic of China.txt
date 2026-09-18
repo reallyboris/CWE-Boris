@@ -528,3 +528,96 @@
 		size = 6827
 	 } 
 }
+#Taichung (5168000/1292000 POPS)
+3381 = {
+	officers = {
+		culture = chinese
+		religion =  taoism 
+		size = 2300
+	 } 
+	officers = {
+		culture = chinese
+		religion = secularism
+		size = 200
+	 } 
+	soldiers = {
+		culture = chinese
+		religion =  taoism 
+		size = 8500
+	 } 
+	soldiers = {
+		culture = chinese
+		religion = secularism
+		size = 1500
+	 } 
+	artisans = {
+		culture = chinese
+		religion =  taoism 
+		size = 38000
+	 } 
+	artisans = {
+		culture = chinese
+		religion = secularism
+		size = 2000
+	 } 
+	bureaucrats = {
+		culture = chinese
+		religion =  taoism 
+		size = 1000
+	 } 
+	bureaucrats = {
+		culture = chinese
+		religion = secularism
+		size = 100
+	 } 
+	capitalists = {
+		culture = chinese
+		religion =  taoism 
+		size = 800
+	 } 
+	capitalists = {
+		culture = chinese
+		religion = secularism
+		size = 100
+	 } 
+	clergymen = {
+		culture = chinese
+		religion =  taoism 
+		size = 8000
+	 } 
+	clergymen = {
+		culture = chinese
+		religion = secularism
+		size = 500
+	 } 
+	artisans = {
+		culture = chinese
+		religion =  taoism 
+		size = 2000
+	 } 
+	artisans = {
+		culture = chinese
+		religion = secularism
+		size = 300
+	 }
+	farmers = {
+		culture = chinese
+		religion =  taoism 
+		size = 200141
+	 } 
+	farmers = {
+		culture = chinese
+		religion = secularism
+		size = 23918
+	 } 
+	farmers = {
+		culture = chinese
+		religion =  taoism 
+		size = 683367
+	 } 
+	farmers = {
+		culture = chinese
+		religion = secularism
+		size = 50252
+	 } 
+}

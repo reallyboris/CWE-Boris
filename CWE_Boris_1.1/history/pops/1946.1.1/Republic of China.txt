@@ -1235,12 +1235,12 @@
 	artisans = {
 		culture = chinese
 		religion =  taoism 
-		size = 5337
+		size = 3337
 	 } 
 	artisans = {
 		culture = chinese
 		religion = secularism
-		size = 626
+		size = 326
 	 } 
 	farmers = {
 		culture = chinese
@@ -1251,27 +1251,7 @@
 		culture = chinese
 		religion = secularism
 		size = 18908
-	 } 
-	farmers = {
-		culture = chinese_hakka
-		religion =  taoism 
-		size = 208141
-	 } 
-	farmers = {
-		culture = chinese_hakka
-		religion = secularism
-		size = 24418
-	 } 
-	farmers = {
-		culture = taiwanese
-		religion =  taoism 
-		size = 705367
-	 } 
-	farmers = {
-		culture = taiwanese
-		religion = secularism
-		size = 82752
-	 } 
+	 }
 }
 #Tingzhou - Longyan, Sanming (2112000/528000 POPS)
 1486 = {
@@ -10706,5 +10686,98 @@
 		culture = chinese_hokkien
 		religion = secularism
 		size = 3414
+	 } 
+}
+#Taichung (5168000/1292000 POPS)
+3381 = {
+	officers = {
+		culture = chinese
+		religion =  taoism 
+		size = 2300
+	 } 
+	officers = {
+		culture = chinese
+		religion = secularism
+		size = 200
+	 } 
+	soldiers = {
+		culture = chinese
+		religion =  taoism 
+		size = 8500
+	 } 
+	soldiers = {
+		culture = chinese
+		religion = secularism
+		size = 1500
+	 } 
+	artisans = {
+		culture = chinese
+		religion =  taoism 
+		size = 38000
+	 } 
+	artisans = {
+		culture = chinese
+		religion = secularism
+		size = 2000
+	 } 
+	bureaucrats = {
+		culture = chinese
+		religion =  taoism 
+		size = 1000
+	 } 
+	bureaucrats = {
+		culture = chinese
+		religion = secularism
+		size = 100
+	 } 
+	capitalists = {
+		culture = chinese
+		religion =  taoism 
+		size = 800
+	 } 
+	capitalists = {
+		culture = chinese
+		religion = secularism
+		size = 100
+	 } 
+	clergymen = {
+		culture = chinese
+		religion =  taoism 
+		size = 8000
+	 } 
+	clergymen = {
+		culture = chinese
+		religion = secularism
+		size = 500
+	 } 
+	artisans = {
+		culture = chinese
+		religion =  taoism 
+		size = 2000
+	 } 
+	artisans = {
+		culture = chinese
+		religion = secularism
+		size = 300
+	 }
+	farmers = {
+		culture = chinese
+		religion =  taoism 
+		size = 200141
+	 } 
+	farmers = {
+		culture = chinese
+		religion = secularism
+		size = 23918
+	 } 
+	farmers = {
+		culture = chinese
+		religion =  taoism 
+		size = 683367
+	 } 
+	farmers = {
+		culture = chinese
+		religion = secularism
+		size = 50252
 	 } 
 }
