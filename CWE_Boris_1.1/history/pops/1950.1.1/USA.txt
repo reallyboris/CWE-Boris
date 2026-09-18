@@ -15420,8 +15420,8 @@
 		size = 3115
 	 } 
 	farmers = {
-		culture = mennonites
-		religion =  mennonite 
+		culture = white_anglo
+		religion =  protestant 
 		size = 31499
 	 } 
 }

@@ -9,7 +9,7 @@
 # 2. Stabilisation - Literacy between 10% to 25%
 # 3. Ageing population - Reduce factory productivity
 
-# Special - haredim_jewish, roma and mennonites and not prim/accept
+# Special - haredim_jewish, roma and mennonites and not prim/accept but NB mennonites removed 
 
 # The Demographic Transition - Population Boom - Reviews every 5 years
 country_event = {
