@@ -14,6 +14,12 @@ local_RGO_output = -0.70
 icon = 24
 }
 
+bank_boom = {
+local_RGO_throughput = 0.50
+local_RGO_output = 0.50
+icon = 24
+}
+
 requested_grant = {
 	icon = 10
 }
@@ -109,6 +115,8 @@ medium_farm = {
 us_immigration_start_fix ={
 global_immigrant_attract = 2
 global_assimilation_rate = 0.5
+RGO_throughput = 0.20
+RGO_output = 0.20
 icon = 13
 }
 

@@ -76,6 +76,7 @@ country_event = {
 		add_country_modifier = { name = us_immigration_start_fix duration = 780 } 
 		add_country_modifier = { name = us_tax_start_fix duration = 3650 } 
 		add_country_modifier = { name = us_exception duration = -1 } 
+		any_owned = { limit = { trade_goods = credit } add_province_modifier = { name = bank_boom duration = 3650 } }
 		any_owned = {
 			limit = { OR = { is_core = USA } }
 			add_province_modifier = { name = government_sanitarium duration = 200 }
@@ -1584,6 +1585,7 @@ country_event = {
 		
 		any_pop = { militancy = -5 consciousness = -1 }
 		add_country_modifier = { name = economic_boom duration = 1700 }
+		any_owned = { limit = { trade_goods = credit } add_province_modifier = { name = bank_boom duration = 1700 } }
 	}
 	
 }
