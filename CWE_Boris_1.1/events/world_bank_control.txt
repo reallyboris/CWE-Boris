@@ -142,7 +142,7 @@ country_event = {
 #Clean up independent LCT tag
 country_event = {
 	id = 9991122
-	title = "The Future of South Trieste"
+	title = "The Fooooooooooooture of South Trieste"
 	desc = EVTDESC1610147
 	picture = "nwo2_free_city_of_trieste"
 
