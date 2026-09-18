@@ -1605,8 +1605,8 @@
 		size = 4908
 	 } 
 	farmers = {
-		culture = chinese
-		religion =  sunni 
+		culture = tibetan
+		religion =  buddhist 
 		size = 35916
 	 } 
 }
@@ -5899,12 +5899,12 @@
 		size = 343
 	 } 
 	farmers = {
-		culture = tibetan
+		culture = mongol
 		religion =  buddhist 
 		size = 7000
 	 } 
 	farmers = {
-		culture = tibetan
+		culture = mongol
 		religion = secularism
 		size = 119
 	 } 
@@ -5919,8 +5919,8 @@
 		size = 346
 	 } 
 	farmers = {
-		culture = chinese
-		religion =  sunni 
+		culture = mongol
+		religion =  buddhist 
 		size = 617
 	 } 
 }
@@ -6017,17 +6017,17 @@
 		size = 1840
 	 } 
 	farmers = {
-		culture = chinese
-		religion =  sunni 
+		culture = tibetan
+		religion =  buddhist 
 		size = 31273
 	 } 
 	farmers = {
-		culture = hani
-		religion =  protestant 
+		culture = tibetan
+		religion =  buddhist 
 		size = 11254
 	 } 
 	farmers = {
-		culture = hani
+		culture = tibetan
 		religion = secularism
 		size = 1840
 	 } 
@@ -6706,12 +6706,12 @@
 		size = 7684
 	 } 
 	farmers = {
-		culture = chinese
+		culture = tibetan
 		religion =  buddhist 
 		size = 7000
 	 } 
 	farmers = {
-		culture = chinese
+		culture = tibetan
 		religion = secularism
 		size = 610
 	 } 
@@ -7048,18 +7048,18 @@
 		size = 272
 	 } 
 	farmers = {
-		culture = chinese
+		culture = tibetan
 		religion =  taoism 
 		size = 8199
 	 } 
 	farmers = {
-		culture = chinese
+		culture = tibetan
 		religion = secularism
 		size = 2114
 	 } 
 	farmers = {
 		culture = tibetan
-		religion =  buddhist 
+		religion =  taoism 
 		size = 74260
 	 } 
 	farmers = {
@@ -7322,37 +7322,37 @@
 		size = 8
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 48
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 6
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 3878
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 40
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 20
 	 } 
 	bureaucrats = {
-		culture = kazak
+		culture = uighur
 		religion =  taoism 
 		size = 4
 	 } 
@@ -7465,32 +7465,32 @@
 		size = 13
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 172
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 21
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 13828
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 2
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 142
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 71
 	 } 
@@ -7608,37 +7608,37 @@
 		size = 15
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1485
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 178
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 119682
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 17
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1229
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 614
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 123
 	 } 
@@ -7751,107 +7751,107 @@
 #Dali - Yunann the rest (6036000/1509000 POPS)
 1602 = {
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1715
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 205
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 138200
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 20
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1419
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 710
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 142
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 526
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 63
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 42433
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 6
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 436
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 218
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 44
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1289
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 154
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 103883
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 15
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1067
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 533
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 107
 	 } 
@@ -7926,7 +7926,7 @@
 		size = 38
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 17631
 	 } 
@@ -7934,107 +7934,107 @@
 #Puer - Yuxi, Puer, Honghe, Wenshan, Xishuangbanna (5842000/1460500 POPS)
 1603 = {
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 682
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 82
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 54941
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 8
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 564
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 282
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 56
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 469
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 56
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 37819
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 5
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 388
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 194
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 39
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1955
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 234
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 157586
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 22
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1618
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion = buddhist
 		size = 809
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 162
 	 } 
@@ -8919,42 +8919,42 @@
 		size = 295
 	 } 
 	clergymen = {
-		culture = hani
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 3775
 	 } 
 	clergymen = {
-		culture = hani
+		culture = chinese
 		religion = secularism
 		size = 442
 	 } 
 	artisans = {
-		culture = hani
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 2904
 	 } 
 	artisans = {
-		culture = hani
+		culture = chinese
 		religion = secularism
 		size = 340
 	 } 
 	farmers = {
-		culture = hani
-		religion =  protestant 
+		culture = chinese
+		religion =  taoism 
 		size = 31071
 	 } 
 	farmers = {
-		culture = hani
+		culture = chinese
 		religion = secularism
 		size = 3645
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = taiwanese
 		religion =  taoism 
 		size = 56626
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = taiwanese
 		religion = secularism
 		size = 6643
 	 } 
@@ -9261,37 +9261,37 @@
 		size = 22
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 37
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 4
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 2975
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 30
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 15
 	 } 
 	bureaucrats = {
-		culture = kazak
+		culture = uighur
 		religion =  taoism 
 		size = 3
 	 } 
@@ -9334,107 +9334,107 @@
 #Unalakeet - Zhaotong (1902992/475748 POPS)
 2631 = {
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1320
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 158
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 106373
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 15
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 1092
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 546
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 109
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 668
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 80
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 53879
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 8
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 553
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 276
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 55
 	 } 
 	soldiers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 829
 	 } 
 	officers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 99
 	 } 
 	farmers = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 66807
 	 } 
 	clerks = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 9
 	 } 
 	clergymen = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 686
 	 } 
 	capitalists = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist
 		size = 343
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = chinese
 		religion =  buddhist 
 		size = 68
 	 } 
@@ -9954,22 +9954,22 @@
 		size = 66570
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = chinese_cantonese
 		religion =  taoism 
 		size = 29434
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = chinese_cantonese
 		religion = secularism
 		size = 483
 	 } 
 	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
+		culture = chinese_cantonese
+		religion =  taoism 
 		size = 1800
 	 } 
 	farmers = {
-		culture = vietnamese
+		culture = chinese_cantonese
 		religion = secularism
 		size = 345
 	 } 

@@ -14282,12 +14282,12 @@
 		size = 735157
 	 } 
 	farmers = {
-		culture = bai
+		culture = yi
 		religion =  taoism 
 		size = 61211
 	 } 
 	farmers = {
-		culture = bai
+		culture = yi
 		religion = secularism
 		size = 278853
 	 } 

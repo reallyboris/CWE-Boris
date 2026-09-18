@@ -440,12 +440,12 @@
 		size = 1762
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 16198
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 1602
 	 } 
@@ -573,12 +573,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = native_american_minor
 		religion = secularism
 		size = 154
 	 } 
@@ -706,12 +706,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 154
 	 } 
@@ -839,12 +839,12 @@
 		size = 77
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 1565
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 154
 	 } 
@@ -1291,12 +1291,12 @@
 		size = 233
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 1178
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 116
 	 } 
@@ -3471,12 +3471,12 @@
 		size = 2872
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 24206
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 2394
 	 } 
@@ -3830,12 +3830,12 @@
 		size = 20458
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 18386
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 1818
 	 } 
@@ -3953,7 +3953,7 @@
 		size = 10325
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 10325
 	 } 
@@ -4076,7 +4076,7 @@
 		size = 11574
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 19505
 	 } 
@@ -4297,12 +4297,12 @@
 		size = 333
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 3367
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 333
 	 } 
@@ -4425,7 +4425,7 @@
 		size = 2765
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 8984
 	 } 
@@ -4543,12 +4543,12 @@
 		size = 333
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 3367
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 333
 	 } 
@@ -9425,22 +9425,22 @@
 		size = 245
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 1444
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 40
 	 } 
 	farmers = {
-		culture = black_spanish
+		culture = mesoamerican_white_spanish
 		religion =  catholic 
 		size = 89
 	 } 
 	farmers = {
-		culture = black_spanish
+		culture = mesoamerican_white_spanish
 		religion = secularism
 		size = 2
 	 } 
@@ -14998,12 +14998,12 @@
 		size = 32801
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribbean_white_spanish
 		religion =  catholic 
 		size = 37788
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = caribbean_white_spanish
 		religion = secularism
 		size = 3737
 	 } 
@@ -16123,12 +16123,12 @@
 	aristocrats = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 25000
+		size = 37000
 	 } 
 	aristocrats = {
 		culture = white_anglo
 		religion = secularism
-		size = 5000
+		size = 15000
 	 } 
 	bureaucrats = {
 		culture = white_anglo
@@ -18203,22 +18203,22 @@
 		size = 79
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = polynesian
 		religion =  catholic 
 		size = 1774
 	 } 
 	farmers = {
-		culture = mestizo
+		culture = polynesian
 		religion = secularism
 		size = 175
 	 } 
 	farmers = {
-		culture = filipino
+		culture = polynesian
 		religion =  catholic 
 		size = 4968
 	 } 
 	farmers = {
-		culture = filipino
+		culture = polynesian
 		religion = secularism
 		size = 491
 	 } 
@@ -22774,12 +22774,12 @@
 	capitalists = {
 		culture = jewish
 		religion =  jewish 
-		size = 4287
+		size = 4800
 	 } 
 	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 423
+		culture = white_anglo
+		religion =  secularism 
+		size = 7200
 	 } 
 	officers = {
 		culture = white_anglo
@@ -22804,12 +22804,12 @@
 	aristocrats = {
 		culture = white_anglo
 		religion =  protestant 
-		size = 17864
+		size = 25864
 	 } 
 	aristocrats = {
 		culture = white_anglo
 		religion = secularism
-		size = 1766
+		size = 5766
 	 } 
 	bureaucrats = {
 		culture = white_anglo
@@ -22878,7 +22878,7 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion = secularism
+		religion = jewish
 		size = 1696
 	 } 
 	farmers = {
@@ -23362,9 +23362,9 @@
 		size = 5000
 	 } 
 	capitalists = {
-		culture = jewish
+		culture = white_anglo
 		religion = secularism
-		size = 500
+		size = 5000
 	 } 
 	officers = {
 		culture = white_anglo
@@ -23463,7 +23463,7 @@
 	 } 
 	farmers = {
 		culture = jewish
-		religion = secularism
+		religion = jewish
 		size = 3600
 	 } 
 	farmers = {
@@ -23489,12 +23489,7 @@
 	farmers = {
 		culture = mestizo
 		religion =  catholic 
-		size = 25000
-	 } 
-	farmers = {
-		culture = mestizo
-		religion = secularism
-		size = 2500
+		size = 27500
 	 } 
 }
 #San Diego - San Diego (2495000/623750 POPS)

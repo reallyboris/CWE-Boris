@@ -89,7 +89,7 @@
 		size = 36019
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 490
 	 }
@@ -167,12 +167,12 @@
 		size = 1211
 	 }  
 	farmers = {
-		culture = albanian
+		culture = bulgarian
 		religion =  sunni 
 		size = 108
 	 } 
 	farmers = {
-		culture = roma
+		culture = bulgarian
 		religion =  sunni 
 		size = 194
 	 }  
@@ -255,49 +255,19 @@
 		size = 560
 	 }
 	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 173
-	 }
-	farmers = {
 		culture = armenian
 		religion =  orthodox
 		size = 1480
 	 }
 	farmers = {
-		culture = georgian
-		religion =  sunni
-		size = 388
-	 }
-	farmers = {
 		culture = kurdish
 		religion =  sunni
-		size = 315
-	 }
-	farmers = {
-		culture = jewish
-		religion = jewish
-		size = 572
-	 }
-	farmers = {
-		culture = kurdish
-		religion =  sunni
-		size = 260
+		size = 1429
 	 }
 	farmers = {
 		culture = greek
 		religion =  orthodox
-		size = 5709
-	 }
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox
-		size = 300
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 289
+		size = 6581
 	 } 
 	artisans = {
 		culture = turkish
@@ -305,75 +275,25 @@
 		size = 30667
 	 }
 	artisans = {
-		culture = greek
-		religion =  sunni 
-		size = 100
-	 }
-	artisans = {
 		culture = armenian
 		religion =  orthodox 
-		size = 3526
+		size = 4526
 	 }
 	artisans = {
 		culture = greek
 		religion =  orthodox 
-		size = 2000
+		size = 6677
 	 }
-	artisans = {
-		culture = jewish
-		religion =  jewish 
-		size = 3500
-	 }
-	artisans = {
-		culture = greek
-		religion =  orthodox
-		size = 177
-	 } 
 	aristocrats = {
 		culture = turkish
 		religion =  sunni 
 		size = 6501
 	 }
 	aristocrats = {
-		culture = armenian
-		religion =  orthodox 
-		size = 1000
-	 }
-	aristocrats = {
 		culture = greek
 		religion =  orthodox 
-		size = 2000
+		size = 3559
 	 }
-	aristocrats = {
-		culture = jewish
-		religion =  jewish 
-		size = 500
-	 }
-	aristocrats = {
-		culture = german
-		religion =  catholic  
-		size = 200
-	 }
-	aristocrats = {
-		culture = german
-		religion = secularism  
-		size = 134
-	 }
-	aristocrats = {
-		culture = french
-		religion = catholic  
-		size = 200
-	 }  
-	aristocrats = {
-		culture = french
-		religion = secularism  
-		size = 325
-	 }
-	aristocrats = {
-		culture = russian
-		religion = orthodox  
-		size = 200
-	 }  
 	capitalists = {
 		culture = turkish
 		religion =  sunni 
@@ -566,27 +486,27 @@
 		size = 75762
 	 } 
 	farmers = {
-		culture = abkhaz
+		culture = kurdish
 		religion =  sunni 
 		size = 861
 	 } 
 	farmers = {
-		culture = albanian
+		culture = kurdish
 		religion =  sunni 
 		size = 318
 	 }
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 1400
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 1745
 	 }
 	farmers = {
-		culture = georgian
+		culture = kurdish
 		religion =  sunni 
 		size = 3521
 	 }
@@ -596,12 +516,12 @@
 		size = 405
 	 }
 	farmers = {
-		culture = georgian
+		culture = kurdish
 		religion =  sunni 
 		size = 1359
 	 }
 	farmers = {
-		culture = roma
+		culture = kurdish
 		religion =  sunni 
 		size = 265
 	 } 
@@ -611,7 +531,7 @@
 		size = 3661
 	 } 
 	artisans = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 150
 	 } 
@@ -651,7 +571,7 @@
 		size = 4981
 	 }
 	soldiers = {
-		culture = georgian
+		culture = kurdish
 		religion =  sunni 
 		size = 185
 	 }
@@ -669,22 +589,22 @@
 		size = 119564
 	 }
 	farmers = {
-		culture = albanian
+		culture = bulgarian
 		religion =  sunni 
 		size = 157
 	 }
 	farmers = {
-		culture = bosniak
+		culture = bulgarian
 		religion =  sunni 
 		size = 433
 	 }
 	farmers = {
-		culture = circassians
+		culture = bulgarian
 		religion =  sunni 
 		size = 868
 	 }
 	farmers = {
-		culture = georgian
+		culture = bulgarian
 		religion =  sunni 
 		size = 1221
 	 } 
@@ -694,7 +614,7 @@
 		size = 118
 	 }
 	farmers = {
-		culture = georgian
+		culture = bulgarian
 		religion =  sunni 
 		size = 224
 	 }
@@ -709,7 +629,7 @@
 		size = 230
 	 }
 	farmers = {
-		culture = tatar
+		culture = bulgarian
 		religion =  sunni 
 		size = 219
 	 } 
@@ -777,17 +697,17 @@
 		size = 102995
 	 }
 	farmers = {
-		culture = bosniak
+		culture = bulgarian
 		religion =  sunni 
 		size = 640
 	 }
 	farmers = {
-		culture = circassians
+		culture = bulgarian
 		religion =  sunni 
 		size = 1112
 	 }
 	farmers = {
-		culture = georgian
+		culture = bulgarian
 		religion =  sunni 
 		size = 1104
 	 } 
@@ -860,12 +780,12 @@
 		size = 46203
 	 }
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 314
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 644
 	 }
@@ -963,7 +883,7 @@
 		size = 72700
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 437
 	 } 
@@ -1016,7 +936,7 @@
 		size = 80923
 	 }
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 152
 	 }  
@@ -1074,7 +994,7 @@
 		size = 42364
 	 }
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 144
 	 }
@@ -1089,7 +1009,7 @@
 		size = 428
 	 }
 	farmers = {
-		culture = tatar
+		culture = kurdish
 		religion =  sunni 
 		size = 2170
 	 } 
@@ -1134,7 +1054,7 @@
 		size = 2918
 	 }
 	soldiers = {
-		culture = tatar
+		culture = kurdish
 		religion =  sunni 
 		size = 115
 	 } 
@@ -1152,17 +1072,12 @@
 		size = 152906
 	 }
 	farmers = {
-		culture = arab_levantine
+		culture = kurdish
 		religion =  sunni 
-		size = 103
+		size = 510
 	 }
 	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 407
-	 }
-	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 732
 	 }
@@ -1172,7 +1087,7 @@
 		size = 307
 	 } 
 	farmers = {
-		culture = bulgarian
+		culture = kurdish
 		religion =  sunni 
 		size = 487
 	 }
@@ -1184,13 +1099,8 @@
 	farmers = {
 		culture = serb
 		religion =  orthodox
-		size = 100
+		size = 310
 	 }
-	farmers = {
-		culture = roma
-		religion =  sunni
-		size = 210
-	 } 
 	artisans = {
 		culture = turkish
 		religion =  sunni 
@@ -1209,18 +1119,8 @@
 	aristocrats = {
 		culture = greek
 		religion =  orthodox 
-		size = 359
+		size = 602
 	 }
-	aristocrats = {
-		culture = french
-		religion =  catholic 
-		size = 123
-	 }
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 120
-	 } 	
 	capitalists = {
 		culture = turkish
 		religion =  sunni 
@@ -1270,7 +1170,7 @@
 		size = 320
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 321
 	 }
@@ -1280,7 +1180,7 @@
 		size = 235
 	 }
 	farmers = {
-		culture = bulgarian
+		culture = greek
 		religion =  orthodox
 		size = 100
 	 }	
@@ -1343,7 +1243,7 @@
 		size = 58851
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 339
 	 }  
@@ -1449,7 +1349,7 @@
 		size = 134991
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 330
 	 }
@@ -1628,7 +1528,7 @@
 		size = 175998
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 261
 	 }
@@ -1638,7 +1538,7 @@
 		size = 8308
 	 }
 	farmers = {
-		culture = tatar
+		culture = kurdish
 		religion =  sunni 
 		size = 1972
 	 }  
@@ -1809,12 +1709,12 @@
 		size = 8071
 	 } 
 	farmers = {
-		culture = abkhaz
+		culture = kurdish
 		religion =  sunni 
 		size = 129
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 3080
 	 }
@@ -1892,17 +1792,17 @@
 		size = 52477
 	 } 
 	farmers = {
-		culture = abkhaz
+		culture = kurdish
 		religion =  sunni 
 		size = 271
 	 } 
 	farmers = {
-		culture = bosniak
+		culture = kurdish
 		religion =  sunni 
 		size = 167
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 1196
 	 }
@@ -2053,12 +1953,12 @@
 		size = 147286
 	 }
 	farmers = {
-		culture = abkhaz
+		culture = kurdish
 		religion =  sunni 
 		size = 906
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 1475
 	 }
@@ -2194,7 +2094,7 @@
 		size = 610
 	 } 
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 1433
 	 }
@@ -2345,7 +2245,7 @@
 		size = 20931
 	 }
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 146
 	 }
@@ -2705,7 +2605,7 @@
 		size = 20492
 	 }
 	farmers = {
-		culture = arab_levantine
+		culture = kurdish
 		religion =  sunni 
 		size = 156
 	 } 
@@ -2783,7 +2683,7 @@
 		size = 2840
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = turkish
 		religion =  sunni 
 		size = 690
 	 }
@@ -2793,7 +2693,7 @@
 		size = 251
 	 } 
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 254
 	 } 
@@ -2851,7 +2751,7 @@
 		size = 3925
 	 }
 	farmers = {
-		culture = arab_levantine
+		culture = kurdish
 		religion =  sunni 
 		size = 5521
 	 } 
@@ -2909,12 +2809,12 @@
 		size = 20359
 	 }
 	farmers = {
-		culture = arab_levantine
+		culture = turkish
 		religion =  sunni 
 		size = 13552
 	 }
 	farmers = {
-		culture = assyrian
+		culture = armenian
 		religion = orthodox
 		size = 1772
 	 }  
@@ -2944,7 +2844,7 @@
 		size = 200
 	 }
 	aristocrats = {
-		culture = arab_levantine
+		culture = turkish
 		religion =  sunni 
 		size = 100
 	 }  
@@ -2997,17 +2897,17 @@
 		size = 2631
 	 } 
 	farmers = {
-		culture = albanian
+		culture = turkish
 		religion =  sunni 
 		size = 191
 	 }
 	farmers = {
-		culture = bosniak
+		culture = turkish
 		religion =  sunni 
 		size = 108
 	 }
 	farmers = {
-		culture = circassians
+		culture = turkish
 		religion =  sunni 
 		size = 370
 	 }
@@ -3022,7 +2922,7 @@
 		size = 5506
 	 }
 	artisans = {
-		culture = arab_levantine
+		culture = turkish
 		religion =  sunni 
 		size = 300
 	 }  
@@ -3080,7 +2980,7 @@
 		size = 5650
 	 } 
 	farmers = {
-		culture = abkhaz
+		culture = kurdish
 		religion =  sunni 
 		size = 1475
 	 }
@@ -3100,8 +3000,8 @@
 		size = 3207
 	 }
 	artisans = {
-		culture = greek
-		religion =  orthodox 
+		culture = turkish
+		religion =  sunni 
 		size = 134
 	 } 
 	aristocrats = {
@@ -3158,7 +3058,7 @@
 		size = 13703
 	 } 
 	farmers = {
-		culture = circassians
+		culture = kurdish
 		religion =  sunni 
 		size = 685
 	 }  
@@ -3304,12 +3204,12 @@
 		size = 25434
 	 }
 	farmers = {
-		culture = arab_levantine
+		culture = kurdish
 		religion =  sunni 
 		size = 8666
 	 }
 	farmers = {
-		culture = albanian
+		culture = kurdish
 		religion =  sunni 
 		size = 105
 	 }   

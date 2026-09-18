@@ -6037,17 +6037,17 @@
 		size = 1840
 	 } 
 	farmers = {
-		culture = chinese
-		religion =  sunni 
+		culture = tibetan
+		religion =  buddhist 
 		size = 31273
 	 } 
 	farmers = {
-		culture = hani
-		religion =  protestant 
+		culture = tibetan
+		religion =  buddhist 
 		size = 11254
 	 } 
 	farmers = {
-		culture = hani
+		culture = tibetan
 		religion = secularism
 		size = 1840
 	 } 
@@ -7342,37 +7342,37 @@
 		size = 8
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 48
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 6
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 3878
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 40
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 20
 	 } 
 	bureaucrats = {
-		culture = kazak
+		culture = uighur
 		religion =  taoism 
 		size = 4
 	 } 
@@ -7485,32 +7485,32 @@
 		size = 13
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 172
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 21
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 13828
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 2
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 142
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 71
 	 } 
@@ -7771,37 +7771,37 @@
 #Dali - Yunann the rest (6036000/1509000 POPS)
 1602 = {
 	soldiers = {
-		culture = bai
+		culture = tibetan
 		religion =  buddhist 
 		size = 1715
 	 } 
 	officers = {
-		culture = bai
+		culture = tibetan
 		religion = buddhist
 		size = 205
 	 } 
 	farmers = {
-		culture = bai
+		culture = tibetan
 		religion =  buddhist 
 		size = 138200
 	 } 
 	clerks = {
-		culture = bai
+		culture = tibetan
 		religion = buddhist
 		size = 20
 	 } 
 	clergymen = {
-		culture = bai
+		culture = tibetan
 		religion =  buddhist 
 		size = 1419
 	 } 
 	capitalists = {
-		culture = bai
+		culture = tibetan
 		religion = buddhist
 		size = 710
 	 } 
 	bureaucrats = {
-		culture = bai
+		culture = tibetan
 		religion =  buddhist 
 		size = 142
 	 } 
@@ -8939,42 +8939,42 @@
 		size = 295
 	 } 
 	clergymen = {
-		culture = hani
-		religion =  protestant 
+		culture = taiwanese
+		religion =  taoism 
 		size = 3775
 	 } 
 	clergymen = {
-		culture = hani
+		culture = taiwanese
 		religion = secularism
 		size = 442
 	 } 
 	artisans = {
-		culture = hani
-		religion =  protestant 
+		culture = taiwanese
+		religion =  taoism 
 		size = 2904
 	 } 
 	artisans = {
-		culture = hani
+		culture = taiwanese
 		religion = secularism
 		size = 340
 	 } 
 	farmers = {
-		culture = hani
-		religion =  protestant 
+		culture = taiwanese
+		religion =  taoism 
 		size = 31071
 	 } 
 	farmers = {
-		culture = hani
+		culture = taiwanese
 		religion = secularism
 		size = 3645
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = taiwanese
 		religion =  taoism 
 		size = 56626
 	 } 
 	farmers = {
-		culture = chinese_hakka
+		culture = taiwanese
 		religion = secularism
 		size = 6643
 	 } 
@@ -9281,37 +9281,37 @@
 		size = 22
 	 }
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 37
 	 } 
 	officers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 4
 	 } 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 2975
 	 } 
 	clerks = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 1
 	 } 
 	clergymen = {
-		culture = kazak
+		culture = uighur
 		religion =  sunni 
 		size = 30
 	 } 
 	capitalists = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 15
 	 } 
 	bureaucrats = {
-		culture = kazak
+		culture = uighur
 		religion =  taoism 
 		size = 3
 	 } 
